@@ -1,5 +1,9 @@
 ## Конституция РФ
 
+[![License](https://img.shields.io/badge/license-WTFPL-lightgrey.svg)](https://github.com/Pontorez/const/blob/master/LICENSE)
+[![Putler Kaput!](https://img.shields.io/badge/putin-hyulo-blue.svg)](http://deputivator.ru/)
+[![КаРФаген](https://img.shields.io/badge/%D0%BA%D0%B0%D0%A0%D0%A4%D0%B0%D0%B3%D0%B5%D0%BD-%D0%B4%D0%BE%D0%BB%D0%B6%D0%B5%D0%BD%D0%91%D1%8B%D1%82%D1%8C%D0%A0%D0%B0%D0%B7%D1%80%D1%83%D1%88%D0%B5%D0%BD-red.svg)](https://plus.google.com/communities/105380391317425919200)
+
 ### Статья 1
 
 #### 1. Российская Федерация — Россия есть демократическое федеративное правовое государство с республиканской формой правления.
