@@ -2,7 +2,7 @@
 
 [![License](https://img.shields.io/badge/license-WTFPL-lightgrey.svg)](https://github.com/Pontorez/const/blob/master/LICENSE)
 [![Putler Kaput!](https://img.shields.io/badge/putin-hyulo-blue.svg)](http://deputivator.ru/)
-[![КаРФаген](https://img.shields.io/badge/%D0%BA%D0%B0%D0%A0%D0%A4%D0%B0%D0%B3%D0%B5%D0%BD-%D0%B4%D0%BE%D0%BB%D0%B6%D0%B5%D0%BD%D0%91%D1%8B%D1%82%D1%8C%D0%A0%D0%B0%D0%B7%D1%80%D1%83%D1%88%D0%B5%D0%BD-red.svg)](https://plus.google.com/communities/105380391317425919200)
+[![КаРФаген](https://img.shields.io/badge/каРФаген-долженБытьРазрушен-red.svg)](https://plus.google.com/communities/105380391317425919200)
 
 ### Статья 1
 
@@ -62,6 +62,7 @@
 
 #### 1. Земля и другие природные ресурсы используются и охраняются в Российской Федерации как основа жизни и деятельности народов, проживающих на соответствующей территории.
 * [Сибиряки потребовали от Москвы прекратить воровать их газ](http://www.kavkazcenter.com/russ/content/2009/01/22/63531/sibiryaki-potrebovali-ot-moskvy-prekratit-vorovat-ikh-gaz.shtml)
+* [Летом 2015 года парк Торфянка стал ареной противостояния, вызванного строительством православного храма](https://ru.wikipedia.org/wiki/Торфянка_(парк))
 
 #### 2. Земля и другие природные ресурсы могут находиться в частной, государственной, муниципальной и иных формах собственности.
 * [В Крыму разрешили принудительно изымать частную собственность](http://top.rbc.ru/economics/10/07/2014/935550.shtml)
@@ -119,7 +120,7 @@
 * [Публицисту был назначен срок в 7 лет лишения свободы в колонии строгого режима](http://www.kasparov.ru/material.php?id=55B09C936E79D)
 
 #### 5. Гарантируется свобода массовой информации. Цензура запрещается.
-* [96% сайтов в Рунете блокируются незаконно](http://www.towave.ru/news/96-saitov-v-runete-blokiruyutsya-nezakonno.html)
+* [96 % сайтов в Рунете блокируются незаконно](http://www.towave.ru/news/96-saitov-v-runete-blokiruyutsya-nezakonno.html)
 
 <!-- ####################################################################### -->
 
