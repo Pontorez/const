@@ -4,6 +4,8 @@
 [![Putler Kaput!](https://img.shields.io/badge/putin-hyulo-blue.svg)](http://deputivator.ru/)
 [![КаРФаген](https://img.shields.io/badge/каРФаген-долженБытьРазрушен-red.svg)](https://plus.google.com/communities/105380391317425919200)
 
+[![Putler](https://raw.githubusercontent.com/Pontorez/const/master/putler.jpg)](http://pontorez.com/)
+
 ### Статья 1
 
 #### 1. Российская Федерация — Россия есть демократическое федеративное правовое государство с республиканской формой правления.
