@@ -50,10 +50,11 @@
 ### Статья 7
 
 #### 1. Российская Федерация — социальное государство, политика которого направлена на создание условий, обеспечивающих достойную жизнь и свободное развитие человека.
-* [Русские ученые предложили рабам Путина питаться дождевыми червями](http://www.kavkazcenter.com/russ/content/2015/07/28/109763.shtml)
-* [Медведев советует россиянам потуже затянуть пояса](http://ru.tsn.ua/video/video-novini/medvedev-sovetuet-rossiyanam-potuzhe-zatyanut-poyasa.html)
-* [Миллионы россиян оказались за чертой бедности](http://24tv.ua/ru/mezhdunarodnye_novosti/milliony_rossijan_okazalis_za_chertoj_bednosti/n592364)
-* [Медведев подарил стране новый предвыборный лозунг — «Денег нет, но вы держитесь»](http://www.ng.ru/week/2016-05-29/8_economics.html)
+* [Русские ученые предложили рабам Путина питаться дождевыми червями (Jul 2015)](http://www.kavkazcenter.com/russ/content/2015/07/28/109763.shtml)
+* [Медведев (Мендель) советует россиянам потуже затянуть пояса (Dec 2014)](http://ru.tsn.ua/video/video-novini/medvedev-sovetuet-rossiyanam-potuzhe-zatyanut-poyasa.html)
+* [Миллионы россиян оказались за чертой бедности (Jul 2015)](http://24tv.ua/ru/mezhdunarodnye_novosti/milliony_rossijan_okazalis_za_chertoj_bednosti/n592364)
+* [Медведев (Мендель) подарил стране новый предвыборный лозунг — «Денег нет, но вы держитесь» (May 2016)](http://www.ng.ru/week/2016-05-29/8_economics.html)
+* [Топилин: накопительную пенсию пока не включили в проект бюджета (Jul 2016)](http://ria.ru/society/20160715/1466660423.html)
 
 <!-- ####################################################################### -->
 
