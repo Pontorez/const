@@ -255,6 +255,9 @@
 
 ### Статья 32
 
+#### 3. Не имеют права избирать и быть избранными граждане, признанные судом недееспособными, а также содержащиеся в местах лишения свободы по приговору суда.
+* [В иркутской тюрьме 103 % зеков проголосовали за политику Путина](http://www.kavkazcenter.com/russ/content/2015/09/13/110190/russkie-vybory--v-irkutskoj-tyurme-103-zekov-progolosovali-za-politiku-putina.shtml)
+
 #### 4. Граждане Российской Федерации имеют равный доступ к государственной службе.
 * [На вакантные должности госслужащих, как правило, назначаются «свои люди»](https://versia.ru/pochemu-popast-na-xoroshuyu-dolzhnost-po-prezhnemu-mozhno-lish-po-protekcii-ili-za-u--e)
 
