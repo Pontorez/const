@@ -252,6 +252,7 @@
 * [За год существования движения «Стратегии-31» ни один из митингов на Триумфальной площади не&#160;был «санкционирован» властями](https://ru.wikipedia.org/wiki/Стратегия-31)
 * [Власти Москвы запретили гей-парад одиннадцатый год подряд (May 2016)](http://www.gayrussia.eu/russia/12933/)
 * [Московские власти передумали разрешать оппозиции митинг против «пакета Яровой» (Jul 2016)](http://bun.com.ua/2016/07/22/moskovskie-vlasti-peredumali-razreshat-oppozicii-miting.html)
+* [В «гайд-парке» на Марсовом поле были задержаны участники ЛГБТ-инициативной группы «Выход» (Aug 2016)](https://ovdinfo.org/stories/2016/08/03/nesluchivshiysya-raduzhnyy-fleshmob)
 * [В Краснодаре запрещают уличную агитацию ПАРНАС (Aug 2016)](http://golos-kubani.ru/v-krasnodare-zapreshhayut-ulichnuyu-agitaciyu-parnas/)
 * [На Красной площади задержали участников акции в память о демонстрации 1968 года (Aug 2016)](https://ovdinfo.org/express-news/2016/08/25/na-krasnoy-ploshchadi-zaderzhali-uchastnikov-akcii-v-pamyat-o-demonstracii)
 
