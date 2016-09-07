@@ -256,6 +256,7 @@
 * [В «гайд-парке» на Марсовом поле были задержаны участники ЛГБТ-инициативной группы «Выход» (Aug 2016)](https://ovdinfo.org/stories/2016/08/03/nesluchivshiysya-raduzhnyy-fleshmob)
 * [В Краснодаре запрещают уличную агитацию ПАРНАС (Aug 2016)](http://golos-kubani.ru/v-krasnodare-zapreshhayut-ulichnuyu-agitaciyu-parnas/)
 * [На Красной площади задержали участников акции в память о демонстрации 1968 года (Aug 2016)](https://ovdinfo.org/express-news/2016/08/25/na-krasnoy-ploshchadi-zaderzhali-uchastnikov-akcii-v-pamyat-o-demonstracii)
+* [В Бурятии задержаны пикетчики, встречавшие Медведева с плакатами "Денег нет. Держимся" (Sep 2016)](http://www.newsru.com/russia/07sep2016/piketmedvedev.html)
 
 <!-- ####################################################################### -->
 
