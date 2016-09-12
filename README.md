@@ -258,6 +258,7 @@
 * [В Краснодаре запрещают уличную агитацию ПАРНАС (Aug 2016)](http://golos-kubani.ru/v-krasnodare-zapreshhayut-ulichnuyu-agitaciyu-parnas/)
 * [На Красной площади задержали участников акции в память о демонстрации 1968 года (Aug 2016)](https://ovdinfo.org/express-news/2016/08/25/na-krasnoy-ploshchadi-zaderzhali-uchastnikov-akcii-v-pamyat-o-demonstracii)
 * [В Бурятии задержаны пикетчики, встречавшие Медведева с плакатами "Денег нет. Держимся" (Sep 2016)](http://www.newsru.com/russia/07sep2016/piketmedvedev.html)
+* [В Москве у здания Госдумы задержаны активисты за чтение Конституции России (Sep 2016)](https://ovdinfo.org/express-news/2016/09/12/v-moskve-za-chtenie-konstitucii-rossii-zaderzhany-aktivisty)
 
 <!-- ####################################################################### -->
 
