@@ -169,6 +169,7 @@
 * [В России будут 3 года хранить всю интернет-переписку (Apr 2016)](http://by24.org/2016/04/23/all_online_correspondence_in_russia_will_be_stored_during_3_years/)
 * [Главарь ФСБ призвал «решить проблему» анонимности интернета (Jul 2016)](http://www.rbc.ru/rbcfreenews/5798765a9a7947a83cea1da8)
 * [Банда «ФСБ» опубликовала приказ о порядке сбора ключей шифрования в интернете (Aug 2016)](https://meduza.io/news/2016/08/14/fsb-opublikovala-prikaz-o-poryadke-sbora-klyuchey-shifrovaniya-v-internete)
+* [Органы власти обсуждают вопрос расшифровки и анализа всего интернет-трафика в России (Sep 2016)](http://www.interfax.ru/russia/529893)
 
 <!-- ####################################################################### -->
 
