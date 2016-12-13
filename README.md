@@ -3,6 +3,7 @@
 [![License](https://img.shields.io/badge/license-WTFPL-lightgrey.svg)](https://github.com/Pontorez/const/blob/master/LICENSE)
 [![Putler Kaput!](https://img.shields.io/badge/putin-hyulo-blue.svg)](http://deputivator.ru/)
 [![КаРФаген](https://img.shields.io/badge/каРФаген-долженБытьРазрушен-red.svg)](https://plus.google.com/communities/105380391317425919200)
+[![ARTPODGOTOVKA](https://img.shields.io/badge/Мальцев-Артподготовка-red.svg)](https://www.youtube.com/user/artpodgotovka/videos)
 
 [![Putler](https://raw.githubusercontent.com/Pontorez/const/master/hitler.jpg)](http://pontorez.com/)
 
@@ -194,6 +195,7 @@
 
 #### Жилище неприкосновенно.
 * [Законопроект, уточняющий правила внесудебного проникновения полицейских в жилище (Jan 2013)](https://rg.ru/2013/01/22/polizia.html)
+* [Путлер создал банду в 400 тыс. стволов, которой разрешено задерживать гражданина без ненужной бумажной волокиты и входить без ордера к гражданину в дом (Apr 2014)](https://newtimes.ru/stati/temyi/f37d4a1bddfc724c540001c03a0ae0d2-paranoiya.html)
 
 <!-- ####################################################################### -->
 
