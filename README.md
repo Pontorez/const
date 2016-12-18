@@ -297,6 +297,7 @@
 * [В Бурятии задержаны пикетчики, встречавшие Медведева (Менделя) с плакатами «Денег нет. Держимся» (Sep&#160;2016)](http://www.newsru.com/russia/07sep2016/piketmedvedev.html)
 * [В Москве у здания Госдумы задержаны активисты за чтение Конституции России (Sep 2016)](https://ovdinfo.org/express-news/2016/09/12/v-moskve-za-chtenie-konstitucii-rossii-zaderzhany-aktivisty)
 * [«Судья» Орехова оштрафовала Ирину Яценко за участие в акции в память о «демонстрации семерых» 1968 г. против ввода советских войск в Чехословакию (Oct 2016)](https://ovdinfo.org/express-news/2016/10/20/sud-oshtrafoval-uchastnic-akcii-v-pamyat-o-demonstracii-1968-goda-na-15)
+* [Сотрудники правоохранительных органов задержали троих человек в ходе схода граждан возле ВДНХ (Dec 2016)](https://5112017.org/news/organizatoryi-akczii-na-severo-vostoke-moskvyi-soobshhili-o-trex-zaderzhannyix.html)
 
 <!-- ####################################################################### -->
 
