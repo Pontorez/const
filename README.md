@@ -288,6 +288,7 @@
 * [Роскомпозор полностью «заблокировал» доступ к YouPorn и PornHub (Sep 2016)](http://newsru.com/russia/14sep2016/rskmndzr.html)
 * [Суд обязал «Ведомости» удалить материал о доме Сечина в Барвихе и уничтожить тираж номера (Sep 2016)](http://www.newsru.com/russia/16sep2016/sechin.html)
 * [Роскомнадзор внёс сайт «Дети-404» в список запрещённых (Oct 2016)](http://www.newsru.com/russia/11oct2016/deti.html)
+* [Пермская прокуратура начала проверку против театра из-за "лесбийских сцен" (Oct 2016)](http://newsru.com/cinema/24oct2016/teatrteatr.html)
 * [В России заблокирован сайт LinkedIn (Nov 2016)](http://offshoreview.eu/2016/11/18/v-rossii-zablokirovan-sayt-linkedin/)
 * [В Орле изъяли из типографии тираж газеты с критикой губернатора (Dec 2016)](http://www.newizv.ru/society/2016-12-23/250460-v-orle-izjali-iz-tipografii-tirazh-gazety-s-kritikoj-gubernatora-potomskogo.html)
 
