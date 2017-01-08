@@ -268,6 +268,7 @@
 * [В Чувашии пенсионера осудили по «экстремистской» статье за перепост в соцсети (Oct 2016, Николай Егоров)](http://www.newsru.com/russia/14oct2016/egorov.html)
 * [Шуйского художника оштрафовали за репост фото в 2014 году (Oct 2016, Сергей Постнов)](http://www.kasparov.ru/material.php?id=5807AA111CAB3)
 * [Москвича приговорили к году колонии за картинку с Марцинкевичем и Пушкиным (Nov 2016, Евгений Корт)](http://www.newsru.com/russia/03nov2016/pushkin.html)
+* [Оппозиционер вызван в полицию за репост фото Милонова в футболке с экстремистской надписью (Nov 2016, Дмитрий Семенов)](http://newsru.com/russia/09nov2016/repost.html)
 * [Тюменского блогера приговорили к двум годам реального срока за пост в ЖЖ (Dec 2016, Алексей Кунгуров)](https://www.znak.com/2016-12-20/tyumenskogo_blogera_kungurova_prigovorili_k_dvum_godam_realnogo_sroka_za_post_v_zhzh)
 * [Воспитательница детского сада отправлена в колонию за репост видео (Dec 2016, Евгения Чудновец)](https://otr-online.ru/news/vospitatelnitsa-detskogo-sada-75626.html)
 
