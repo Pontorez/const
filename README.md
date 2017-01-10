@@ -310,6 +310,7 @@
 #### Граждане Российской Федерации имеют право собираться мирно без оружия, проводить собрания, митинги и демонстрации, шествия и пикетирование.
 * [За год существования движения «Стратегии-31» ни один из митингов на Триумфальной площади не&#160;был «санкционирован» властями](https://ru.wikipedia.org/wiki/Стратегия-31)
 * [Власти Москвы запретили гей-парад одиннадцатый год подряд (May 2016)](http://www.gayrussia.eu/russia/12933/)
+* [Путинской банде «нацгвардия» разрешили расстреливать «большие скопления людей» (Jun 2016)](http://www.kavkazcenter.com/russ/content/2016/06/21/112537/putinskoj-bande-natsgvardiya-razreshili-rasstrelivat-bolshie-skopleniya-lyudej.shtml)
 * [Московские власти передумали разрешать оппозиции митинг против «пакета Яровой» (Jul 2016)](http://bun.com.ua/2016/07/22/moskovskie-vlasti-peredumali-razreshat-oppozicii-miting.html)
 * [В «гайд-парке» на Марсовом поле были задержаны участники ЛГБТ-инициативной группы «Выход» (Aug 2016)](https://ovdinfo.org/stories/2016/08/03/nesluchivshiysya-raduzhnyy-fleshmob)
 * [В Краснодаре запрещают уличную агитацию ПАРНАС (Aug 2016)](http://golos-kubani.ru/v-krasnodare-zapreshhayut-ulichnuyu-agitaciyu-parnas/)
