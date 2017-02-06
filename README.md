@@ -287,6 +287,7 @@
 * [Тюменского блогера приговорили к двум годам реального срока за пост в ЖЖ (Dec 2016, Алексей Кунгуров)](https://www.znak.com/2016-12-20/tyumenskogo_blogera_kungurova_prigovorili_k_dvum_godam_realnogo_sroka_za_post_v_zhzh)
 * [Краснодарскую активистку отправили в колонию-поселение на три года за идею «федерализации Кубани» (Dec&#160;2016, Дарья&#160;Полюдова)](https://www.newsru.com/russia/21dec2015/poludova.html)
 * [Воспитательница детского сада отправлена в колонию за репост видео (Dec 2016, Евгения Чудновец)](https://otr-online.ru/news/vospitatelnitsa-detskogo-sada-75626.html)
+* [282-я статья за репост новостной статьи на народе.ру (Jan 2017, Александр Подорожный)](http://ru-podorojniy.livejournal.com/35138.html)
 * [В Ставропольском крае школьницу оштрафовали на 50 тысяч рублей за комментарий к видео (Jan 2017)](https://www.newsru.com/russia/17jan2017/wrongislam.html)
 * [Бывший полпред президента в Сахалинской области задержан по подозрению в т.н. «экстремизме» (Jan 2017)](https://www.newsru.com/russia/30jan2017/guliy.html)
 
