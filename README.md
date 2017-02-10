@@ -341,6 +341,7 @@
 * [Сотрудники «правоохранительных» органов задержали троих человек в ходе схода граждан возле ВДНХ (Dec&#160;2016)](https://5112017.org/news/organizatoryi-akczii-na-severo-vostoke-moskvyi-soobshhili-o-trex-zaderzhannyix.html)
 * [В Санкт-Петербурге задержаны участники схода у Конституционного суда (Dec&#160;2016)](https://ovdinfo.org/express-news/2016/12/12/v-sankt-peterburge-zaderzhany-uchastniki-shoda-u-konstitucionnogo-suda)
 * [В Москве на сходе в поддержку политзаключенных задержали десятки человек (Jan 2017)](https://5112017.org/news/zaderzhanyi-uchastniki-narodnogo-sxoda-v-moskve.html)
+* [Мэрия без внятных оснований запретила митинг против вывода семейных побоев из УК (Jan 2017)](http://newsmsk.com/article/23jan2017/decrim_miting.html)
 
 <!-- ####################################################################### -->
 
