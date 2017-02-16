@@ -316,6 +316,7 @@
 * [Роскомнадзор внёс сайт «Дети-404» в список запрещённых (Oct 2016)](https://www.newsru.com/russia/11oct2016/deti.html)
 * [Пермская прокуратура начала проверку против театра из-за "лесбийских сцен" (Oct 2016)](http://newsru.com/cinema/24oct2016/teatrteatr.html)
 * [В России заблокирован сайт LinkedIn (Nov 2016)](http://offshoreview.eu/2016/11/18/v-rossii-zablokirovan-sayt-linkedin/)
+* Паблик «[Рашка — Квадратный Ватник](https://vk.com/public_rushka)» [заблокирован судом за изображения с Путиным в нацистской форме (Nov 2016)](https://openrussia.org/notes/701409/)
 * [В Орле изъяли из типографии тираж газеты с критикой губернатора (Dec 2016)](http://www.newizv.ru/society/2016-12-23/250460-v-orle-izjali-iz-tipografii-tirazh-gazety-s-kritikoj-gubernatora-potomskogo.html)
 
 <!-- ####################################################################### -->
