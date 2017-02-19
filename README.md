@@ -347,6 +347,7 @@
 * [В Санкт-Петербурге задержаны участники схода у Конституционного суда (Dec&#160;2016)](https://ovdinfo.org/express-news/2016/12/12/v-sankt-peterburge-zaderzhany-uchastniki-shoda-u-konstitucionnogo-suda)
 * [В Москве на сходе в поддержку политзаключенных задержали десятки человек (Jan 2017)](https://5112017.org/news/zaderzhanyi-uchastniki-narodnogo-sxoda-v-moskve.html)
 * [Мэрия без внятных оснований запретила митинг против вывода семейных побоев из УК (Jan 2017)](http://newsmsk.com/article/23jan2017/decrim_miting.html)
+* [Оппозиционный активист арестован на 10 суток (Feb 2017, Марк Гальперин)](https://www.newsru.com/russia/09feb2017/galperin.html)
 * [В Москве на «прогулке оппозиции» задержали до 50 человек (Feb 2017)](https://beztabu.net/v-moskve-na-akcii-protesta-oppozicii-zaderzhali-okolo-50-chelovek_n14345)
 
 <!-- ####################################################################### -->
