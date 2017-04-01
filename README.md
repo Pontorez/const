@@ -5,7 +5,7 @@
 [![КаРФаген](https://img.shields.io/badge/каРФаген-долженБытьРазрушен-red.svg)](https://plus.google.com/communities/105380391317425919200)
 [![ARTPODGOTOVKA](https://img.shields.io/badge/Мальцев-Артподготовка-red.svg)](https://www.youtube.com/user/artpodgotovka/videos)
 
-[![Putler](https://raw.githubusercontent.com/Pontorez/const/master/hitler.jpg)](https://pontorez.com/)
+[![Putler](https://raw.githubusercontent.com/Pontorez/const/master/img/hitler.jpg)](https://pontorez.com/)
 
 ### Статья 1
 
@@ -57,6 +57,7 @@
 * [Работающие пенсионеры в 2017 году останутся без индексации пенсий (Nov 2016)](http://www.ap22.ru/paper/Rabotayuschie-pensionery-v-2017-godu-ostanutsya-bez-indexatsii-pensiy.html)
 * [Сотрудница «Е…ной России», сбившая двух девушек на тротуаре, отделалась скромным штрафом (Jan 2017)](https://www.newsru.com/russia/29jan2017/shavenkova.html)
 * [На России фигурантов санкционных списков освободили от уплаты подоходного налога (Mar 2017)](https://www.newsru.com/russia/17mar2017/duma.html)
+* [Совфед принял закон об освобождении дружков Путина от налогов (Mar 2017)](https://www.newsru.com/russia/29mar2017/timchenkolaw.html)
 
 #### 3. Гражданин Российской Федерации не может быть лишен своего гражданства или права изменить его.
 * [Десятки тысяч россиян лишаются гражданства из-за безответственности чиновников (Dec 2010)](https://rg.ru/2010/12/15/fms.html)
@@ -345,6 +346,9 @@
 ### Статья 31
 
 #### Граждане Российской Федерации имеют право собираться мирно без оружия, проводить собрания, митинги и демонстрации, шествия и пикетирование.
+
+[![Статья 31](https://raw.githubusercontent.com/Pontorez/const/master/img/Mar%2026%2C%202017.jpg)](https://pontorez.com/)
+
 * [За год существования движения «Стратегии-31» ни один из митингов на Триумфальной площади не&#160;был «санкционирован» властями](https://ru.wikipedia.org/wiki/Стратегия-31)
 * [Власти Москвы запретили гей-парад одиннадцатый год подряд (May 2016)](http://www.gayrussia.eu/russia/12933/)
 * [Путинской банде «нацгвардия» разрешили расстреливать «большие скопления людей» (Jun 2016)](https://www.kavkazcenter.com/russ/content/2016/06/21/112537/putinskoj-bande-natsgvardiya-razreshili-rasstrelivat-bolshie-skopleniya-lyudej.shtml)
