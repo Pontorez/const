@@ -5,7 +5,7 @@
 [![КаРФаген](https://img.shields.io/badge/каРФаген-долженБытьРазрушен-red.svg)](https://plus.google.com/communities/105380391317425919200)
 [![ARTPODGOTOVKA](https://img.shields.io/badge/Мальцев-Артподготовка-red.svg)](https://www.youtube.com/user/artpodgotovka/videos)
 
-[![Putler](https://raw.githubusercontent.com/Pontorez/const/master/img/hitler.jpg)](https://pontorez.com/)
+[![Putler](https://raw.githubusercontent.com/Pontorez/const/master/img/hitler.jpg)](https://pontorez.github.io/const/)
 
 ### Статья 1
 
@@ -54,7 +54,7 @@
 
 #### 2. Каждый гражданин Российской Федерации обладает на ее территории всеми правами и свободами и&#160;несет равные обязанности, предусмотренные Конституцией Российской Федерации.
 
-[![Статья 6](https://raw.githubusercontent.com/Pontorez/const/master/img/harya.jpg)](https://pontorez.com/)
+[![Статья 6](https://raw.githubusercontent.com/Pontorez/const/master/img/harya.jpg)](https://pontorez.github.io/const/)
 
 * [Штрафы за нарушение ПДД повысят для жителей Москвы и Питера (Mar 2011)](http://trunov.com/press-centr/news_smi/4123/)
 * [Работающие пенсионеры в 2017 году останутся без индексации пенсий (Nov 2016)](http://www.ap22.ru/paper/Rabotayuschie-pensionery-v-2017-godu-ostanutsya-bez-indexatsii-pensiy.html)
@@ -318,10 +318,14 @@
 * [Власти Мурманска принуждали работников идти на митинг в поддержку Крыма (Mar 2014)](https://antijob.net/class_war/id1397/)
 
 #### 4. Каждый имеет право свободно искать, получать, передавать, производить и распространять информацию любым законным способом. Перечень сведений, составляющих государственную тайну, определяется _федеральным законом_.
+
+[![ФБК](https://raw.githubusercontent.com/Pontorez/const/master/img/FBK-28.03.17.jpg)](https://pontorez.github.io/const/)
+
 * [Путин подписал **указ**, согласно которому потери личного состава Минобороны «в&#160;мирное время в&#160;период проведения специальных операций» стали военной тайной (Aug 2015)](http://top.rbc.ru/politics/13/08/2015/55ccb72e9a79474b3b1e2708)
 * [В Тюмени представителям торговых сетей запретили публично говорить о повышении цен на продукты питания и&#160;бензин (Aug&#160;2015)](https://www.newsru.com/russia/30aug2015/silenceplease.html)
 * [Выставку фото Джока Стерджеса решили закрыть после «проверки» членом Общественной палаты (Sep 2016)](https://www.newsru.com/russia/25sep2016/closed.html)
 * [Православнутые из Новосибирска добились того, чтобы оркестр Росгвардии из Хабаровска наказали и обязали изменить репертуар (Dec 2016)](https://www.newsru.com/cinema/13dec2016/labut.html)
+* [Сотрудников ФБК посадили под арест за трансляцию протестов против коррупции (Mar 2017)](https://meduza.io/news/2017/03/27/bolshinstvo-zaderzhannyh-v-ofise-fbk-posadili-pod-arest)
 
 #### 5. Гарантируется свобода массовой информации. Цензура запрещается.
 * [96 % сайтов в Рунете «блокируются» незаконно](http://www.towave.ru/news/96-saitov-v-runete-blokiruyutsya-nezakonno.html)
@@ -351,7 +355,7 @@
 
 #### Граждане Российской Федерации имеют право собираться мирно без оружия, проводить собрания, митинги и демонстрации, шествия и пикетирование.
 
-[![Статья 31](https://raw.githubusercontent.com/Pontorez/const/master/img/Mar%2026%2C%202017.jpg)](https://pontorez.com/)
+[![Статья 31](https://raw.githubusercontent.com/Pontorez/const/master/img/Mar%2026%2C%202017.jpg)](https://pontorez.github.io/const/)
 
 * [За год существования движения «Стратегии-31» ни один из митингов на Триумфальной площади не&#160;был «санкционирован» властями](https://ru.wikipedia.org/wiki/Стратегия-31)
 * [Власти Москвы запретили гей-парад одиннадцатый год подряд (May 2016)](http://www.gayrussia.eu/russia/12933/)
