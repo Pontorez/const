@@ -326,6 +326,7 @@
 * [Выставку фото Джока Стерджеса решили закрыть после «проверки» членом Общественной палаты (Sep 2016)](https://www.newsru.com/russia/25sep2016/closed.html)
 * [Православнутые из Новосибирска добились того, чтобы оркестр Росгвардии из Хабаровска наказали и обязали изменить репертуар (Dec 2016)](https://www.newsru.com/cinema/13dec2016/labut.html)
 * [Сотрудников ФБК посадили под арест за трансляцию протестов против коррупции (Mar 2017)](https://meduza.io/news/2017/03/27/bolshinstvo-zaderzhannyh-v-ofise-fbk-posadili-pod-arest)
+* [Редактор сайта gagster.ru был задержан за ссылку на трансляцию митинга (Mar 2017)](https://ovdinfo.org/express-news/2017/03/27/redaktor-sayta-byl-zaderzhan-za-publikaciyu-ssylki-s-translyaciey-mitinga)
 
 #### 5. Гарантируется свобода массовой информации. Цензура запрещается.
 * [96 % сайтов в Рунете «блокируются» незаконно](http://www.towave.ru/news/96-saitov-v-runete-blokiruyutsya-nezakonno.html)
