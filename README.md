@@ -196,6 +196,9 @@
 ### Статья 21
 
 #### 2. Никто не должен подвергаться пыткам, насилию, другому жестокому или унижающему человеческое достоинство обращению или наказанию.
+
+[![Акабы](https://raw.githubusercontent.com/Pontorez/const/master/img/ACABs.jpg)](https://pontorez.github.io/const/)
+
 * [В Сочи полицейские изнасиловали ломом строителя, чтобы отучить просить зарплату (Jun 2013)](http://pikabu.ru/story/v_sochi_politseyskie_iznasilovali_lomom_stroitelya_chtobyi_otuchit_prosit_zarplatu_1351260)
 * [В Башкирии полицейские применили к подростку пытку «Телевизор» (Jul 2016)](http://proufu.ru/news/society/v_bashkirii_politseyskie_primenili_k_podrostku_pytku_televizor/)
 * [В Бурятии подозреваемый после пыток в полиции попал в больницу, а свидетель совершил самоубийство (Oct&#160;2016)](https://www.newsru.com/crime/04oct2016/poltrtfrpinenutbur.html)
