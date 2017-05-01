@@ -118,6 +118,7 @@
 * [Директор банды «ФСО» получит право изымать земельные участки без суда (Aug 2016)](https://meduza.io/news/2016/08/05/fso-poprosila-prava-izymat-zemelnye-uchastki)
 * [Банда «ФСБ» вслед за бандой «ФСО» потребовала права изымать земли у россиян (Aug 2016)](http://www.dsnews.ua/world/fsb-trebuet-chtoby-ey-razreshili-zabirat-zemlyu-u-rossiyan-19082016145900)
 * [Путин разрешил банде «ФСО» изымать земельные участки для т.н. «госнужд» (Mar 2017)](https://realty.newsru.com/article/29mar2017/fso_taking)
+* [Путин наделил банду «ФСБ» правом забирать у граждан земельные участки для т.н. «госнужд» (Mar 2017)](https://newsru.com/russia/16may2017/gosnuzhda.html)
 
 <!-- ####################################################################### -->
 
