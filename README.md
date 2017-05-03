@@ -390,6 +390,7 @@
 * [В Чебоксарах полицейские забрали участвовавшего в антикоррупционном митинге музыканта Алексея Осипова с репетиции оркестра (Apr 2017)](http://avmalgin.livejournal.com/6906664.html)
 * [В Москве на протестных гуляниях 2 апреля задержаны десятки человек (Apr 2017)](https://ovdinfo.org/news/2017/04/02/zaderzhaniya-na-protestnyh-gulyaniyah-v-moskve)
 * [В Петрозаводске на участника митинга против коррупции хотят завести уголовное дело (Apr 2017, Евгений Владенков)](https://ovdinfo.org/express-news/2017/04/14/v-petrozavodske-na-uchastnika-mitinga-protiv-korrupcii-hotyat-zavesti)
+* [В Самаре за участие в митинге против коррупции осудили человека, который на нем не был (Apr 2017, Вячеслав Завгородний)](https://ovdinfo.org/express-news/2017/04/26/v-samare-za-uchastie-v-mitinge-protiv-korrupcii-osudili-cheloveka-kotoryy-na)
 
 <!-- ####################################################################### -->
 
