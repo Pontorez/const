@@ -387,10 +387,10 @@
 * [Ильдар Дадин был задержан сотрудниками полиции во время проведения одиночного пикета перед зданием ФСИН (Mar 2017)](http://avmalgin.livejournal.com/6856190.html)
 * [Навальному отказали в проведении антикоррупционного митинга в центре Москвы (Mar 2017)](https://www.newsru.com/russia/18mar2017/nomos.html)
 * [Школьника из Брянской области, призывавшего выйти на митинг 26 марта против коррупции и в поддержку Навального, забрали в полицию прямо на уроке (Mar 2017)](http://avmalgin.livejournal.com/6873682.html)
-* [В Чебоксарах полицейские забрали участвовавшего в антикоррупционном митинге музыканта Алексея Осипова с репетиции оркестра (Apr 2017)](http://avmalgin.livejournal.com/6906664.html)
+* [В Чебоксарах полицейские забрали участвовавшего в антикоррупционном митинге музыканта Алексея Осипова с&#160;репетиции оркестра (Apr 2017)](http://avmalgin.livejournal.com/6906664.html)
 * [В Москве на протестных гуляниях 2 апреля задержаны десятки человек (Apr 2017)](https://ovdinfo.org/news/2017/04/02/zaderzhaniya-na-protestnyh-gulyaniyah-v-moskve)
-* [В Петрозаводске на участника митинга против коррупции хотят завести уголовное дело (Apr 2017, Евгений Владенков)](https://ovdinfo.org/express-news/2017/04/14/v-petrozavodske-na-uchastnika-mitinga-protiv-korrupcii-hotyat-zavesti)
-* [В Самаре за участие в митинге против коррупции осудили человека, который на нем не был (Apr 2017, Вячеслав Завгородний)](https://ovdinfo.org/express-news/2017/04/26/v-samare-za-uchastie-v-mitinge-protiv-korrupcii-osudili-cheloveka-kotoryy-na)
+* [В Петрозаводске на участника митинга против коррупции хотят завести уголовное дело (Apr 2017, Евгений&#160;Владенков)](https://ovdinfo.org/express-news/2017/04/14/v-petrozavodske-na-uchastnika-mitinga-protiv-korrupcii-hotyat-zavesti)
+* [В Самаре за участие в митинге против коррупции осудили человека, который на нем не был (Apr 2017, Вячеслав&#160;Завгородний)](https://ovdinfo.org/express-news/2017/04/26/v-samare-za-uchastie-v-mitinge-protiv-korrupcii-osudili-cheloveka-kotoryy-na)
 
 <!-- ####################################################################### -->
 
