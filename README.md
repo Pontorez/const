@@ -398,6 +398,7 @@
 * [В Москве на протестных гуляниях 2 апреля задержаны десятки человек (Apr 2017)](https://ovdinfo.org/news/2017/04/02/zaderzhaniya-na-protestnyh-gulyaniyah-v-moskve)
 * [В Петрозаводске на участника митинга против коррупции хотят завести уголовное дело (Apr 2017, Евгений&#160;Владенков)](https://ovdinfo.org/express-news/2017/04/14/v-petrozavodske-na-uchastnika-mitinga-protiv-korrupcii-hotyat-zavesti)
 * [В Самаре за участие в митинге против коррупции осудили человека, который на нем не был (Apr 2017, Вячеслав&#160;Завгородний)](https://ovdinfo.org/express-news/2017/04/26/v-samare-za-uchastie-v-mitinge-protiv-korrupcii-osudili-cheloveka-kotoryy-na)
+* [Участника московской акции «Он нам не Димон» приговорили к реальному сроку (May 2017, Юрий Кулий)](https://newsru.com/russia/18may2017/kuliya.html)
 
 <!-- ####################################################################### -->
 
