@@ -203,11 +203,12 @@
 [![Акабы](https://raw.githubusercontent.com/Pontorez/const/master/img/ACABs.jpg)](https://pontorez.github.io/const/)
 
 * [В Сочи полицейские изнасиловали ломом строителя, чтобы отучить просить зарплату (Jun 2013)](http://pikabu.ru/story/v_sochi_politseyskie_iznasilovali_lomom_stroitelya_chtobyi_otuchit_prosit_zarplatu_1351260)
-* [В Башкирии полицейские применили к подростку пытку «Телевизор» (Jul 2016)](http://proufu.ru/news/society/v_bashkirii_politseyskie_primenili_k_podrostku_pytku_televizor/)
+* [В Башкирии полицейские применили к подростку пытку «Телевизор» (Jul 2016)](https://proufu.ru/news/society/v_bashkirii_politseyskie_primenili_k_podrostku_pytku_televizor/)
 * [В Бурятии подозреваемый после пыток в полиции попал в больницу, а свидетель совершил самоубийство (Oct&#160;2016)](https://www.newsru.com/crime/04oct2016/poltrtfrpinenutbur.html)
 * [Сотрудники ГИБДД раздели, обыскали и избили водителя за «странный» вид и&#160;найденную таблетку (Oct&#160;2016)](http://www.newsmsk.com/article/20oct2016/strange_view.html)
 * [Ильдар Дадин рассказал о пытках и угрозах убийством в карельской колонии (Nov&#160;2016)](https://www.newsru.com/russia/01nov2016/dadin.html)
 * [19-летнему жителю Забайкалья сломали позвоночник на допросе в полиции (Jan&#160;2017)](https://zona.media/news/2017/25/01/tsugol)
+* [Бежавшие из Чечни геи рассказали о двух секретных тюрьмах (Apr 2017)](https://www.newsru.com/russia/08apr2017/2ndprison.html)
 
 <!-- ####################################################################### -->
 
