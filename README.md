@@ -403,6 +403,7 @@
 * [В Петрозаводске на участника митинга против коррупции хотят завести уголовное дело (Apr 2017, Евгений&#160;Владенков)](https://ovdinfo.org/express-news/2017/04/14/v-petrozavodske-na-uchastnika-mitinga-protiv-korrupcii-hotyat-zavesti)
 * [В Самаре за участие в митинге против коррупции осудили человека, который на нем не был (Apr 2017, Вячеслав&#160;Завгородний)](https://ovdinfo.org/express-news/2017/04/26/v-samare-za-uchastie-v-mitinge-protiv-korrupcii-osudili-cheloveka-kotoryy-na)
 * [Участника московской акции «Он нам не Димон» приговорили к реальному сроку (May 2017, Юрий Кулий)](https://newsru.com/russia/18may2017/kuliya.html)
+* [Участника акции протеста 26 марта осудили на 1,5 года тюрьмы (May 2017, Александр Шпаков)](https://www.newsru.com/russia/24may2017/shpakov.html)
 
 <!-- ####################################################################### -->
 
