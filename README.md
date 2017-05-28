@@ -337,6 +337,7 @@
 * [Путин подписал **указ**, согласно которому потери личного состава Минобороны «в&#160;мирное время в&#160;период проведения специальных операций» стали военной тайной (Aug 2015)](http://www.rbc.ru/politics/13/08/2015/55ccb72e9a79474b3b1e2708)
 * [В Тюмени представителям торговых сетей запретили публично говорить о повышении цен на продукты питания и&#160;бензин (Aug&#160;2015)](https://www.newsru.com/russia/30aug2015/silenceplease.html)
 * [Выставку фото Джока Стерджеса решили закрыть после «проверки» членом банды «Общественная палата» (Sep 2016)](https://www.newsru.com/russia/25sep2016/closed.html)
+* [Банда «Роскомнадзор» «заблокировала» торрент-трекер Pornolab.net (Nov 2016)](https://hitech.newsru.com/article/08nov2016/rknblock)
 * [Православнутые из Новосибирска добились того, чтобы оркестр Росгвардии из Хабаровска наказали и обязали изменить репертуар (Dec 2016)](https://www.newsru.com/cinema/13dec2016/labut.html)
 * [Сотрудников ФБК посадили под арест за трансляцию протестов против коррупции (Mar 2017)](https://meduza.io/news/2017/03/27/bolshinstvo-zaderzhannyh-v-ofise-fbk-posadili-pod-arest)
 * [Редактор сайта gagster.ru был задержан за ссылку на трансляцию митинга (Mar 2017)](https://ovdinfo.org/express-news/2017/03/27/redaktor-sayta-byl-zaderzhan-za-publikaciyu-ssylki-s-translyaciey-mitinga)
