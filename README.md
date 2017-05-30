@@ -340,6 +340,7 @@
 * [Выставку фото Джока Стерджеса решили закрыть после «проверки» членом банды «Общественная палата» (Sep 2016)](https://www.newsru.com/russia/25sep2016/closed.html)
 * [Банда «Роскомнадзор» «заблокировала» торрент-трекер Pornolab.net (Nov 2016)](https://hitech.newsru.com/article/08nov2016/rknblock)
 * [Православнутые из Новосибирска добились того, чтобы оркестр Росгвардии из Хабаровска наказали и обязали изменить репертуар (Dec 2016)](https://www.newsru.com/cinema/13dec2016/labut.html)
+* [Банда «Роскомнадзор» «заблокировала» сайт Brazzers (Feb 2017)](https://hitech.newsru.com/article/07feb2017/brazzers)
 * [Сотрудников ФБК посадили под арест за трансляцию протестов против коррупции (Mar 2017)](https://meduza.io/news/2017/03/27/bolshinstvo-zaderzhannyh-v-ofise-fbk-posadili-pod-arest)
 * [Редактор сайта gagster.ru был задержан за ссылку на трансляцию митинга (Mar 2017)](https://ovdinfo.org/express-news/2017/03/27/redaktor-sayta-byl-zaderzhan-za-publikaciyu-ssylki-s-translyaciey-mitinga)
 * [В Волгограде из-за картинки в паблике Навального с раскрашенным монументом «Родина-мать зовёт» завели уголовное дело (May 2017)](https://www.newsru.com/russia/12may2017/delo.html)
