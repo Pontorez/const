@@ -275,7 +275,7 @@
 
 #### 2. Каждый может свободно выезжать за пределы Российской Федерации.
 
-[![Новинка: выездные визы](https://raw.githubusercontent.com/Pontorez/const/master/img/visa.png)](https://pontorez.github.io/const/)
+[![Новинка: выездные визы](https://raw.githubusercontent.com/Pontorez/const/master/img/visa.png)](https://www.facebook.com/anna.mongayt/posts/10213539042694353?pnref=story)
 
 * [Запрет на выезд может быть вынесен даже в том случае, если в отношении вас не проводилось судебное разбирательство (Dec&#160;2011)](http://guide.travel.ru/russia/196180.html)
 * [Двум миллионам россиян запретили выезд за границу из-за долгов (Jun 2016)](http://www.rbc.ru/finances/14/06/2016/576001569a79476bc650822c)
