@@ -227,6 +227,9 @@
 ### Статья 22
 
 #### 1. Каждый имеет право на свободу и личную неприкосновенность.
+
+[![Champagne](https://raw.githubusercontent.com/Pontorez/const/master/img/Champagne.jpg)](https://pontorez.github.io/const/)
+
 * [Житель Казани умер после изнасилования в полиции бутылкой из-под шампанского (Mar 2012)](http://www.corrupcia.net/articles/fact-5959.html)
 
 <!-- ####################################################################### -->
