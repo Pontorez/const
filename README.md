@@ -5,7 +5,7 @@
 [![КаРФаген](https://img.shields.io/badge/каРФаген-долженБытьРазрушен-red.svg)](https://plus.google.com/communities/105380391317425919200)
 [![ARTPODGOTOVKA](https://img.shields.io/badge/Мальцев-Артподготовка-red.svg)](https://www.youtube.com/user/artpodgotovka/videos)
 
-[![Putler](https://raw.githubusercontent.com/Pontorez/const/master/img/hitler.jpg)](https://pontorez.github.io/const/)
+[![Putler](https://pontorez.github.io/const/img/hitler.jpg)](https://pontorez.github.io/const/)
 
 ### Статья 1
 
@@ -61,7 +61,7 @@
 
 #### 2. Каждый гражданин Российской Федерации обладает на ее территории всеми правами и свободами и&#160;несет равные обязанности, предусмотренные Конституцией Российской Федерации.
 
-[![Статья 6](https://raw.githubusercontent.com/Pontorez/const/master/img/harya.jpg)](https://pontorez.github.io/const/)
+[![Статья 6](https://pontorez.github.io/const/img/harya.jpg)](https://pontorez.github.io/const/)
 
 * [Штрафы за нарушение ПДД повысят для жителей Москвы и Питера (Mar 2011)](http://trunov.com/press-centr/news_smi/4123/)
 * [Работающие пенсионеры в 2017 году останутся без индексации пенсий (Nov 2016)](http://www.ap22.ru/paper/Rabotayuschie-pensionery-v-2017-godu-ostanutsya-bez-indexatsii-pensiy.html)
@@ -80,7 +80,6 @@
 #### 1. Российская Федерация — социальное государство, политика которого направлена на создание условий, обеспечивающих достойную жизнь и свободное развитие человека.
 * [Медведев (Мендель) советует россиянам потуже затянуть пояса (Dec 2014)](http://ru.tsn.ua/video/video-novini/medvedev-sovetuet-rossiyanam-potuzhe-zatyanut-poyasa.html)
 * [Русские ученые предложили рабам Путина питаться дождевыми червями (Jul&#160;2015)](https://kavkazcenter.com/russ/content/2015/07/28/109763.shtml)
-* [Миллионы россиян оказались за чертой бедности (Jul 2015)](http://24tv.ua/ru/mezhdunarodnye_novosti/milliony_rossijan_okazalis_za_chertoj_bednosti/n592364)
 * [Медведев (Мендель) подарил стране новый предвыборный лозунг — «Денег нет, но вы держитесь» (May 2016)](http://www.ng.ru/week/2016-05-29/8_economics.html)
 * [Топилин: накопительную пенсию пока не включили в проект бюджета (Jul 2016)](https://ria.ru/society/20160715/1466660423.html)
 * [Более 40 % россиян заявили о нехватке денег на еду и одежду (Jul 2016)](http://www.rbc.ru/economics/26/07/2016/579790cf9a79470210398c81)
@@ -91,6 +90,7 @@
 * [Дума приняла бюджет, в котором на чиновников отведено больше средств, чем на&#160;медицину и образование (Dec&#160;2016)](https://www.newsru.com/finance/09dec2016/3yrsfedrlbudget.html)
 * [Клиент банка в Орехово-Зуево попытался покончить с собой, требуя снизить ставку по кредиту (Dec 2016)](http://newsmsk.com/article/27dec2016/po_creditu.html)
 * [Сотни российских летчиков из-за ослабшего рубля уехали работать в страны Азии (Jun 2017)](https://www.newsru.com/finance/09jun2017/flyhi.html)
+* [В России по официальным данным 22 млн нищих (Jun 2017)](https://www.kavkazcenter.com/russ/content/2017/06/28/115028.shtml)
 
 #### 2. В Российской Федерации охраняются труд и здоровье людей, устанавливается гарантированный минимальный размер оплаты труда, обеспечивается государственная поддержка семьи, материнства, отцовства и детства, инвалидов и пожилых граждан, развивается система социальных служб, устанавливаются государственные пенсии, пособия и иные гарантии социальной защиты.
 * [Многодетную жительницу Астрахани лишили всех льгот после рождения седьмого ребенка (Oct 2016)](https://www.newsru.com/russia/12oct2016/deti_2.html)
@@ -209,7 +209,7 @@
 
 #### 2. Никто не должен подвергаться пыткам, насилию, другому жестокому или унижающему человеческое достоинство обращению или наказанию.
 
-[![Акабы](https://raw.githubusercontent.com/Pontorez/const/master/img/ACABs.jpg)](https://pontorez.github.io/const/)
+[![Акабы](https://pontorez.github.io/const/img/ACABs.jpg)](https://pontorez.github.io/const/)
 
 * [В Сочи полицейские изнасиловали ломом строителя, чтобы отучить просить зарплату (Jun 2013)](http://pikabu.ru/story/v_sochi_politseyskie_iznasilovali_lomom_stroitelya_chtobyi_otuchit_prosit_zarplatu_1351260)
 * [В Башкирии полицейские применили к подростку пытку «Телевизор» (Jul 2016)](https://proufu.ru/news/society/v_bashkirii_politseyskie_primenili_k_podrostku_pytku_televizor/)
@@ -228,7 +228,7 @@
 
 #### 1. Каждый имеет право на свободу и личную неприкосновенность.
 
-[![Champagne](https://raw.githubusercontent.com/Pontorez/const/master/img/Champagne.jpg)](https://pontorez.github.io/const/)
+[![Champagne](https://pontorez.github.io/const/img/Champagne.jpg)](https://pontorez.github.io/const/)
 
 * [Житель Казани умер после изнасилования в полиции бутылкой из-под шампанского (Mar 2012)](http://www.corrupcia.net/articles/fact-5959.html)
 
@@ -279,7 +279,7 @@
 
 #### 2. Каждый может свободно выезжать за пределы Российской Федерации.
 
-[![Новинка: выездные визы](https://raw.githubusercontent.com/Pontorez/const/master/img/Visa.png)](https://www.facebook.com/anna.mongayt/posts/10213539042694353?pnref=story)
+[![Новинка: выездные визы](https://pontorez.github.io/const/img/Visa.png)](https://www.facebook.com/anna.mongayt/posts/10213539042694353?pnref=story)
 
 * [Запрет на выезд может быть вынесен даже в том случае, если в отношении вас не проводилось судебное разбирательство (Dec&#160;2011)](http://guide.travel.ru/russia/196180.html)
 * [Двум миллионам россиян запретили выезд за границу из-за долгов (Jun 2016)](http://www.rbc.ru/finances/14/06/2016/576001569a79476bc650822c)
@@ -351,7 +351,7 @@
 
 #### 4. Каждый имеет право свободно искать, получать, передавать, производить и распространять информацию любым законным способом. Перечень сведений, составляющих государственную тайну, определяется _федеральным законом_.
 
-[![ФБК](https://raw.githubusercontent.com/Pontorez/const/master/img/FBK-28.03.17.jpg)](https://pontorez.github.io/const/)
+[![ФБК](https://pontorez.github.io/const/img/FBK-28.03.17.jpg)](https://pontorez.github.io/const/)
 
 * [Путин подписал **указ**, согласно которому потери личного состава Минобороны «в&#160;мирное время в&#160;период проведения специальных операций» стали военной тайной (Aug 2015)](http://www.rbc.ru/politics/13/08/2015/55ccb72e9a79474b3b1e2708)
 * [В Тюмени представителям торговых сетей запретили публично говорить о повышении цен на продукты питания и&#160;бензин (Aug&#160;2015)](https://www.newsru.com/russia/30aug2015/silenceplease.html)
@@ -396,7 +396,7 @@
 
 #### Граждане Российской Федерации имеют право собираться мирно без оружия, проводить собрания, митинги и демонстрации, шествия и пикетирование.
 
-[![Статья 31](https://raw.githubusercontent.com/Pontorez/const/master/img/Mar%2026%2C%202017.jpg)](https://pontorez.github.io/const/)
+[![Статья 31](https://pontorez.github.io/const/img/Mar%2026%2C%202017.jpg)](https://pontorez.github.io/const/)
 
 * [За год существования движения «Стратегии-31» ни один из митингов на Триумфальной площади не&#160;был «санкционирован» властями](https://ru.wikipedia.org/wiki/Стратегия-31)
 * [Власти Москвы запретили гей-парад одиннадцатый год подряд (May 2016)](http://www.gayrussia.eu/russia/12933/)
