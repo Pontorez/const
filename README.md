@@ -35,6 +35,7 @@
 * [В Алуште задержали сообщивших о нарушениях на выборах депутата и журналиста (Oct 2016)](https://www.newsru.com/russia/07oct2016/alushta.html)
 * [Навальному закрывают онлайн-счет на президентскую кампанию (Jan 2017)](https://www.newsru.com/russia/23jan2017/navalny.html)
 * [В ЕС приговор Навальному назвали попыткой заглушить «независимый политический голос» (Feb 2017)](https://www.newsru.com/world/08feb2017/euaboutnavalny.html)
+* Нападение пропутинских отморозков (в том числе в погонах) на штабы Навального (Jul 2017): [Астрахань](https://www.newsru.com/russia/06jul2017/astrakhan.html), [Вологда](https://www.newsru.com/russia/06jul2017/obyski.html), [Краснодар](https://www.newsru.com/russia/04jul2017/kras.html), [Москва](https://www.newsru.com/russia/06jul2017/mosnaval.html), [Новосибирск](https://www.newsru.com/russia/05jul2017/nsk.html), [Орёл](https://www.newsru.com/russia/05jul2017/orel.html), [Санкт-Петербург](https://www.newsru.com/russia/23mar2017/podjog.html), [Томск](https://www.newsru.com/russia/17mar2017/tomsk.html), [Уфа](https://www.newsru.com/russia/04apr2017/eggs.html)
 
 #### 4. Никто не может присваивать власть в Российской Федерации. Захват власти или присвоение властных полномочий преследуется по федеральному закону.
 * [На России происходит узурпация власти (Sep 2011)](http://www.dw.com/ru/в-россии-происходит-узурпация-власти/a-15416697)
