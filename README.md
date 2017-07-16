@@ -367,6 +367,7 @@
 * [Редактор сайта gagster.ru был задержан за ссылку на трансляцию митинга (Mar 2017)](https://ovdinfo.org/express-news/2017/03/27/redaktor-sayta-byl-zaderzhan-za-publikaciyu-ssylki-s-translyaciey-mitinga)
 * [В Волгограде из-за картинки в паблике Навального с раскрашенным монументом «Родина-мать зовёт» завели уголовное дело (May 2017)](https://www.newsru.com/russia/12may2017/delo.html)
 * [Пенсионерку из Томска оштрафовали на 20 тыс. рублей за видеообращение к Путину (Jun 2017, Галина Шергина)](https://amalgin.dreamwidth.org/6315748.html)
+* [Активистку арестовали за картинку с Путиным в нацистской форме (Jul 2017, Виктория Лобова)](https://www.svoboda.org/a/28616424.html)
 
 #### 5. Гарантируется свобода массовой информации. Цензура запрещается.
 * [96 % сайтов в Рунете «блокируются» незаконно](http://www.towave.ru/news/96-saitov-v-runete-blokiruyutsya-nezakonno.html)
