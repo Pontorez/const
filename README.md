@@ -458,6 +458,7 @@ https://www.newsru.com/russia/07jul2017/navalny.html)
 * [«Суд» Орла оштрафовал участницу флешмоба против коррупции (Jun 2017, Татьяна Иванова)](https://ovdinfo.org/express-news/2017/06/23/sud-orla-oshtrafoval-uchastnicu-fleshmoba-protiv-korrupcii)
 * [Сергей Митрохин задержан на пикете против реновации (Jun 2017)](https://www.newsru.com/russia/28jun2017/mitr.html)
 * [Участника акции протеста 26 марта «приговорили» к 2,5 годам тюрьмы (Jul 2017, Станислав Зимовец)](https://www.newsru.com/russia/20jul2017/zimovec.html)
+* [В Ингушетии попытались провести митинг против нелегальных мигрантов. Через 5 минут митинг разогнали (Jul 2017)](https://www.kavkazcenter.com/russ/content/2017/07/27/115190.shtml)
 
 <!-- ####################################################################### -->
 
