@@ -465,6 +465,7 @@ https://www.newsru.com/russia/07jul2017/navalny.html)
 * [Т.н. «суд» оштрафовал Сергея Митрохина за пикет против реновации у здания Совфеда (Aug 2017)](http://newsmsk.com/article/08aug2017/against.html)
 * [Петербуржцам запретили проводить митинги на Марсовом поле без согласования с властями (Aug 2017)](https://www.newsru.com/russia/22aug2017/marsovo.html)
 * [Противникам градостроительной политики Собянина запретили проводить митинг 3 сентября (Aug 2017)](http://newsmsk.com/article/24aug2017/beslan.html)
+* [Жителя Брянска оштрафовали на 10 тысяч рублей за бутылку «Туалетного утёнка» на митинге 26 марта (Aug 2017)](https://tjournal.ru/58767-zhitelya-bryanska-oshtrafovali-na-10-tysyach-rubley-za-butylku-tualetnogo-utenka-na-mitinge-26-marta)
 
 <!-- ####################################################################### -->
 
