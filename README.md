@@ -56,6 +56,7 @@ https://ovdinfo.org/express-news/2017/07/04/volonter-shtaba-navalnogo-arestovan-
 https://www.svoboda.org/a/28538429.html), [Тюмень](https://zona.media/online/2017/07/08/subbotnik-navalnogo#13814), [Уфа](
 https://www.newsru.com/russia/04apr2017/eggs.html), [Хабаровск](https://www.newsru.com/russia/14jul2017/schtab.html), [Чебоксары](
 https://www.newsru.com/russia/07jul2017/navalny.html)
+* [В Иркутской области директоров школ увольняют за отказ от поддержки провластного кандидата на местных выборах (Sep 2017)](https://www.newsru.com/russia/24sep2017/irkschools.html)
 * [На экс-директора иркутской школы, уволенного из-за отказа агитировать за кандидата от ЕР, напали на улице (Oct 2017)](https://www.newsru.com/russia/12oct2017/antipina.html)
 
 #### 4. Никто не может присваивать власть в Российской Федерации. Захват власти или присвоение властных полномочий преследуется по федеральному закону.
