@@ -326,12 +326,11 @@ https://www.newsru.com/russia/07jul2017/navalny.html)
 [![Новинка: выездные визы](https://pontorez.github.io/const/img/Visa.png)](https://www.facebook.com/anna.mongayt/posts/10213539042694353?pnref=story)
 
 * [Запрет на выезд может быть вынесен даже в том случае, если в отношении вас не проводилось судебное разбирательство (Dec&#160;2011)](http://guide.travel.ru/russia/196180.html)
-* [Двум миллионам россиян запретили выезд за границу из-за долгов (Jun 2016)](http://www.rbc.ru/finances/14/06/2016/576001569a79476bc650822c)
-* [В первом полугодии 2016 года 961,7 тыс. россиян запретили покидать страну из-за долгов (Jul 2016)](http://www.rbc.ru/rbcfreenews/578e2cdb9a79470c50a9c70d)
 * [Минтранс предложил ввести плату за пересечение границы (Oct 2016)](https://www.newsru.com/russia/12oct2016/russianborders.html)
 * [В Крыму предложили обязать граждан платить налог за отдых вне России (Oct&#160;2016)](https://www.newsru.com/russia/21oct2016/tax.html)
 * [4,5 года ГУЛАГа за мыслепреступление и выезд за пределы Рашки (Dec&#160;2016,&#160;Александра&#160;Иванова&#160;/&#160;Варвара&#160;Караулова)](http://www.mk.ru/social/2016/12/22/v-koloniyu-za-mysli-prigovor-varvare-karaulovoy-ocenili-pravozashhitniki.html)
 * [Гражданку Грузии не выпустили из России из-за отсутствия выездной визы (Jun 2017)](http://theins.ru/news/60636)
+* [Число должников, которым могут запретить выезд за границу, приблизилось к 7 млн человек (Dec 2017)](https://www.newsru.com/finance/04dec2017/baddebtors.html)
 
 <!-- ####################################################################### -->
 
