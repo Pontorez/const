@@ -415,6 +415,7 @@ https://www.newsru.com/russia/07jul2017/navalny.html)
 * [Штраф 50 тыс. рупий за размещение карикатур соцсети «ВКонтакте» (Aug 2017, Виктор Ночевнов)](https://amalgin.dreamwidth.org/6545947.html)
 * [Краснодарского блогера вызвали на допрос за отрывок из книги Носова «Незнайка на Луне» (Oct 2017, Михаил Малахов)](https://www.newsru.com/russia/10oct2017/malakhov.html)
 * [На России запретили обходить блокировки через VPN (Nov 2017)](https://hitech.vesti.ru/article/687791/)
+* [Банда «Роскомнадзор» «заблокировала» сайт движения «Открытая Россия» (Dec 2017)](https://www.newsru.com/russia/12dec2017/otkr.html)
 
 #### 5. Гарантируется свобода массовой информации. Цензура запрещается.
 * [96 % сайтов в Рунете «блокируются» незаконно](http://www.towave.ru/news/96-saitov-v-runete-blokiruyutsya-nezakonno.html)
