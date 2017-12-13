@@ -742,13 +742,3 @@ https://www.newsru.com/russia/07jul2017/navalny.html)
 * [Территория Сколково будет насильно исключена из территории муниципального образования Новоивановское, что противоречит статье 131 Конституции, которая позволяет изменение границ территории местного самоуправления только с учетом мнения населения](http://www.odintsovo.info/news/?div_id=1&id=30071)
 
 <a href="http://info.flagcounter.com/3cwO"><img src="https://s10.flagcounter.com/count2/3cwO/bg_FFFFFF/txt_000000/border_CCCCCC/columns_6/maxflags_18/viewers_0/labels_1/pageviews_1/flags_0/percent_0/" alt="Flag Counter" border="0"></a>
-
-<script>
-var links = document.links;
-
-for (var i = 0, linksLength = links.length; i < linksLength; i++) {
-   if (links[i].hostname != window.location.hostname) {
-       links[i].target = '_blank';
-   }
-}
-</script>
