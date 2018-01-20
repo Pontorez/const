@@ -62,6 +62,7 @@ https://www.newsru.com/russia/07jul2017/navalny.html)
 * [Банда «МВД» начала рассылать российским типографиям предупреждения о запрете печатать агитационные материалы (Dec&#160;2017)](https://amalgin.dreamwidth.org/6890166.html)
 * [Прокуратура Москвы наехала на Ксению Собчак за высказывания о территориальной принадлежности Крыма и Севастополя (Jan&#160;2018)](https://www.newsru.com/russia/10jan2018/sobchak.html)
 * [В Петербурге студенты пожаловались, что их заставляют собирать подписи Путину (Jan 2018)](https://www.newsru.com/russia/12jan2018/spb_politeh.html)
+* [Банда «Минюст» требует закрыть избирательный фонд Навального (Jan 2018)](https://www.newsru.com/russia/15jan2018/fond5vremyagoda.html)
 * Погромы штабов Навального (Jan 2018): [Псков](https://www.svoboda.org/a/28986631.html), [Санкт-Петербург](
 https://www.fontanka.ru/2018/01/18/086/), [Тюмень](https://www.sibreal.org/a/28984682.html), [Чебоксары](
 https://zona.media/news/2018/01/17/cheb-nava)
