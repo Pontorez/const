@@ -527,6 +527,7 @@ https://zona.media/news/2018/01/17/cheb-nava)
 * [Марию Алехину «приговорили» к 40 часам рабских работ за поздравление чекистов у здания ФСБ (Dec 2017)](https://amalgin.dreamwidth.org/6884492.html)
 * [Т.н. «суд» оштрафовал Яшина на 30 тысяч рублей за проведение «Дня свободных выборов» (Dec 2017)](https://msk.newsru.com/article/28dec2017/shtraf.html)
 * [В Москве задержали восемь участников «Прогулки оппозиции» (Jan 2018)](https://ovdinfo.org/express-news/2018/01/14/v-moskve-zaderzhali-vosem-uchastnikov-progulki-oppozicii)
+* [Шестерых нацболов задержали у ЦИКа в Москве за акцию против фарсовых выборов и приватизации (Jan 2018)](https://www.newsru.com/russia/22jan2018/electionlyagtan.html)
 
 <!-- ####################################################################### -->
 
