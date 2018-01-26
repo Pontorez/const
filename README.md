@@ -63,10 +63,14 @@ https://www.newsru.com/russia/07jul2017/navalny.html)
 * [Прокуратура Москвы наехала на Ксению Собчак за высказывания о территориальной принадлежности Крыма и&#160;Севастополя (Jan&#160;2018)](https://www.newsru.com/russia/10jan2018/sobchak.html)
 * [В Петербурге студенты пожаловались, что их заставляют собирать подписи Путину (Jan 2018)](https://www.newsru.com/russia/12jan2018/spb_politeh.html)
 * [Банда «Минюст» требует закрыть избирательный фонд Навального (Jan 2018)](https://www.newsru.com/russia/15jan2018/fond5vremyagoda.html)
-* Погромы штабов Навального (Jan 2018): [Калуга](https://www.newsru.com/russia/18jan2018/shtaby.html), [Псков](
-https://www.svoboda.org/a/28986631.html), [Санкт-Петербург](https://www.fontanka.ru/2018/01/18/086/), [Тюмень](
-https://www.sibreal.org/a/28984682.html), [Чебоксары](
-https://zona.media/news/2018/01/17/cheb-nava)
+* Погромы штабов Навального (Jan 2018): [Владивосток, Вологда](
+https://www.newsru.com/russia/23jan2018/electionlyagtan.html), [Екатеринбург](
+https://twitter.com/leonidvolkov/status/955815071258640384), [Казань](
+https://www.newsru.com/russia/23jan2018/electionlyagtan.html), [Калуга](
+https://www.newsru.com/russia/18jan2018/shtaby.html), [Пермь](http://zvzda.ru/news/8ea83a624988), [Псков](
+https://www.svoboda.org/a/28986631.html), [Санкт-Петербург](https://www.fontanka.ru/2018/01/18/086/), [Ставрополь](
+https://vk.com/wall-144334774_2914), [Тюмень](https://www.sibreal.org/a/28984682.html), [Чебоксары](
+https://zona.media/news/2018/01/17/cheb-nava), [Ярославль](https://twitter.com/leonidvolkov/status/955815071258640384)
 * [Тамбовских школьников привлекли к незаконной агитации за Путина (Jan 2018)](https://www.newsru.com/russia/22jan2018/tambovforputin.html)
 * [Банк "Точка" заблокировал запасной счет избирательного фонда Навального (Jan 2018)](https://www.newsru.com/russia/23jan2018/tochka.html)
 
