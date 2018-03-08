@@ -70,6 +70,7 @@ https://vk.com/wall-144334774_2914), [Тюмень](https://www.sibreal.org/a/28
 https://zona.media/news/2018/01/17/cheb-nava), [Ярославль](https://twitter.com/leonidvolkov/status/955815071258640384)
 * [Тамбовских школьников привлекли к незаконной агитации за Путина (Jan 2018)](https://www.newsru.com/russia/22jan2018/tambovforputin.html)
 * [Банк «Точка» заблокировал запасной счет избирательного фонда Навального (Jan 2018)](https://www.newsru.com/russia/23jan2018/tochka.html)
+* [Школьнику намекнули о возможных проблемах с ФСБ из-за постов в поддержку Навального (Feb 2018)](https://ovdinfo.org/express-news/2018/02/08/shkolniku-nameknuli-o-vozmozhnyh-problemah-s-fsb-iz-za-postov-v-podderzhku)
 * [Студентов по всей стране принуждают «отдать долг Родине» 18 марта под угрозой оставить без жилья (Feb 2018)](https://www.newsru.com/russia/28feb2018/otkryzhy.html)
 * [Студентов Тимирязевки сгоняют на очередной путинг в Лужниках (Mar 2018)](https://twitter.com/adagamov/status/969842719697883136)
 
