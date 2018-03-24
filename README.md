@@ -562,6 +562,7 @@ https://zona.media/news/2018/01/17/cheb-nava), [Ярославль](https://twit
 * [Власти сразу нескольких регионов отказались согласовать акции в память Немцова (Feb 2018)](https://www.newsru.com/russia/16feb2018/nemtsovregions.html)
 * [В Москве полиция задержала обманутых дольщиков, выступавших против Грудинина (Feb 2018)](https://msk.newsru.com/article/17feb2018/police.html)
 * [Участника акции протеста 26 марта в Москве приговорили к году колонии (Feb 2018)](https://www.newsru.com/russia/22feb2018/26march.html)
+* [«Суд» арестовал главу штаба Навального на 30 суток (Feb 2018)](https://www.newsru.com/russia/22feb2018/30days.html)
 * [Мусора́ задержали участников пикетов против строительства мусоросжигательного завода (Mar 2018)](https://msk.newsru.com/article/10mar2018/piket.html)
 * [Председателя «Яблока» задержали на акции против нового колеса обозрения (Mar 2018, Эмилия Слабунова)](https://msk.newsru.com/article/11mar2018/slabunova.html)
 
