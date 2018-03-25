@@ -3,6 +3,7 @@
 [![License](https://img.shields.io/badge/license-WTFPL-lightgrey.svg)](https://github.com/Pontorez/const/blob/master/LICENSE)
 [![Putler Kaput!](https://img.shields.io/badge/putin-hyulo-blue.svg)](http://deputivator.ru/)
 [![КаРФаген](https://img.shields.io/badge/каРФаген-долженБытьРазрушен-red.svg)](https://plus.google.com/communities/105380391317425919200)
+[![Народовластие](https://img.shields.io/badge/Мальцев-Народовластие-red.svg)](https://www.youtube.com/channel/UCv5dc2Zi6j5IXQ_NKTZuSLA/videos)
 [![ARTPODGOTOVKA](https://img.shields.io/badge/Мальцев-Артподготовка-red.svg)](https://www.youtube.com/user/artpodgotovka/videos)
 
 [![Putler](https://pontorez.github.io/const/img/hitler.jpg)](https://pontorez.github.io/const/)
@@ -562,7 +563,7 @@ https://zona.media/news/2018/01/17/cheb-nava), [Ярославль](https://twit
 * [Власти сразу нескольких регионов отказались согласовать акции в память Немцова (Feb 2018)](https://www.newsru.com/russia/16feb2018/nemtsovregions.html)
 * [В Москве полиция задержала обманутых дольщиков, выступавших против Грудинина (Feb 2018)](https://msk.newsru.com/article/17feb2018/police.html)
 * [Участника акции протеста 26 марта в Москве приговорили к году колонии (Feb 2018)](https://www.newsru.com/russia/22feb2018/26march.html)
-* [«Суд» арестовал главу штаба Навального на 30 суток (Feb 2018)](https://www.newsru.com/russia/22feb2018/30days.html)
+* [«Суд» арестовал главу штаба Навального на 30 суток (Feb 2018, Леонид Волков)](https://www.newsru.com/russia/22feb2018/30days.html)
 * [Мусора́ задержали участников пикетов против строительства мусоросжигательного завода (Mar 2018)](https://msk.newsru.com/article/10mar2018/piket.html)
 * [Председателя «Яблока» задержали на акции против нового колеса обозрения (Mar 2018, Эмилия Слабунова)](https://msk.newsru.com/article/11mar2018/slabunova.html)
 
