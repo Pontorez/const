@@ -89,6 +89,7 @@ https://zona.media/news/2018/01/17/cheb-nava), [Ярославль](https://twit
 * [Кремль начал официальную сдачу Курильских островов Японии (Dec 2016)](http://havert.livejournal.com/10321.html)
 * [Россия передала Казахстану озеро Сладкое под Новосибирском». Без референдума обошлись (Aug 2017)](https://twitter.com/vvmaltsev/status/897474034576891906)
 * [Путин отдал Китаю ещё один кусок земли (Nov 2017)](https://kavkazcenter.com/russ/content/2017/11/20/115852.shtml)
+* [Жители Сибири бьют тревогу: ещё 2 миллиона гектаров тайги отдано под варварскую вырубку Китаю (Mar 2018)](https://bison-info.pro/zhiteli-sibiri-byut-trevogu-eshhe-2-milliona-gektarov-tajgi-otdano-pod-varvarskuyu-vyrubku-kitayu/)
 
 <!-- ####################################################################### -->
 
