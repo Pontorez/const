@@ -186,6 +186,9 @@ https://zona.media/news/2018/01/17/cheb-nava), [Ярославль](https://twit
 
 ### Статья 13
 
+#### 2. Никакая идеология не может устанавливаться в качестве государственной или обязательной.
+* [В России прививают с детсада основанный на ненависти патриотизм (Apr 2018)](https://nashdom.us/home/sootechestvenniki/compatriots/kak-v-rossii-privivajut-s-detsada-osnovannyj-na-nenavisti-patriotizm)
+
 #### 4. Общественные объединения равны перед законом.
 * [Полезные НКО получат новые льготы (Jun 2016)](https://dni.ru/society/2016/6/22/340049.html)
 
