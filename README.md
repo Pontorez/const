@@ -579,6 +579,7 @@ https://zona.media/news/2018/01/17/cheb-nava), [Ярославль](https://twit
 * [Под Коломной на четвертые сутки акции против свалки «Воловичи» начались задержания (Mar 2018)](https://msk.newsru.com/article/28mar2018/volovichi.html)
 * [Возле приёмной ФСБ в Москве задержаны участники акции против блокировки Telegram (Apr 2018)](https://www.newsru.com/russia/03apr2018/telegram.html)
 * [Активистку c «картонным Слуцким» задержали возле Госдумы (Apr 2018)](https://msk.newsru.com/article/02apr2018/popova.html)
+* [Мэрия Москвы не согласовала шествие сторонников Навального по Тверской (Apr 2018)](https://msk.newsru.com/article/24apr2018/otkaz_naval.html)
 
 <!-- ####################################################################### -->
 
