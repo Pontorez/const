@@ -272,6 +272,7 @@ https://zona.media/news/2018/01/17/cheb-nava), [Ярославль](https://twit
 
 [![Акабы](https://pontorez.github.io/const/img/ACABs.jpg)](https://pontorez.github.io/const/)
 
+* [В Красноярском крае сотрудники колонии избивали заключенных под «Полёт валькирий»](https://www.newsru.com/crime/25apr2018/fsinbeatzkvidkras.html)
 * [В Сочи полицейские изнасиловали ломом строителя, чтобы отучить просить зарплату (Jun 2013)](http://pikabu.ru/story/v_sochi_politseyskie_iznasilovali_lomom_stroitelya_chtobyi_otuchit_prosit_zarplatu_1351260)
 * [В Башкирии полицейские применили к подростку пытку «Телевизор» (Jul 2016)](https://proufu.ru/news/society/v_bashkirii_politseyskie_primenili_k_podrostku_pytku_televizor/)
 * [В Бурятии подозреваемый после пыток в полиции попал в больницу, а свидетель совершил самоубийство (Oct&#160;2016)](https://www.newsru.com/crime/04oct2016/poltrtfrpinenutbur.html)
