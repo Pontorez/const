@@ -585,6 +585,7 @@ https://zona.media/news/2018/01/17/cheb-nava), [Ярославль](https://twit
 * [Возле приёмной ФСБ в Москве задержаны участники акции против блокировки Telegram (Apr 2018)](https://www.newsru.com/russia/03apr2018/telegram.html)
 * [Активистку c «картонным Слуцким» задержали возле Госдумы (Apr 2018)](https://msk.newsru.com/article/02apr2018/popova.html)
 * [Мэрия Москвы не согласовала шествие сторонников Навального по Тверской (Apr 2018)](https://msk.newsru.com/article/24apr2018/otkaz_naval.html)
+* [На первомайской демонстрации в Москве задержали 25 психоактивистов, в том числе людей с инвалидностью (May 2018)](https://msk.newsru.com/article/01may2018/psychoactive.html)
 
 <!-- ####################################################################### -->
 
