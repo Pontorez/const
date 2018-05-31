@@ -371,13 +371,10 @@ https://zona.media/news/2018/01/17/cheb-nava), [Ярославль](https://twit
 [![Новинка: выездные визы](https://pontorez.github.io/const/img/Visa.png)](https://www.facebook.com/anna.mongayt/posts/10213539042694353?pnref=story)
 
 * [Запрет на выезд может быть вынесен даже в том случае, если в отношении вас не проводилось судебное разбирательство (Dec&#160;2011)](http://guide.travel.ru/russia/196180.html)
-* [Минтранс предложил ввести плату за пересечение границы (Oct 2016)](https://www.newsru.com/russia/12oct2016/russianborders.html)
-* [В Крыму предложили обязать граждан платить налог за отдых вне России (Oct&#160;2016)](https://www.newsru.com/russia/21oct2016/tax.html)
-* [4,5 года ГУЛАГа за мыслепреступление и выезд за пределы Рашки (Dec&#160;2016,&#160;Александра&#160;Иванова&#160;/&#160;Варвара&#160;Караулова)](http://www.mk.ru/social/2016/12/22/v-koloniyu-za-mysli-prigovor-varvare-karaulovoy-ocenili-pravozashhitniki.html)
 * [Гражданку Грузии не выпустили из России из-за отсутствия выездной визы (Jun 2017)](http://theins.ru/news/60636)
-* [Число должников, которым могут запретить выезд за границу, приблизилось к 7 млн человек (Dec 2017)](https://www.newsru.com/finance/04dec2017/baddebtors.html)
 * [Более 22 тысячам жителей Чечни запрещен выезд за рубеж (Feb 2018)](https://www.kavkazcenter.com/russ/content/2018/02/08/116286.shtml)
 * [Почти 100 тысяч москвичей оказались невыездными перед майскими праздниками из-за долгов (Apr 2018)](https://msk.newsru.com/article/28apr2018/nevyezd.html)
+* [Приставы запретили рекордному количеству должников (2,3 млн) выезжать из России (May 2018)](https://zona.media/news/2018/05/31/fssp)
 
 <!-- ####################################################################### -->
 
