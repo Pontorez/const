@@ -302,6 +302,7 @@ https://zona.media/news/2018/01/17/cheb-nava), [Ярославль](https://twit
 * [Полицаи избили 21-летнего задержанного во время акции «Он нам не царь» 5 мая (May 2018, Алексей Аванесян)](http://fedpress.ru/news/23/society/2036697)
 * [Заключенные колонии в Омской области и юристы рассказали о пытках (May 2018, Руслан Сулейманов, Павел Фролов)](https://www.newsru.com/crime/14may2018/tortrapezkomsk.html)
 * [Путинская банда ОМОН провела карательную акцию против мусульман, с пытками (May 2018, Артем Ватря, Абдуррахман Гаджиев)](https://www.kavkazcenter.com/russ/content/2018/05/17/116799.shtml)
+* [ЦПЭшник из Ингушетии и его коллеги обвиняются в пытках и избиении задержанных (May 2018, Тимур Хамхоев, *et al*)](https://zona.media/article/2018/05/18/e-ingushetia)
 * [В Татарстане полицейский вместе с другом избил инвалида и заставил его бежать за машиной на тросе (May 2018)](http://www.pravmir.ru/v-tatarstane-politseyskiy-vmeste-s-drugom-izbil-invalida-i-zastavil-ego-bezhat-za-mashinoy-na-trose/)
 * [Фигурант «дела антифашистов» рассказал о новых пытках в пензенском СИЗО (May 2018, Дмитрий Пчелинцев)](https://www.newsru.com/russia/21may2018/pchelintsev.html)
 * [В Подмосковье сотрудники полиции избили и задержали местного жителя без объяснения причин (May 2018, Фахриддин Тагоймуродов)](https://mbk.media/news/v-sneniya-pric/)
