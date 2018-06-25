@@ -587,6 +587,7 @@ https://zona.media/news/2018/01/17/cheb-nava), [Ярославль](https://twit
 * [Под Коломной на четвертые сутки акции против свалки «Воловичи» начались задержания (Mar 2018)](https://msk.newsru.com/article/28mar2018/volovichi.html)
 * [Возле приёмной ФСБ в Москве задержаны участники акции против блокировки Telegram (Apr 2018)](https://www.newsru.com/russia/03apr2018/telegram.html)
 * [Активистку c «картонным Слуцким» задержали возле Госдумы (Apr 2018)](https://msk.newsru.com/article/02apr2018/popova.html)
+* [В Сочи сторонника Навального арестовали из-за одиночного пикета об отмене итогов выборов (Apr 2018, Дмитрий Титков)](https://ovdinfo.org/express-news/2018/04/02/v-sochi-storonnika-navalnogo-arestovali-iz-za-odinochnogo-piketa-ob-otmene)
 * [Мэрия Москвы не согласовала шествие сторонников Навального по Тверской (Apr 2018)](https://msk.newsru.com/article/24apr2018/otkaz_naval.html)
 * [На первомайской демонстрации в Москве задержали 25 психоактивистов, в том числе людей с инвалидностью (May 2018)](https://msk.newsru.com/article/01may2018/psychoactive.html)
 * [В Петербурге задержали первомайских демонстрантов с «разлагающимся» портретом пУТИНА, иностранными и&#160;радужными флагами (May 2018)](https://www.newsru.com/russia/01may2018/pitermay.html)
