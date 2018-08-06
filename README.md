@@ -470,6 +470,7 @@ https://zona.media/news/2018/01/17/cheb-nava), [Ярославль](https://twit
 * [На жительницу Хакасии банда ФСБ завела дело о мыслепреступлении за пост в соцсети «ВКонтакте» (Jul 2018, Лидия&#160;Баинова)](https://www.newsru.com/russia/24jul2018/bainova.html)
 * [Магаданский блогер получил семь лет ГУЛАГа за комментарий в соцсети «ВКонтакте» (Jul 2018, Александр Юдин)](https://www.newsru.com/russia/25jul2018/magadan.html)
 * [Жителя Барнаула «судят» за размещение во «ВКонтакте» картинки «Джон Сноу воскрес» (Jul 2018, Даниил Маркин)](https://tjournal.ru/74334-luchshego-cirka-ya-eshche-ne-licezrel-zhitelya-barnaula-sudyat-za-ekstremizm-iz-za-izobrazheniy-vo-vkontakte)
+* [Уголовное дело за размещение во «Вконтакте» нескольких изображений-мемов (Aug 2018, Андрей Шашерин)](https://medium.com/fighting-russian-censorship/%D0%BC%D0%B5%D0%BC%D1%8B-%D0%B8%D0%B7-%D0%B4%D0%B5%D0%BB%D0%B0-%D0%B0%D0%BD%D0%B4%D1%80%D0%B5%D1%8F-%D1%88%D0%B0%D1%88%D0%B5%D1%80%D0%B8%D0%BD%D0%B0-5754005ddf04)
 
 #### 2. Не допускаются пропаганда или агитация, возбуждающие социальную, расовую, национальную или&#160;религиозную ненависть и вражду
 * [Песков: Печень митингующих надо размазать по асфальту (May 2012)](http://graniru.org/Events/Crime/m.197585.html)
