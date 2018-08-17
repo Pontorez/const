@@ -319,6 +319,9 @@ https://zona.media/news/2018/01/17/cheb-nava), [Ярославль](https://twit
 * [Сотрудник брянской ИК запытал заключенного до смерти (Jul 2018)](https://www.newsru.com/russia/24jul2018/bryanskpytki.html)
 * [В забайкальской колонии пытали заключенных, вымещая злобу за проигрыш сборной на ЧМ (Aug 2018)](https://www.newsru.com/russia/01aug2018/fsintortfrchamp.html)
 * [Двое арестантов из СИЗО-6 в Горелово рассказали о пытках ФСБ (Aug 2018, Павел Зломнов, Роман Гроздов)](https://ivbg.ru/7931550-dvoe-arestantov-iz-sizo-6-v-gorelovo-rasskazali-o-pytkax-fsb.html)
+* [Экс-мэр Ярославля рассказал о ежедневных пытках во всех тюрьмах области (Aug 2018, Евгений Урлашов)](https://www.newsru.com/russia/03aug2018/urlashov.html)
+* [В Мордовии проверяют новую информацию о надзирателях-садистах (Aug 2018)](https://www.newsru.com/russia/08aug2018/fsinmordov.html)
+* [В Омской колонии ИК-7 пытают чеченца Малхо Бисултанова (Aug 2018)](https://twitter.com/newkc14/status/1028220964859990016)
 
 <!-- ####################################################################### -->
 
