@@ -66,7 +66,7 @@ https://www.newsru.com/russia/23jan2018/electionlyagtan.html), [Екатерин
 https://twitter.com/leonidvolkov/status/955815071258640384), [Казань](
 https://www.newsru.com/russia/23jan2018/electionlyagtan.html), [Калуга](
 https://www.newsru.com/russia/18jan2018/shtaby.html), [Пермь](http://zvzda.ru/news/8ea83a624988), [Псков](
-https://www.svoboda.org/a/28986631.html), [Санкт-Петербург](https://www.fontanka.ru/2018/01/18/086/), [Ставрополь](
+https://www.svoboda.org/a/28986631.html), [Санкт&#x2011;Петербург](https://www.fontanka.ru/2018/01/18/086/), [Ставрополь](
 https://vk.com/wall-144334774_2914), [Тюмень](https://www.sibreal.org/a/28984682.html), [Чебоксары](
 https://zona.media/news/2018/01/17/cheb-nava), [Ярославль](https://twitter.com/leonidvolkov/status/955815071258640384)
 * [Тамбовских школьников привлекли к незаконной агитации за пУТИНА (Jan 2018)](https://www.newsru.com/russia/22jan2018/tambovforputin.html)
@@ -458,7 +458,7 @@ https://zona.media/news/2018/01/17/cheb-nava), [Ярославль](https://twit
 * [Студента из Старого Оскола приговорили к 2,5 годам колонии-поселения за репосты картинок во «ВКонтакте» (Feb&#160;2018, Александр Крузе)](https://amalgin.dreamwidth.org/6978013.html)
 * [Уголовное дело за переговоры во время игры в World of Tanks (Feb 2018, Михаил Ларионов)](http://www.sova-center.ru/misuse/news/persecution/2018/02/d38874/)
 * [Полиция нагрянула к челябинским студентам, попытавшимся обожествить свободу информации (Feb 2018, Александр Беляев, Искандер&#160;Тагаев, Никита Дворецкий)](https://www.newsru.com/russia/24feb2018/truebelief.html)
-* [На пранкера Вольнова завели дело за распространение слухов о сотнях жертв пожара в Кемерово (Mar 2018, Никита Кувиков)](https://www.newsru.com/russia/28mar2018/volnov.html)
+* [На пранкера Евгения Вольнова завели дело за распространение слухов о сотнях жертв пожара в Кемерово (Mar 2018, Никита Кувиков)](https://www.newsru.com/russia/28mar2018/volnov.html)
 * [Репост в телеграме стал поводом для уголовного дела (Apr 2018, Дмитрий Третьяков)](https://varlamov.ru/2860992.html)
 * [Жительницу Омска обвинили в мыслепреступлении за пост в соцсети о плохих дорогах в регионе (Apr 2018, Екатерина&#160;Прец)](https://www.kavkazcenter.com/russ/content/2018/04/26/116704.shtml)
 * [Мусора́ преследуют жителя Тверской области за публикации во «ВКонтакте» (May 2018, Владимир Егоров)](https://www.mk.ru/incident/2018/05/07/sravnivshego-putina-s-gryzunom-elektrika-sudyat-v-tverskoy-oblasti.html)
@@ -478,6 +478,7 @@ https://zona.media/news/2018/01/17/cheb-nava), [Ярославль](https://twit
 * [В городе Кызыле, республика Тува задержана журналистка Оюма Донгак за пост «ВКонтакте» от 2014 года (Aug&#160;2018)](http://telegra.ph/Zaderzhana-zhurnalistka-08-07)
 * [Москвича оштрафовали на 45 тыс. рублей за размещение в соцсети кадра из мультфильма «Гуси-лебеди» (Aug&#160;2018, С. Крючков)](https://news.rambler.ru/other/40498711-moskvicha-oshtrafovali-za-razmeschenie-v-sotsseti-kadra-iz-multfilma-gusi-lebedi-s-antisemitskoy-podpisyu/)
 * [Студента из Ставрополя арестовали на трое суток за репост блога Ильи Варламова о музее Второй мировой войны в Польше (Aug 2018, Павел Карачаушев)](https://zona.media/news/2018/08/10/varlamovwhat)
+* [Петербургского инвалида судят за политический анекдот и карикатуру с «ватником» (Aug 2018, Эдуард Никитин)](https://www.newsru.com/russia/20aug2018/anekdot.html)
 
 #### 2. Не допускаются пропаганда или агитация, возбуждающие социальную, расовую, национальную или&#160;религиозную ненависть и вражду
 * [Песков: Печень митингующих надо размазать по асфальту (May 2012)](http://graniru.org/Events/Crime/m.197585.html)
