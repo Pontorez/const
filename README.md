@@ -323,6 +323,7 @@ https://zona.media/news/2018/01/17/cheb-nava), [Ярославль](https://twit
 * [В Омской колонии ИК-7 пытают чеченца Малхо Бисултанова (Aug 2018)](https://twitter.com/newkc14/status/1028220964859990016)
 * [В Кемеровской области есть колония, которой пугают осужденных. Зэков в ней заставляют называть себя животными, пытают и насилуют (Aug 2018)](https://meduza.io/feature/2018/08/23/v-kemerovskoy-oblasti-est-koloniya-kotoroy-pugayut-osuzhdennyh-zekov-v-ney-zastavlyayut-nazyvat-sebya-zhivotnymi-pytayut-i-nasiluyut)
 * [Появилось новое видео избиений заключенных в ярославской колонии (Aug 2018, Иван Непомнящих, Руслан Вахапов, Евгений Макаров)](https://www.newsru.com/russia/23aug2018/tortvideoik1yaro.html)
+* [Заключенный Макаров рассказал о новых издевательствах в ярославской колонии вопреки приставленной к нему госзащите (Aug 2018)](https://www.newsru.com/russia/30aug2018/makarov.html)
 
 <!-- ####################################################################### -->
 
