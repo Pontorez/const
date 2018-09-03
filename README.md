@@ -322,8 +322,9 @@ https://zona.media/news/2018/01/17/cheb-nava), [Ярославль](https://twit
 * [В Мордовии проверяют новую информацию о надзирателях-садистах (Aug 2018)](https://www.newsru.com/russia/08aug2018/fsinmordov.html)
 * [В Омской колонии ИК-7 пытают чеченца Малхо Бисултанова (Aug 2018)](https://twitter.com/newkc14/status/1028220964859990016)
 * [В Кемеровской области есть колония, которой пугают осужденных. Зэков в ней заставляют называть себя животными, пытают и насилуют (Aug 2018)](https://meduza.io/feature/2018/08/23/v-kemerovskoy-oblasti-est-koloniya-kotoroy-pugayut-osuzhdennyh-zekov-v-ney-zastavlyayut-nazyvat-sebya-zhivotnymi-pytayut-i-nasiluyut)
-* [Появилось новое видео избиений заключенных в ярославской колонии (Aug 2018, Иван Непомнящих, Руслан Вахапов, Евгений Макаров)](https://www.newsru.com/russia/23aug2018/tortvideoik1yaro.html)
+* [Появилось новое видео избиений заключенных в ярославской колонии (Aug 2018, Иван Непомнящих, Руслан&#160;Вахапов, Евгений Макаров)](https://www.newsru.com/russia/23aug2018/tortvideoik1yaro.html)
 * [Заключенный Макаров рассказал о новых издевательствах в ярославской колонии вопреки приставленной к нему госзащите (Aug 2018)](https://www.newsru.com/russia/30aug2018/makarov.html)
+* [Сотрудник ФСБ пытал бизнесмена охотничьим карабином (Aug 2018)](https://lenta.ru/news/2018/08/30/pytki/)
 
 <!-- ####################################################################### -->
 
@@ -352,7 +353,7 @@ https://zona.media/news/2018/01/17/cheb-nava), [Ярославль](https://twit
 * [На россии будут 3 года хранить всю интернет-переписку (Apr 2016)](https://by24.org/2016/04/23/all_online_correspondence_in_russia_will_be_stored_during_3_years/)
 * [Главарь банды «ФСБ» призвал «решить проблему» анонимности интернета (Jul 2016)](https://www.rbc.ru/rbcfreenews/5798765a9a7947a83cea1da8)
 * [Банда «ФСБ» опубликовала приказ о порядке сбора ключей шифрования в интернете (Aug 2016)](https://meduza.io/news/2016/08/14/fsb-opublikovala-prikaz-o-poryadke-sbora-klyuchey-shifrovaniya-v-internete)
-* [Органы власти обсуждают вопрос расшифровки и анализа всего интернет-трафика на россии (Sep 2016)](http://www.interfax.ru/russia/529893)
+* [Органы власти обсуждают вопрос расшифровки и анализа всего интернет-трафика на россии (Sep 2016)](https://www.interfax.ru/russia/529893)
 * [На россии приступили к поиску способов перехвата переписки по WhatsApp и Skype (Oct 2016)](https://www.newsru.com/russia/04oct2016/whatsapp.html)
 * [При патрулировании т.н. «правоохранители» не только досматривали автомобили, но и изучали содержание переписок в&#160;мобильных телефонах (Jan 2017)](http://tass.ru/proisshestviya/3937929)
 * [Законопроект о запрете анонимности в мессенджерах принят в первом чтении (Jun 2017)](https://amalgin.dreamwidth.org/6292980.html)
@@ -523,9 +524,9 @@ https://zona.media/news/2018/01/17/cheb-nava), [Ярославль](https://twit
 * [Т.н. «суд» обязал «Ведомости» удалить материал о доме Сечина в Барвихе и уничтожить тираж номера (Sep 2016)](https://www.newsru.com/russia/16sep2016/sechin.html)
 * [Чекистская банда «Роскомнадзор» внёсла сайт «Дети-404» в список запрещённых (Oct 2016)](https://www.newsru.com/russia/11oct2016/deti.html)
 * [Пермская прокуратура начала проверку против театра из-за «лесбийских сцен» (Oct 2016)](https://www.newsru.com/cinema/24oct2016/teatrteatr.html)
-* [На россии заблокирован сайт LinkedIn (Nov 2016)](http://offshoreview.eu/2016/11/18/v-rossii-zablokirovan-sayt-linkedin/)
+* [На россии заблокирован сайт LinkedIn (Nov 2016)](https://offshoreview.eu/2016/11/18/v-rossii-zablokirovan-sayt-linkedin/)
 * Паблик «[Рашка — Квадратный Ватник](https://vk.com/public_rushka)» [заблокирован т.н. «судом» за изображения с пУТИНЫМ в нацистской форме (Nov&#160;2016)](https://openrussia.org/notes/701409/)
-* [В Орле изъяли из типографии тираж газеты с критикой губернатора (Dec 2016)](http://www.newizv.ru/society/2016-12-23/250460-v-orle-izjali-iz-tipografii-tirazh-gazety-s-kritikoj-gubernatora-potomskogo.html)
+* [В Орле изъяли из типографии тираж газеты с критикой губернатора (Dec 2016)](https://newizv.ru/news/society/23-12-2016/250460-v-orle-izjali-iz-tipografii-tirazh-gazety-s-kritikoj-gubernatora-potomskogo)
 * [Банда «Роскомнадзор» получила т.н. «предписание» т.н. «Мосгорсуда» о т.н. «вечной блокировке» видеохостинга DailyMotion (Jan&#160;2017)](https://avmalgin.livejournal.com/6750410.html)
 * [Чекистская банда «Роскомнадзор» «заблокировала» страницу сайта аукционного дома Bonhams из-за фотографии Стерджеса (Feb 2017)](https://hitech.newsru.com/article/06feb2017/rknbonhams)
 * [Банда «Генпрокуратура» потребовала заблокировать доступ к ресурсам с призывами выйти на митинги 2 апреля (Mar 2017)](https://www.newsru.com/russia/31mar2017/block.html)
@@ -560,11 +561,11 @@ https://zona.media/news/2018/01/17/cheb-nava), [Ярославль](https://twit
 [![Статья 31](https://pontorez.github.io/const/img/Mar%2026%2C%202017.jpg)](https://pontorez.github.io/const/)
 
 * [За год существования движения «Стратегии-31» ни один из митингов на Триумфальной площади не&#160;был «санкционирован» властями](https://ru.wikipedia.org/wiki/Стратегия-31)
-* [Власти Москвы запретили гей-парад одиннадцатый год подряд (May 2016)](http://www.gayrussia.eu/russia/12933/)
+* [Власти Москвы запретили гей-парад одиннадцатый год подряд (May 2016)](https://lenta.ru/news/2016/05/18/parad/)
 * [Путинской банде «нацгвардия» разрешили расстреливать «большие скопления людей» (Jun 2016)](https://kavkazcenter.com/russ/content/2016/06/21/112537/putinskoj-bande-natsgvardiya-razreshili-rasstrelivat-bolshie-skopleniya-lyudej.shtml)
 * [Московские власти передумали разрешать оппозиции митинг против «пакета Яровой» (Jul 2016)](http://bun.com.ua/2016/07/22/moskovskie-vlasti-peredumali-razreshat-oppozicii-miting.html)
 * [В «гайд-парке» на Марсовом поле были задержаны участники ЛГБТ-инициативной группы «Выход» (Aug 2016)](https://ovdinfo.org/stories/2016/08/03/nesluchivshiysya-raduzhnyy-fleshmob)
-* [В Краснодаре запрещают уличную агитацию ПАРНАС (Aug 2016)](http://golos-kubani.ru/v-krasnodare-zapreshhayut-ulichnuyu-agitaciyu-parnas/)
+* [В Краснодаре запрещают уличную агитацию ПАРНАС (Aug 2016)](https://golos-kubani.ru/v-krasnodare-zapreshhayut-ulichnuyu-agitaciyu-parnas/)
 * [На Красной площади задержали участников акции в память о демонстрации 1968 года (Aug 2016)](https://ovdinfo.org/express-news/2016/08/25/na-krasnoy-ploshchadi-zaderzhali-uchastnikov-akcii-v-pamyat-o-demonstracii)
 * [В Бурятии задержаны пикетчики, встречавшие Медведева (Менделя) с плакатами «Денег нет. Держимся» (Sep&#160;2016)](https://www.newsru.com/russia/07sep2016/piketmedvedev.html)
 * [В Москве у здания Госдумы задержаны активисты за чтение Конституции России (Sep 2016)](https://ovdinfo.org/express-news/2016/09/12/v-moskve-za-chtenie-konstitucii-rossii-zaderzhany-aktivisty)
@@ -647,7 +648,7 @@ https://zona.media/news/2018/01/17/cheb-nava), [Ярославль](https://twit
 * [Преподавателя МФТИ оштрафовали на 20 тыс. рублей за одиночный пикет в защиту подозревавшегося в&#160;вандализме студента МГУ (Jun 2018)](https://msk.newsru.com/article/09jun2018/arutun_shtraf.html)
 * [Двух человек задержали на митинге оппозиции в центре столицы (Jun 2018, Дарья Полюдова, Иван Гуськов)](https://msk.newsru.com/article/10jun2018/oppose.html)
 * [Участников учредительной конференции «Открытой России» во Владивостоке избили и задержали (Jun 2018)](https://www.newsru.com/russia/12jun2018/orvlad.html)
-* [Калининградский «суд» оштрафовал на 150 тыс. рублей сторонника Навального за участие в акции 5 мая (Jun 2018, Владимир Федоров)](https://www.newsru.com/russia/15jun2018/150trfinefrnavalny.html)
+* [Калининградский «суд» оштрафовал на 150 тыс. рублей сторонника Навального за участие в акции 5 мая (Jun&#160;2018, Владимир Федоров)](https://www.newsru.com/russia/15jun2018/150trfinefrnavalny.html)
 * [На Манежной площади задержали активистов, «бойкотировавших» ЧМ-2018 (Jun 2018, Дарья Полюдова, Кирилл&#160;Котов)](https://msk.newsru.com/article/12jun2018/manezhka.html)
 * [В отношении британского ЛГБТ-активиста, задержанного у Красной площади с плакатом, возбуждено административное дело (Jun 2018, Peter&#160;Tatchell)](https://www.newsru.com/russia/14jun2018/lgbtdetained.html)
 * [Лидера столичного отделения партии «Яблоко» задержали за пикет против повышения пенсионного возраста (Jun&#160;2018, Сергей Митрохин)](https://msk.newsru.com/article/19jun2018/antipens.html)
@@ -694,19 +695,19 @@ https://zona.media/news/2018/01/17/cheb-nava), [Ярославль](https://twit
 ### Статья 36
 
 #### 2. Владение, пользование и распоряжение землей и другими природными ресурсами осуществляются их&#160;собственниками свободно, если это не наносит ущерба окружающей среде и не нарушает прав и&#160;законных интересов иных лиц.
-* [Чиновники разрешили БЦБК еще год сливать в Байкал загрязняющие вещества (Aug 2012)](http://tayga.info/news/2012/08/14/~109203)
+* [Чиновники разрешили БЦБК еще год сливать в Байкал загрязняющие вещества (Aug 2012)](https://tayga.info/109203)
 
 <!-- ####################################################################### -->
 
 ### Статья 37
 
 #### 1. Труд свободен. Каждый имеет право свободно распоряжаться своими способностями к труду, выбирать&#160;род&#160;деятельности и профессию.
-* [В Госдуру внесен законопроект об использовании на крупных стройках сил заключенных](http://www.restate.ru/material/161302.html)
-* [В Новосибирской области трудовым мигрантам запретили работать учителями и&#160;таксистами (Aug 2016)](http://islam-today.ru/novosti/2016/08/16/migrantam-zapretili-rabotat-ucitelami-i-taksistami/)
+* [В Госдуру внесен законопроект об использовании на крупных стройках сил заключенных](https://www.restate.ru/material/v-gosdumu-vnesen-zakonoproekt-ob-ispolzovanii-na-krupnyh-stroykah-sil-zaklyuchennyh-161302.html)
+* [В Новосибирской области трудовым мигрантам запретили работать учителями и&#160;таксистами (Aug 2016)](https://islam-today.ru/novosti/2016/08/16/migrantam-zapretili-rabotat-ucitelami-i-taksistami/)
 
 #### 2. Принудительный труд запрещен.
 * [Заключенные в Саратове массово жалуются на рабский труд в колонии (Jun 2014)](https://life.ru/t/новости/135828)
-* [ФСИН переведет все колонии на самообеспечение продовольствием (Jan 2017)](http://www.interfax.ru/russia/547147)
+* [ФСИН переведет все колонии на самообеспечение продовольствием (Jan 2017)](https://www.interfax.ru/russia/547147)
 * [«Суд» назначил блогеру 160 часов обязательных работ за видеоролик с призывом выйти на митинг против Амана Тулеева (Jul 2018, Михаил&#160;Алферов)](https://meduza.io/news/2018/07/10/kemerovskomu-blogeru-naznachili-obyazatelnye-raboty-za-prizyv-vyyti-na-aktsiyu-kotoraya-ne-sostoyalas)
 
 #### 3. Каждый имеет право на труд в условиях, отвечающих требованиям безопасности и гигиены
