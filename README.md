@@ -488,6 +488,8 @@ https://zona.media/news/2018/01/17/cheb-nava), [Ярославль](https://twit
 * [В Калининградской области мужчина с аутизмом обвинен в экстремизме из-за картинки в соцсети, «разжигающей ненависть к женщинам» (Aug 2018, Артур Смирнов)](https://www.newsru.com/russia/27aug2018/smirnov.html)
 * [На жителя Петербурга завели дело за комментарий на YouTube (Aug 2018, Евгений Николаев)](https://nevnov.ru/586836-na-zhitelya-peterburga-zaveli-delo-za-kommentarii-na-yutube)
 * [15-летнему школьнику пригрозили уголовными делами после комментария во «ВКонтакте» (Sep 2018)](https://graniru.org/tags/police/m.272534.html)
+* [«Красная плесень» не спасла от «попсовых» злодеев: в РФ завели дело за репост песни и мультика об изгнании Гитлера (Sep 2018, Олег Астафьев)](https://www.newsru.com/russia/05sep2018/reposr.html)
+* [Жителя Нальчика «осудили» на 2 года за нелюбовь к русским и перепост карикатур на пУТИНА (Sep 2018, Магомед Дудов)](http://kavkazcenter.com/russ/content/2018/09/08/117253/chekizm--zhitelya-nalchika-osudili-na-2-goda-za-nelyubov-k-russkim-i-perepost-karikatur-na-putina.shtml)
 
 #### 2. Не допускаются пропаганда или агитация, возбуждающие социальную, расовую, национальную или&#160;религиозную ненависть и вражду
 * [Песков: Печень митингующих надо размазать по асфальту (May 2012)](https://graniru.org/Events/Crime/m.197585.html)
