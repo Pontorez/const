@@ -518,7 +518,7 @@ https://zona.media/news/2018/01/17/cheb-nava), [Ярославль](https://twit
 * [На россии запретили обходить блокировки через VPN (Nov 2017)](https://hitech.vesti.ru/article/687791/)
 * [Банда «Роскомнадзор» «заблокировала» сайт движения «Открытая Россия» (Dec 2017)](https://www.newsru.com/russia/12dec2017/otkr.html)
 * [пУТИН своим **указом** засекретил данные о защищенности информационных систем РФ (Dec 2017)](https://iz.ru/715511/2018-03-02/putin-zasekretil-dannye-o-zashchishchennosti-informatcionnykh-sistem-rf)
-* [пУТИН **указом** засекретил данные о внештатных разведчиках (Dec 2017)](https://lenta.ru/news/2018/09/04/secret/)
+* [пУТИН **указом** засекретил данные о внештатных разведчиках (Sep 2018)](https://lenta.ru/news/2018/09/04/secret/)
 
 #### 5. Гарантируется свобода массовой информации. Цензура запрещается.
 * [96 % сайтов в Рунете «блокируются» незаконно](http://www.towave.ru/news/96-saitov-v-runete-blokiruyutsya-nezakonno.html)
