@@ -495,6 +495,7 @@ https://zona.media/news/2018/01/17/cheb-nava), [Ярославль](https://twit
 * [15-летнему школьнику пригрозили уголовными делами после комментария во «ВКонтакте» (Sep 2018)](https://graniru.org/tags/police/m.272534.html)
 * [Россиянку обвинили в «экстремизме» за частушки о судьях (Sep 2018, Наталия Ковалёва)](https://lenta.ru/news/2018/09/04/saratov/)
 * [«Красная плесень» не спасла от «попсовых» злодеев: в РФ завели дело за репост песни и мультика об изгнании Гитлера (Sep&#160;2018, Олег Астафьев)](https://www.newsru.com/russia/05sep2018/reposr.html)
+* [Омск: возбуждено дело в отношении феминистки за посты во «ВКонтакте» (Sep 2018, Любовь Калугина)](https://www.sibreal.org/a/29472731.html)
 * [Жителя Нальчика «осудили» на 2 года за нелюбовь к русским и перепост карикатур на пУТИНА (Sep 2018, Магомед&#160;Дудов)](https://kavkazcenter.com/russ/content/2018/09/08/117253/chekizm--zhitelya-nalchika-osudili-na-2-goda-za-nelyubov-k-russkim-i-perepost-karikatur-na-putina.shtml)
 * [Анархиста из Иркутска обвинили в оскорблении чувств верующих за картинки с чужой страницы в соцсети (Sep 2018, Дмитрий Литвин)](https://mbk.sobchakprotivvseh.ru/news/anarxista-iz-irkutska-obvinili-v/)
 * [Сургутский городской «суд» приговорил 27-летнего местного жителя к двум годам условно за посты во&#160;«ВКонтакте» (Sep 2018)](https://tvrain.ru/news/srok_za_video_protiv_lits_neslavjanskogo_etnosa-471765/)
