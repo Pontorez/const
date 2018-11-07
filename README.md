@@ -544,6 +544,7 @@ https://zona.media/news/2018/01/17/cheb-nava), [Ярославль](https://twit
 #### 5. Гарантируется свобода массовой информации. Цензура запрещается.
 * [96 % сайтов в Рунете «блокируются» незаконно](http://www.towave.ru/news/96-saitov-v-runete-blokiruyutsya-nezakonno.html)
 * [Верховный «суд» отклонил жалобу на засекречивание военных потерь (Aug 2015)](https://www.rbc.ru/politics/13/08/2015/55ccb72e9a79474b3b1e2708)
+* [Российский «суд» запретил рассказывать о сотрудничестве СССР и нацистской Германии (Jul 2016)](https://www.mk.ru/social/2016/07/01/rossiyskiy-sud-zapretil-rasskazyvat-o-sotrudnichestve-sssr-i-nacistskoy-germanii.html)
 * [Чекистская банда «Роскомнадзор» «заблокировала» четыре сайта, призывавшие бойкотировать «выборы» в&#160;Госдуру (Jul&#160;2016)](https://www.newsru.com/russia/08jul2016/block.html)
 * [Банда «Роскомнадзор» полностью «заблокировала» доступ к YouPorn и PornHub (Sep 2016)](https://www.newsru.com/russia/14sep2016/rskmndzr.html)
 * [Т.н. «суд» обязал «Ведомости» удалить материал о доме Сечина в Барвихе и уничтожить тираж номера (Sep 2016)](https://www.newsru.com/russia/16sep2016/sechin.html)
