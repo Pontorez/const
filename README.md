@@ -1,7 +1,7 @@
 ## Конституция РФ
 
 [![License](https://img.shields.io/badge/license-WTFPL-lightgrey.svg)](https://github.com/Pontorez/const/blob/master/LICENSE)
-[![Putler Kaput!](https://img.shields.io/badge/putin-hyulo-blue.svg)](https://pontorez.com/node/361)
+[![Putler Kaput!](https://img.shields.io/badge/putin-hyulo-blue.svg)](http://pontorez.com/node/361)
 [![КаРФаген](https://img.shields.io/badge/каРФаген-долженБытьРазрушен-red.svg)](https://plus.google.com/communities/105380391317425919200)
 [![Народовластие](https://img.shields.io/badge/Мальцев-Народовластие-red.svg)](https://www.youtube.com/channel/UCv5dc2Zi6j5IXQ_NKTZuSLA/videos)
 [![ARTPODGOTOVKA](https://img.shields.io/badge/Мальцев-Артподготовка-red.svg)](https://www.youtube.com/user/artpodgotovka/videos)
@@ -161,7 +161,7 @@ https://zona.media/news/2018/01/17/cheb-nava), [Ярославль](https://twit
 
 #### 2. В Российской Федерации признаются и защищаются равным образом частная, государственная, муниципальная и&#160;иные формы собственности.
 * [Госдура позволит полиции вскрывать автомобили граждан (Jul 2015)](https://www.zr.ru/content/news/795832-gosduma-pozvolit-policii-vskryvat-avtomobili-grazhdan/)
-* [Банда «Лев Против», крышуемая бандой «Общественная палата» занимается открытым хищением и&#160;повреждением чужого имущества (Apr&#160;2016)](https://pontorez.com/v/Lev_protiv_93.mp4)
+* [Банда «Лев Против», крышуемая бандой «Общественная палата» занимается открытым хищением и&#160;повреждением чужого имущества (Apr&#160;2016)](http://pontorez.com/v/Lev_protiv_93.mp4)
 * [Чиновники в Татарстане поручили изымать детей из семей, которые не платят «коммуналку» (Jan 2017)](https://ruposters.ru/news/13-01-2017/poruchil-izymat-detej-ne-platit-kommunalku)
 
 <!-- ####################################################################### -->
@@ -671,7 +671,8 @@ https://zona.media/news/2018/01/17/cheb-nava), [Ярославль](https://twit
 * [В Петербурге задержали первомайских демонстрантов с «разлагающимся» портретом пУТИНА, иностранными и&#160;радужными флагами (May&#160;2018)](https://www.newsru.com/russia/01may2018/pitermay.html)
 * [5 мая акциях на против очередного президентского срока Хуйла задержано более 1600 человек (May 2018)](https://amalgin.dreamwidth.org/7119939.html)
 * [Алексея Навального арестовали на 30 суток за акцию 5 мая в Москве (May 2018)](https://www.newsru.com/russia/15may2018/navalny30.html)
-* [В Улан-Удэ власти разогнали акцию протеста против массовой вырубки леса китайцами. 11 задержанных (May&#160;2018)](https://vtinform.com/news/138/126552/?sphrase_id=5832994)
+* [На митинге за свободу интернета в Москве задержали несколько десятков человек (May 2018)](https://meduza.io/news/2018/05/13/na-mitinge-za-svobodu-interneta-v-rossii-zaderzhali-neskolko-desyatkov-chelovek)
+* [В Улан-Удэ власти разогнали акцию протеста против массовой вырубки леса китайцами. 11 задержанных (May&#160;2018)](http://vtinform.com/news/138/126552/?sphrase_id=5832994)
 * [Сотрудников ФБК арестовали на 25—30 суток за «повторное нарушение порядка проведения массовых мероприятий» (May 2018, Кира&#160;Ярмыш, Сергей Бойко, Руслан Шаведдинов)](https://amalgin.dreamwidth.org/7147336.html)
 * [77-летнего жителя Саратова вызвали в отдел полиции в связи с акцией 5 мая (May 2018, Юрий Кутузов)](https://ovdinfo.org/express-news/2018/05/24/77-letnego-zhitelya-saratova-vyzvali-v-otdel-policii-v-svyazi-s-akciey-5)
 * [В Москве задержали участницу одиночного пикета в поддержку Олега Сенцова (May 2018)](https://echo.msk.ru/news/2210264-echo.html)
@@ -958,6 +959,6 @@ https://zona.media/news/2018/01/17/cheb-nava), [Ярославль](https://twit
 ### Статья 131
 
 #### 2. Изменение границ территорий, в которых осуществляется местное самоуправление, допускается с&#160;учетом мнения населения соответствующих территорий.
-* [Территория Сколково будет насильно исключена из территории муниципального образования Новоивановское, что противоречит статье 131 Конституции, которая позволяет изменение границ территории местного самоуправления только с учетом мнения населения](http://www.odintsovo.info/news/?div_id=1&id=30071)
+* [Территория Сколково будет насильно исключена из территории муниципального образования Новоивановское, что противоречит статье 131 Конституции, которая позволяет изменение границ территории местного самоуправления только с учетом мнения населения](https://odintsovo.info/news/?div_id=1&id=30071)
 
 <a href="http://info.flagcounter.com/3cwO"><img src="https://s10.flagcounter.com/count2/3cwO/bg_FFFFFF/txt_000000/border_CCCCCC/columns_6/maxflags_18/viewers_0/labels_1/pageviews_1/flags_0/percent_0/" alt="Flag Counter" border="0" width="1" height="1" style="width:1px; height:1px"></a>
