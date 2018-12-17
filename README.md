@@ -143,6 +143,7 @@ https://zona.media/news/2018/01/17/cheb-nava), [Ярославль](https://twit
 * [Почти 40 % русских семей голодают, не могут купить лекарства и переходят на махорку (Nov 2017)](https://www.kavkazcenter.com/russ/content/2017/11/24/115884/putinskij-krizis--pochti-40-russkikh-semej-golodayut-ne-mogut-kupit-lekarstva-i-perekhodyat-na-makhorku.shtml)
 * [Волгоградскому пенсионеру, бывшему учителю истории с тремя высшими образованиями, умиравшему в нищете в&#160;неотапливаемой квартире, ампутируют обе ноги из-за сильнейшего обморожения, которое он получил дома (Feb&#160;2018)](https://twitter.com/Angry_Vlg/status/966347404688744455)
 * [За три года «утечка мозгов» из РФ выросла в два раза (Mar 2018)](https://www.newsru.com/russia/30mar2018/utechka.html)
+* [На Камчатке пожилая пара решила свести счёты с жизнью от отчаяния — устали жить на одну пенсию (Nov 2018)](https://www.newsru.com/russia/20nov2018/pensionery.html)
 * [Почти все россияне вынуждены экономить, а пятая часть выбирает, что нужнее — еда или лекарства (Nov 2018)](https://www.newsru.com/russia/21nov2018/bednost.html)
 * [В 2019 году две трети жителей России перейдут в разряд бедных. Сейчас их 57 % (Nov 2018)](https://www.kavkazcenter.com/russ/content/2018/11/23/117541/putinskij-krizis--v-2019-godu-dve-treti-zhitelej-rossii-perejdut-v-razryad-bednykh--sejchas-ikh-57.shtml)
 * [Каждый пятый работающий россиянин получает меньше 15 тысяч рублей ($224) (Dec 2018)](https://www.newsru.com/russia/03dec2018/high_zp.html)
