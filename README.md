@@ -341,6 +341,7 @@ https://zona.media/news/2018/01/17/cheb-nava), [Ярославль](https://twit
 * [Члены петербургской ОНК представили доклад о пытках в отделах ФСБ: «это неотъемлемая часть расследования» (Oct 2018)](https://www.newsru.com/russia/25oct2018/onk.html)
 * [Пытки в Дагестане поставлены на поток (Nov 2018, Биярслан Акаев)](https://www.svoboda.org/a/29575516.html)
 * [Члены банды ЦПЭ в Дагестане выбивали показания с помощью пыток (Nov 2018, Абуталип Шахруев)](https://www.kavkazr.com/a/pytali-shvabroy-paketom-provodami/29579091.html)
+* [Похищенных жителей Дагестана под угрозой расправы заставили зачитать присягу ИГ и затем жестоко пытали (Nov 2018, Самат Татарханов, Даниял Загиров)](https://www.kavkazcenter.com/russ/content/2018/11/04/117480/terror--pokhischennykh-zhitelej-dagestana-pod-ugrozoj-raspravy-zastavili-zachitat-prisyagu-ig-i-zatem-zhestoko-pytali.shtml)
 * [Житель Нижнекамска подал жалобу в ЕСПЧ из-за пыток в полицейской машине (Nov 2018, Виталий Зачётов)](https://www.novayagazeta.ru/news/2018/11/12/146716-zhitel-nizhnekamska-podal-zhalobu-v-espch-iz-za-pytok-v-politseyskoy-mashine)
 * [Заключенному отрезали язык, вырвали несколько зубов и предложили покончить с собой или никому не&#160;рассказывать об этом. Филиал ада во Владимирском централе (Dec 2018)](https://zona.media/news/2018/12/04/tongue)
 
