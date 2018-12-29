@@ -344,6 +344,7 @@ https://zona.media/news/2018/01/17/cheb-nava), [Ярославль](https://twit
 * [Похищенных жителей Дагестана под угрозой расправы заставили зачитать присягу ИГ и затем жестоко пытали (Nov 2018, Самат Татарханов, Даниял Загиров)](https://www.kavkazcenter.com/russ/content/2018/11/04/117480/terror--pokhischennykh-zhitelej-dagestana-pod-ugrozoj-raspravy-zastavili-zachitat-prisyagu-ig-i-zatem-zhestoko-pytali.shtml)
 * [Житель Нижнекамска подал жалобу в ЕСПЧ из-за пыток в полицейской машине (Nov 2018, Виталий Зачётов)](https://www.novayagazeta.ru/news/2018/11/12/146716-zhitel-nizhnekamska-podal-zhalobu-v-espch-iz-za-pytok-v-politseyskoy-mashine)
 * [Заключенному отрезали язык, вырвали несколько зубов и предложили покончить с собой или никому не&#160;рассказывать об этом. Филиал ада во Владимирском централе (Dec 2018)](https://zona.media/news/2018/12/04/tongue)
+* [Следователи не стали возбуждать дело о пытках в Чечне, хотя у них были доказательства (Dec 2018, Максим Лапунов)](https://www.newsru.com/russia/24dec2018/lapunov.html)
 
 <!-- ####################################################################### -->
 
