@@ -123,8 +123,6 @@ https://zona.media/news/2018/01/17/cheb-nava), [Ярославль](https://twit
 
 #### 1. Российская Федерация — социальное государство, политика которого направлена на создание условий, обеспечивающих достойную жизнь и свободное развитие человека.
 
-[![Статья 7](https://pontorez.github.io/const/img/trash.jpg)](https://pontorez.github.io/const/)
-
 * [Медведев (Мендель) советует россиянам потуже затянуть пояса (Dec 2014)](https://ru.tsn.ua/video/video-novini/medvedev-sovetuet-rossiyanam-potuzhe-zatyanut-poyasa.html)
 * [Русские ученые предложили рабам пУТИНА питаться дождевыми червями (Jul&#160;2015)](https://kavkazcenter.com/russ/content/2015/07/28/109763.shtml)
 * [Медведев (Мендель) подарил стране новый предвыборный лозунг — «Денег нет, но вы держитесь» (May 2016)](http://www.ng.ru/week/2016-05-29/8_economics.html)
