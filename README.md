@@ -287,8 +287,8 @@ https://zona.media/news/2018/01/17/cheb-nava), [Ярославль](https://twit
 [![Акабы](https://pontorez.github.io/const/img/ACABs.jpg)](https://pontorez.github.io/const/)
 
 * [В Красноярском крае сотрудники колонии избивали заключенных под «Полёт валькирий»](https://www.newsru.com/crime/25apr2018/fsinbeatzkvidkras.html)
-* [В Сочи полицейские изнасиловали ломом строителя, чтобы отучить просить зарплату (Jun 2013)](https://pikabu.ru/story/v_sochi_politseyskie_iznasilovali_lomom_stroitelya_chtobyi_otuchit_prosit_zarplatu_1351260)
-* [В Башкирии полицейские применили к подростку пытку «Телевизор» (Jul 2016)](https://proufu.ru/news/society/v_bashkirii_politseyskie_primenili_k_podrostku_pytku_televizor/)
+* [В Сочи полицаи изнасиловали ломом строителя, чтобы отучить просить зарплату (Jun 2013)](https://pikabu.ru/story/v_sochi_politseyskie_iznasilovali_lomom_stroitelya_chtobyi_otuchit_prosit_zarplatu_1351260)
+* [В Башкирии полицаи применили к подростку пытку «Телевизор» (Jul 2016)](https://proufu.ru/news/society/v_bashkirii_politseyskie_primenili_k_podrostku_pytku_televizor/)
 * [В Бурятии подозреваемый после пыток в полиции попал в больницу, а свидетель совершил самоубийство (Oct&#160;2016)](https://www.newsru.com/crime/04oct2016/poltrtfrpinenutbur.html)
 * [Сотрудники ГИБДД раздели, обыскали и избили водителя за «странный» вид и&#160;найденную таблетку (Oct&#160;2016)](https://msk.newsru.com/article/20oct2016/strange_view.html)
 * [Ильдар Дадин рассказал о пытках и угрозах убийством в карельской колонии (Nov&#160;2016)](https://www.newsru.com/russia/01nov2016/dadin.html)
@@ -299,7 +299,7 @@ https://zona.media/news/2018/01/17/cheb-nava), [Ярославль](https://twit
 * [Задержанных на акции протеста 12 июня в Петербурге пытали голодом и холодом (Jun 2017)](https://www.newsru.com/russia/19jun2017/gas.html)
 * [Заключенный уральской колонии из-за пыток попросил пУТИНА лишить его гражданства РФ (Jul 2017, Захар&#160;Грицак)](https://www.newsru.com/russia/11jul2017/ik5.html)
 * [В Подмосковье действует секретная тюрьма ФСБ, где пытают похищенных мусульман (Jul 2017)](https://kavkazcenter.com/russ/content/2017/07/24/115171.shtml)
-* [В Питере полицейские прижигали ноздри задержанным, считает СК (Sep 2017)](https://www.newsru.com/russia/17sep2017/pytki.html)
+* [В Питере полицаи прижигали ноздри задержанным, считает СК (Sep 2017)](https://www.newsru.com/russia/17sep2017/pytki.html)
 * [27 уроженцев Чечни подвергаются пыткам и издевательствам в русском концлагере ИК-5 (Sep 2017)](https://kavkazcenter.com/russ/content/2017/09/21/115483.shtml)
 * [В Москве полицаи задержали молодых людей с применением насилия (Oct 2017)](https://www.svoboda.org/a/28790078.html)
 * [Гей из Омска рассказал о пытках в секретной тюрьме Чечни (Oct 2017)](http://vlasti.net/news/269026)
@@ -316,7 +316,7 @@ https://zona.media/news/2018/01/17/cheb-nava), [Ярославль](https://twit
 * [Заключенные колонии в Омской области и юристы рассказали о пытках (May 2018, Руслан Сулейманов, Павел Фролов)](https://www.newsru.com/crime/14may2018/tortrapezkomsk.html)
 * [Путинская банда «ОМОН» провела карательную акцию против мусульман, с пытками (May 2018, Артем Ватря, Абдуррахман Гаджиев)](https://www.kavkazcenter.com/russ/content/2018/05/17/116799.shtml)
 * [ЦПЭшник из Ингушетии и его коллеги обвиняются в пытках и избиении задержанных (May 2018, Тимур Хамхоев, *et&#160;al*)](https://zona.media/article/2018/05/18/e-ingushetia)
-* [В Татарстане полицейский вместе с другом избил инвалида и заставил его бежать за машиной на тросе (May 2018)](https://www.pravmir.ru/v-tatarstane-politseyskiy-vmeste-s-drugom-izbil-invalida-i-zastavil-ego-bezhat-za-mashinoy-na-trose/)
+* [В Татарстане полицай вместе с другом избил инвалида и заставил его бежать за машиной на тросе (May 2018)](https://www.pravmir.ru/v-tatarstane-politseyskiy-vmeste-s-drugom-izbil-invalida-i-zastavil-ego-bezhat-za-mashinoy-na-trose/)
 * [Фигурант «дела антифашистов» рассказал о новых пытках в пензенском СИЗО (May 2018, Дмитрий Пчелинцев)](https://www.newsru.com/russia/21may2018/pchelintsev.html)
 * [В Подмосковье сотрудники полиции избили и задержали местного жителя без объяснения причин (May 2018, Фахриддин Тагоймуродов)](https://mbk.media/news/v-sneniya-pric/)
 * [Воронежские студенты: Пока не попали в полицию, мы думали, что пытки — это выдумки. Полицейские надевали нам на голову пакеты с&#160;нашатырём, выбивая признания в преступлении, которого они не совершали. У полицаев это называется «поиграем в хрипоту» (Jun 2018, Максим Гребенюк, Сергей Троянский, Илья Подгорный)](https://moe-online.ru/news/incidents/1014206)
@@ -390,6 +390,7 @@ https://zona.media/news/2018/01/17/cheb-nava), [Ярославль](https://twit
 * [Законопроект, уточняющий правила внесудебного проникновения полицаев в жилище (Jan 2013)](https://rg.ru/2013/01/22/polizia.html)
 * [Путлер создал банду в 400 тыс. стволов, которой разрешено задерживать гражданина без ненужной бумажной волокиты и&#160;входить без&#160;ордера к гражданину в дом (Apr 2014)](https://newtimes.ru/stati/temyi/f37d4a1bddfc724c540001c03a0ae0d2-paranoiya.html)
 * [500 обысков в день. Неприкосновенности жилища в россии нет (Apr 2018)](https://www.svoboda.org/a/29132655.html)
+* [Чиновники ходят по квартирам с полицаями в поиске съёмного жилья (Dec 2018)](https://pg21.ru/news/54219)
 
 <!-- ####################################################################### -->
 
@@ -522,7 +523,7 @@ https://zona.media/news/2018/01/17/cheb-nava), [Ярославль](https://twit
 * [Жителя Нальчика «осудили» на 2 года за нелюбовь к русским и перепост карикатур на пУТИНА (Sep 2018, Магомед&#160;Дудов)](https://kavkazcenter.com/russ/content/2018/09/08/117253/chekizm--zhitelya-nalchika-osudili-na-2-goda-za-nelyubov-k-russkim-i-perepost-karikatur-na-putina.shtml)
 * [Анархиста из Иркутска обвинили в оскорблении чувств верующих за картинки с чужой страницы в соцсети (Sep&#160;2018, Дмитрий Литвин)](https://mbk.sobchakprotivvseh.ru/news/anarxista-iz-irkutska-obvinili-v/)
 * [Сургутский городской «суд» приговорил 27-летнего местного жителя к двум годам условно за посты во&#160;«ВКонтакте» (Sep 2018)](https://tvrain.ru/news/srok_za_video_protiv_lits_neslavjanskogo_etnosa-471765/)
-* [Россиянина обвинили в т.н. «экстремизме» из-за мемов про полицейских (Oct 2018, Черников А.А.)](https://lenta.ru/news/2018/10/03/memodelo/)
+* [Россиянина обвинили в т.н. «экстремизме» из-за мемов про полицаев (Oct 2018, Черников А.А.)](https://lenta.ru/news/2018/10/03/memodelo/)
 * [В Чувашии задержали блогера за пост о том что при действующей власти люди в России живут хуже, чем&#160;при&#160;оккупации третьим рейхом (Oct&#160;2018, Константин Ишутов)](https://ovdinfo.org/express-news/2018/10/05/v-chuvashii-zaderzhali-blogera-konstantina-ishutova)
 * [Нижегородского студента арестовали за публикации в соцсети (Oct 2018, Михаил Герасимов)](https://www.nn.ru/news/more/nizhegorodskogo_studenta_arestovali_za_prizyvy_k_terrorizmu_v_sotsseti/65548501/)
 * [Чекисты бросили в тюрьму инвалида-колясочника с атрофированными мышцами, за видео 15-летней давности (Oct&#160;2018, Амир Гилязов)](http://pontorez.com/node/834)
@@ -663,7 +664,7 @@ https://zona.media/news/2018/01/17/cheb-nava), [Ярославль](https://twit
 * [В Москве задержали восемь участников «Прогулки оппозиции» (Jan 2018)](https://ovdinfo.org/express-news/2018/01/14/v-moskve-zaderzhali-vosem-uchastnikov-progulki-oppozicii)
 * [Шестерых нацболов задержали у ЦИКа в Москве за акцию против фарсовых выборов и приватизации (Jan 2018)](https://www.newsru.com/russia/22jan2018/electionlyagtan.html)
 * [По всей стране идут аресты соратников Навального (Jan 2018)](https://amalgin.dreamwidth.org/6949869.html)
-* [Тверской «суд» Москвы во второй раз оштрафовал на 10 тысяч рублей пенсионерку, которой полицейские вывихнули руку на&#160;антикоррупционной акции в Москве (Feb 2018, Турана Варжабетьян)](https://amalgin.dreamwidth.org/6963270.html)
+* [Тверской «суд» Москвы во второй раз оштрафовал на 10 тысяч рублей пенсионерку, которой полицаи вывихнули руку на&#160;антикоррупционной акции в Москве (Feb 2018, Турана Варжабетьян)](https://amalgin.dreamwidth.org/6963270.html)
 * [Директора ФБК отправили на десять суток под арест за организацию митинга (Feb 2018, Роман Рубанов)](https://amalgin.dreamwidth.org/6994366.html)
 * [Власти сразу нескольких регионов отказались согласовать акции в память Немцова (Feb 2018)](https://www.newsru.com/russia/16feb2018/nemtsovregions.html)
 * [В Москве полиция задержала обманутых дольщиков, выступавших против Грудинина (Feb 2018)](https://msk.newsru.com/article/17feb2018/police.html)
@@ -741,7 +742,7 @@ https://zona.media/news/2018/01/17/cheb-nava), [Ярославль](https://twit
 
 #### 3. Никто не может быть лишен своего имущества иначе как по решению суда.
 * [пУТИН подписал указ об уничтожении санкционных продуктов (Jul 2015)](https://www.rbc.ru/economics/29/07/2015/55b8e4089a794771d0ec89c3)
-* [Московские полицейские забрали годовалую дочь у гражданки Узбекистана (Jan&#160;2017)](https://www.newsru.com/russia/05jan2017/manizha.html)
+* [Московские полицаи забрали годовалую дочь у гражданки Узбекистана (Jan&#160;2017)](https://www.newsru.com/russia/05jan2017/manizha.html)
 * [Т.н. «закон о реновации» обходит судебную защиту собственности от изъятия (Apr 2017)](https://www.vz.ru/opinions/2017/4/25/867741.html)
 * [За публикацию мыслепреступных постов мусора́ будут отбирать гаджеты без решения суда (Jun 2018)](https://www.kasparov.ru/material.php?id=5B2A9E7CA0429)
 
