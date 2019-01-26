@@ -423,6 +423,7 @@ https://zona.media/news/2018/01/17/cheb-nava), [Ярославль](https://twit
 * [В Новосибирске задержаны 16 членов организации «Свидетели Иеговы» (Nov 2018)](https://www.newsru.com/russia/12nov2018/novosib.html)
 * [В оккупированном Крыму члены банды «ФСБ» проводят «обыски» у членов общины «Свидетели Иеговы» (Nov&#160;2018)](https://www.newsru.com/russia/16nov2018/krimfsb.html)
 * [В Татарстане крещение баптистов в реке сочли неразрешенным митингом (Dec 2018)](https://www.newsru.com/religy/03dec2018/pastor.html)
+* [Обвинение запросило 6,5 лет колонии для жителя Орла за членство в «Свидетелях Иеговы» (Jan 2019, Деннис Кристенсен)](https://ovdinfo.org/express-news/2019/01/23/obvinenie-zaprosilo-65-let-kolonii-dlya-zhitelya-orla-za-chlenstvo-v)
 
 <!-- ####################################################################### -->
 
