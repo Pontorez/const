@@ -488,6 +488,7 @@ https://zona.media/news/2018/01/17/cheb-nava), [Ярославль](https://twit
 * [В рейтинге свободы слова Freedom House Россия занимает 174-е место из 196 стран (Dec 2017)](https://www.youtube.com/watch?v=VcTEjroAWUg)
 * [Октябрьский районный «суд» Санкт-Петербурга оштрафовал на 400 тыс. рублей местного жителя за&#160;публикацию в&#160;соцсети (Jan&#160;2018)](https://amalgin.dreamwidth.org/6908047.html)
 * [Полтора года ГУЛАГа за репосты в социальных сетях (Jan 2018, Валентин Соколов)](https://amalgin.dreamwidth.org/6918610.html)
+* [Уголовное дело за публикацию картины «Великая прекрасная Россия» (Jan 2018, Илья Косыгин, Кирилл Николенко)](https://www.sova-center.ru/misuse/news/persecution/2018/01/d38652/)
 * [Путинские мусора́ совершили налёт на дом крымскотатарского активиста за публикацию в соцсети (Jan 2018, Гирай&#160;Куламетов)](https://ru.krymr.com/a/28985413.html)
 * [Уголовное дело за публикацию атеистических картинок в соцсети (Feb 2018)](https://www.sova-center.ru/religion/news/authorities/feelings/2018/02/d38755/)
 * [Из-за поста на Facebook домой к жителю Казани пришли члены банды «ЦПЭ» (Feb 2018, Александр Рачук)](https://www.znak.com/2018-02-09/iz_za_posta_o_putine_na_facebook_domoy_k_zhitelyu_kazani_prishli_sotrudniki_iz_centra_e)
