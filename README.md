@@ -428,6 +428,7 @@ https://zona.media/news/2018/01/17/cheb-nava), [Ярославль](https://twit
 * [В оккупированном Крыму члены банды «ФСБ» проводят «обыски» у членов общины «Свидетели Иеговы» (Nov&#160;2018)](https://www.newsru.com/russia/16nov2018/krimfsb.html)
 * [В Татарстане крещение баптистов в реке сочли неразрешенным митингом (Dec 2018)](https://www.newsru.com/religy/03dec2018/pastor.html)
 * [Российский «суд» приговорил датчанина из «Свидетелей Иеговы» к шести годам ГУЛАГа (Feb 2019, Dennis Christensen)](https://www.mk.ru/social/2019/02/06/rossiyskiy-sud-prigovoril-datchanina-iz-svideteley-iegovy-k-shesti-godam-kolonii.html)
+* [В Сургуте арестовали трёх активистов «Свидетелей Иеговы» (Feb 2019)](https://ria.ru/20190219/1551053435.html)
 
 <!-- ####################################################################### -->
 
