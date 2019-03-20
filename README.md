@@ -489,6 +489,7 @@ https://zona.media/news/2018/01/17/cheb-nava), [Ярославль](https://twit
 * [Массовые задержания молодых людей в Чечне из-за их критики в интернете в адрес главы республики Рамзана Кадырова (Jul&#160;2017)](https://amalgin.dreamwidth.org/6525319.html)
 * [Полицаи преследуют 14-летнего школьника за чужой коммент на vk.com (Jul 2017, Дмитрий Морозов)](https://www.youtube.com/watch?v=_05fSYuaVh4)
 * [Подросток на Алтае получил условный срок за т.н. «экстремизм» в соцсети (Jul 2017)](https://iz.ru/618650/2017-07-13/podrostok-na-altae-poluchil-uslovnyi-srok-za-ekstremizm-v-seti)
+* [2,5 года лишения свободы условно за публикацию песен группы «Ансамбль Христа Спасителя и Мать сыра земля» (Aug 2017, Владимир Авдеев)](https://www.sova-center.ru/racism-xenophobia/news/counteraction/2017/08/d37706/)
 * [Саратовца приговорили к двум годам ГУЛАГа за комментарии во «ВКонтакте» (Sep 2017)](https://openrussia.org/notes/714016/)
 * [Т.н. «суд» оштрафовал на 400 тыс. рублей жителя Калуги за картинку во «ВКонтакте» (Nov 2017, Иван Любшин)](https://www.novayagazeta.ru/news/2017/11/16/137086-sud-oshtrafoval-na-400-tysyach-rubley-zhitelya-kalugi-za-kartinku-vo-vkontakte)
 * [Два года строгого режима за пост во «ВКонтакте» (Nov 2017, Владимир Тимошенко)](https://amalgin.dreamwidth.org/6844744.html)
