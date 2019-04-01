@@ -581,6 +581,7 @@ https://zona.media/news/2018/01/17/cheb-nava), [Ярославль](https://twit
 * [пУТИН своим **указом** засекретил данные о защищенности информационных систем РФ (Dec 2017)](https://iz.ru/715511/2018-03-02/putin-zasekretil-dannye-o-zashchishchennosti-informatcionnykh-sistem-rf)
 * [пУТИН **указом** засекретил данные о внештатных разведчиках (Sep 2018)](https://lenta.ru/news/2018/09/04/secret/)
 * [Мосгорсуд распорядился заблокировать в России научные сайты Sci-Hub и LibGen (Nov 2018)](https://zona.media/news/2018/11/16/copyright)
+* [Долг Венесуэлы перед Россией решили засекретить (Apr 2019)](https://lenta.ru/news/2019/04/03/venezolana/)
 
 #### 5. Гарантируется свобода массовой информации. Цензура запрещается.
 * [96 % сайтов в Рунете «блокируются» незаконно](http://www.towave.ru/news/96-saitov-v-runete-blokiruyutsya-nezakonno.html)
