@@ -356,6 +356,7 @@ https://zona.media/news/2018/01/17/cheb-nava), [Ярославль](https://twit
 * [«Сейчас будем жарить»: «Медиазона» опубликовала рассказы иеговистов о пытках в СК РФ (Feb 2019)](https://www.newsru.com/religy/22feb2019/pytki.html)
 * [Уроженца Чечни пытают в русской тюрьме. Мать просит спасти сына от смерти (Feb 2019, Апти Акиев)](https://kavkazcenter.com/russ/content/2019/02/24/117831/terror--urozhentsa-chechni-pytayut-v-russkoj-tyurme--mat-prosit-spasti-syna-ot-smerti.shtml)
 * [ГУЛАГ. Уроженцев Чечни пытают в колонии ИК-5. Они вспороли себе животы в знак протеста (Mar 2019)](https://kavkazcenter.com/russ/content/2019/03/22/117921/gulag--urozhentsev-chechni-pytayut-v-kolonii-ik-5--oni-vsporoli-sebe-zhivoty-v-znak-protesta.shtml)
+* [Похищенный в Дагестане таксист рассказал о пытках (Apr 2019, Рамазан Алибиев)](https://www.kavkazcenter.com/russ/content/2019/04/12/117992/pokhischennyj-v-dagestane-taksist-rasskazal-o-pytkakh.shtml)
 
 <!-- ####################################################################### -->
 
@@ -554,6 +555,9 @@ https://zona.media/news/2018/01/17/cheb-nava), [Ярославль](https://twit
 * [Пенсионера оштрафовали на 15 тысяч рублей за репост мемов (Feb 2019, Анатолий Казиханов)](https://www.svoboda.org/a/29781076.html)
 * [Казанцу дали срок за негативное отношение ко взятию города Иваном Грозным (Mar 2019, Батырхан Агзамов)](https://lenta.ru/news/2019/03/06/kazan/)
 * [В Волгограде «суд» оштрафовал главу штаба Навального на 200 тыс. рублей за коллаж с Родиной-матерью (Mar 2019, Алексей Волков)](https://www.newsru.com/russia/14mar2019/volkov200trfine.html)
+* [В Архангельске впервые по новому «закону о фейках» будут судить организатора антимусорного митинга (Apr 2019)](https://29.ru/text/politics/66070609/)
+* [На активистов «Стоп ГОК» составили протоколы за распространение стихотворения "Последнее пожелание «Иванам»" (Apr 2019, Павел Камчатный, Алексей Гневышев, Владимир Гаврилов)](https://www.sova-center.ru/misuse/news/persecution/2019/04/d40884/)
+* [Многодетная мать из Мурманской области получила год условно за комментарий во «Вконтакте» (Apr 2019, Наталья Потапова)](https://graniru.org/Society/Law/m.276001.html)
 * [В Чувашии актрису-пенсионерку вызвали в прокуратуру за «неуважение» к губернатору (Apr 2019, Тамара Манаева)](https://www.newsru.com/russia/23apr2019/manaeva.html)
 * [«Суд» в Новгородской области впервые оштрафовал россиянина за неуважение к Хуйлу (Apr 2019)](https://www.newsru.com/russia/24apr2019/1st_unrespect.html)
 
@@ -753,6 +757,7 @@ https://zona.media/news/2018/01/17/cheb-nava), [Ярославль](https://twit
 * [Троих калининградцев задержали за акцию против пыток на площади Победы (Feb 2019)](https://www.newkaliningrad.ru/news/briefs/politics/22022605-troikh-kaliningradtsev-zaderzhali-za-aktsiyu-protiv-pytok-na-ploshchadi-pobedy.html)
 * [Власти Петербурга впервые запретили проводить марш памяти Немцова в центре города (Feb 2019)](https://www.newsru.com/russia/16feb2019/nemtsovspb.html)
 * [«Суд» в Назрани на трое суток арестовал активиста, который пытался провести сегодня несанкционированный марш депортированных народов Кавказа (Feb 2019, Урус Курскиев)](https://twitter.com/Torsy_2/status/1099034231534223361)
+* [В Москве задержали четырех участников пикетов против властей Ингушетии (Apr 2019, Фатимат Аушева, Батыр Богатырев)](https://www.newsru.com/russia/16apr2019/ingush_miting.html)
 
 <!-- ####################################################################### -->
 
