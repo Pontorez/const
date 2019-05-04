@@ -355,6 +355,8 @@ https://zona.media/news/2018/01/17/cheb-nava), [Ярославль](https://twit
 * [Уроженец Чечни Сулейман Эдигов подвергаетася пытками и избиениям русской тюрьме ИК-3 в Иркутске (Feb 2019)](https://twitter.com/newkc14/status/1095266302229385217)
 * [«Сейчас будем жарить»: «Медиазона» опубликовала рассказы иеговистов о пытках в СК РФ (Feb 2019)](https://www.newsru.com/religy/22feb2019/pytki.html)
 * [Уроженца Чечни пытают в русской тюрьме. Мать просит спасти сына от смерти (Feb 2019, Апти Акиев)](https://kavkazcenter.com/russ/content/2019/02/24/117831/terror--urozhentsa-chechni-pytayut-v-russkoj-tyurme--mat-prosit-spasti-syna-ot-smerti.shtml)
+* [В русской тюрьме запытали до смерти уроженца Чечни Аюба Тунтуева (Mar 2019)](https://www.kavkazcenter.com/russ/content/2019/03/13/117889/terror--v-russkoj-tyurme-zapytali-do-smerti-urozhentsa-chechni-ayuba-tuntueva.shtml)
+* [В одной из путинских тюрем в Мордовии жестоко пытают уроженцев Чечни (Mar 2019, Магомед Зубайраев)](https://www.kavkazcenter.com/russ/content/2019/03/15/117894/pytki--v-odnoj-iz-putinskikh-tyurem-v-mordovii-zhestoko-pytayut-urozhentsev-chechni--pismo-zubajraeva-magomeda.shtml)
 * [ГУЛАГ. Уроженцев Чечни пытают в колонии ИК-5. Они вспороли себе животы в знак протеста (Mar 2019)](https://kavkazcenter.com/russ/content/2019/03/22/117921/gulag--urozhentsev-chechni-pytayut-v-kolonii-ik-5--oni-vsporoli-sebe-zhivoty-v-znak-protesta.shtml)
 * [Похищенный в Дагестане таксист рассказал о пытках (Apr 2019, Рамазан Алибиев)](https://www.kavkazcenter.com/russ/content/2019/04/12/117992/pokhischennyj-v-dagestane-taksist-rasskazal-o-pytkakh.shtml)
 
