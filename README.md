@@ -451,6 +451,7 @@ https://zona.media/news/2018/01/17/cheb-nava), [Ярославль](https://twit
 * [Жителя Сочи «суд» оштрафовал за проведение коллективных медитаций для буддистов (Feb 2019)](https://takiedela.ru/news/2019/02/14/shtraf-za-meditacii/)
 * [Иеговист Сергей Скрынников решением «суда» оштрафован на 350 тысяч рублей (Apr 2019)](http://oreltimes.ru/news/obshhestvo/iegovist-sergej-skrynnikov-resheniem-suda-oshtrafovan-na-350-tysjach/)
 * [В Новороссийске банда «ФСБ», защищая духовные скрепы РФ, сорвала праздничное богослужение баптистов (Apr 2019)](https://www.newsru.com/religy/09apr2019/baptists.html)
+* [В России запретили говорить о росте цен на бензин (Jun 2019)](https://lenta.ru/news/2019/05/29/oil_prices/)
 
 <!-- ####################################################################### -->
 
