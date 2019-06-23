@@ -362,7 +362,8 @@ https://zona.media/news/2018/01/17/cheb-nava), [Ярославль](https://twit
 * [В одной из путинских тюрем в Мордовии жестоко пытают уроженцев Чечни (Mar 2019, Магомед Зубайраев)](https://www.kavkazcenter.com/russ/content/2019/03/15/117894/pytki--v-odnoj-iz-putinskikh-tyurem-v-mordovii-zhestoko-pytayut-urozhentsev-chechni--pismo-zubajraeva-magomeda.shtml)
 * [ГУЛАГ. Уроженцев Чечни пытают в колонии ИК-5. Они вспороли себе животы в знак протеста (Mar 2019)](https://kavkazcenter.com/russ/content/2019/03/22/117921/gulag--urozhentsev-chechni-pytayut-v-kolonii-ik-5--oni-vsporoli-sebe-zhivoty-v-znak-protesta.shtml)
 * [Похищенный в Дагестане таксист рассказал о пытках (Apr 2019, Рамазан Алибиев)](https://www.kavkazcenter.com/russ/content/2019/04/12/117992/pokhischennyj-v-dagestane-taksist-rasskazal-o-pytkakh.shtml)
-* [Полиция в Москве жестко разогнала противников стройки под окнами домов: женщин волокли по земле, пожилых довели до инсульта и затолкали (May 2019)](https://www.newsru.com/russia/27may2019/ochakovo.html)
+* [Полиция в Москве жёстко разогнала противников стройки под окнами домов: женщин волокли по земле, пожилых довели до инсульта и затолкали (May 2019)](https://www.newsru.com/russia/27may2019/ochakovo.html)
+* [Дагестан. Похищенных в Дербенте местных жителей Ислама Барзукаева, Мизарали Мизаралиева и Гасана Курбанова подвергают пыткам электричеством (Jun 2019)](https://twitter.com/newkc14/status/1141858441029476352)
 
 <!-- ####################################################################### -->
 
