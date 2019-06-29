@@ -579,7 +579,9 @@ https://zona.media/news/2018/01/17/cheb-nava), [Ярославль](https://twit
 * [Ярославский архитектор оштрафован на 30 тыс. рублей](https://www.newsru.com/russia/14may2019/poputnikov.html) за фото граффити [ПУТИН ПИДОР](http://pontorez.com/node/919) (May 2019, Кирилл&#160;Попутников)
 * [К активисту пришли мусорА после размещения в соцсети текста «пУТИН — реальный долбоёб» (Apr 2019, Юрий&#160;Шадрин)](https://www.newsru.com/russia/16may2019/dolboeb.html)
 * [Штраф 1000 рублей](https://www.sova-center.ru/racism-xenophobia/news/counteraction/2019/06/d41096/) за публикацию в соцсети песни [«Народ устал терпеть»](http://pontorez.com/l/z_Lil%27_Soulja_-_%D0%9D%D0%B0%D1%80%D0%BE%D0%B4_%D1%83%D1%81%D1%82%D0%B0%D0%BB_%D1%82%D0%B5%D1%80%D0%BF%D0%B5%D1%82%D1%8C.txt) (Jun 2019, Е. Зверев)
+* [Жителя Архангельской области оштрафовали на 15 тысяч рублей за неуважение к Хуйлу (Jun 2019, Георгий Миняев)](https://www.newsru.com/russia/28jun2019/minyaev.html)
 * [Недовольных действиями властей во ВКонтакте начали привлекать за «экстремизм» (Jun 2019)](https://www.msn.com/ru-ru/news/techandscience/%D0%BD%D0%B5%D0%B4%D0%BE%D0%B2%D0%BE%D0%BB%D1%8C%D0%BD%D1%8B%D1%85-%D0%B4%D0%B5%D0%B9%D1%81%D1%82%D0%B2%D0%B8%D1%8F%D0%BC%D0%B8-%D0%B2%D0%BB%D0%B0%D1%81%D1%82%D0%B5%D0%B9-%D0%B2%D0%BE-%D0%B2%D0%BA%D0%BE%D0%BD%D1%82%D0%B0%D0%BA%D1%82%D0%B5-%D0%BD%D0%B0%D1%87%D0%B0%D0%BB%D0%B8-%D0%BF%D1%80%D0%B8%D0%B2%D0%BB%D0%B5%D0%BA%D0%B0%D1%82%D1%8C-%D0%B7%D0%B0-%D1%8D%D0%BA%D1%81%D1%82%D1%80%D0%B5%D0%BC%D0%B8%D0%B7%D0%BC/ar-AAD7C5X)
+* [Жителя Смоленска Сергея Командирова оштрафовали на 30 тысяч рублей за неуважение к Хуйлу (Jun 2019)](https://www.newsru.com/russia/28jun2019/komandirov_shtraf.html)
 
 #### 2. Не допускаются пропаганда или агитация, возбуждающие социальную, расовую, национальную или&#160;религиозную ненависть и вражду
 * [Песков: Печень митингующих надо размазать по асфальту (May 2012)](https://graniru.org/Events/Crime/m.197585.html)
