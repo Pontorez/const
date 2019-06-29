@@ -3,8 +3,6 @@
 [![License](https://img.shields.io/badge/license-WTFPL-lightgrey.svg)](https://github.com/Pontorez/const/blob/master/LICENSE)
 [![Putler Kaput!](https://img.shields.io/badge/putin-hyulo-blue.svg)](http://pontorez.com/node/361)
 [![КаРФаген](https://img.shields.io/badge/каРФаген-долженБытьРазрушен-red.svg)](https://plus.google.com/communities/105380391317425919200)
-[![Народовластие](https://img.shields.io/badge/Мальцев-Народовластие-red.svg)](https://www.youtube.com/channel/UCv5dc2Zi6j5IXQ_NKTZuSLA/videos)
-[![ARTPODGOTOVKA](https://img.shields.io/badge/Мальцев-Артподготовка-red.svg)](https://www.youtube.com/user/artpodgotovka/videos)
 
 [![Putler](https://pontorez.github.io/const/img/hitler.jpg)](https://pontorez.github.io/const/)
 
@@ -365,7 +363,8 @@ https://zona.media/news/2018/01/17/cheb-nava), [Ярославль](https://twit
 * [Похищенный в Дагестане таксист рассказал о пытках (Apr 2019, Рамазан Алибиев)](https://www.kavkazcenter.com/russ/content/2019/04/12/117992/pokhischennyj-v-dagestane-taksist-rasskazal-o-pytkakh.shtml)
 * [Полиция в Москве жёстко разогнала противников стройки под окнами домов: женщин волокли по земле, пожилых довели до инсульта и затолкали (May 2019)](https://www.newsru.com/russia/27may2019/ochakovo.html)
 * [Дагестан. Похищенных в Дербенте местных жителей Ислама Барзукаева, Мизарали Мизаралиева и Гасана Курбанова подвергают пыткам электричеством (Jun 2019)](https://twitter.com/newkc14/status/1141858441029476352)
-* [каждый десятый россиянин сталкивался с пытками силовиков, но треть их оправдывает (Jun 2019)](https://www.newsru.com/russia/26jun2019/pytki.html)
+* [Каждый десятый россиянин сталкивался с пытками силовиков, но треть их оправдывает (Jun 2019)](https://www.newsru.com/russia/26jun2019/pytki.html)
+* [В мордовской колонии уроженец Ингушетии Исмаил Эсмурзиев ранил себя в знак протеста против избиения и издевательств со стороны надзирателей (Jun 2019)](https://twitter.com/newkc14/status/1144180587600605186)
 
 <!-- ####################################################################### -->
 
