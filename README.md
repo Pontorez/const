@@ -3,8 +3,6 @@
 [![License](https://img.shields.io/badge/license-WTFPL-lightgrey.svg)](https://github.com/Pontorez/const/blob/master/LICENSE)
 [![Putler Kaput!](https://img.shields.io/badge/putin-hyulo-blue.svg)](http://pontorez.com/node/361)
 [![КаРФаген](https://img.shields.io/badge/каРФаген-долженБытьРазрушен-red.svg)](https://plus.google.com/communities/105380391317425919200)
-[![Народовластие](https://img.shields.io/badge/Мальцев-Народовластие-red.svg)](https://www.youtube.com/channel/UCv5dc2Zi6j5IXQ_NKTZuSLA/videos)
-[![ARTPODGOTOVKA](https://img.shields.io/badge/Мальцев-Артподготовка-red.svg)](https://www.youtube.com/user/artpodgotovka/videos)
 
 [![Putler](https://pontorez.github.io/const/img/hitler.jpg)](https://pontorez.github.io/const/)
 
@@ -365,7 +363,8 @@ https://zona.media/news/2018/01/17/cheb-nava), [Ярославль](https://twit
 * [Похищенный в Дагестане таксист рассказал о пытках (Apr 2019, Рамазан Алибиев)](https://www.kavkazcenter.com/russ/content/2019/04/12/117992/pokhischennyj-v-dagestane-taksist-rasskazal-o-pytkakh.shtml)
 * [Полиция в Москве жёстко разогнала противников стройки под окнами домов: женщин волокли по земле, пожилых довели до инсульта и затолкали (May 2019)](https://www.newsru.com/russia/27may2019/ochakovo.html)
 * [Дагестан. Похищенных в Дербенте местных жителей Ислама Барзукаева, Мизарали Мизаралиева и Гасана Курбанова подвергают пыткам электричеством (Jun 2019)](https://twitter.com/newkc14/status/1141858441029476352)
-* [каждый десятый россиянин сталкивался с пытками силовиков, но треть их оправдывает (Jun 2019)](https://www.newsru.com/russia/26jun2019/pytki.html)
+* [Каждый десятый россиянин сталкивался с пытками силовиков, но треть их оправдывает (Jun 2019)](https://www.newsru.com/russia/26jun2019/pytki.html)
+* [В мордовской колонии уроженец Ингушетии Исмаил Эсмурзиев ранил себя в знак протеста против избиения и издевательств со стороны надзирателей (Jun 2019)](https://twitter.com/newkc14/status/1144180587600605186)
 
 <!-- ####################################################################### -->
 
@@ -579,7 +578,9 @@ https://zona.media/news/2018/01/17/cheb-nava), [Ярославль](https://twit
 * [Ярославский архитектор оштрафован на 30 тыс. рублей](https://www.newsru.com/russia/14may2019/poputnikov.html) за фото граффити [ПУТИН ПИДОР](http://pontorez.com/node/919) (May 2019, Кирилл&#160;Попутников)
 * [К активисту пришли мусорА после размещения в соцсети текста «пУТИН — реальный долбоёб» (Apr 2019, Юрий&#160;Шадрин)](https://www.newsru.com/russia/16may2019/dolboeb.html)
 * [Штраф 1000 рублей](https://www.sova-center.ru/racism-xenophobia/news/counteraction/2019/06/d41096/) за публикацию в соцсети песни [«Народ устал терпеть»](http://pontorez.com/l/z_Lil%27_Soulja_-_%D0%9D%D0%B0%D1%80%D0%BE%D0%B4_%D1%83%D1%81%D1%82%D0%B0%D0%BB_%D1%82%D0%B5%D1%80%D0%BF%D0%B5%D1%82%D1%8C.txt) (Jun 2019, Е. Зверев)
+* [Жителя Архангельской области оштрафовали на 15 тысяч рублей за неуважение к Хуйлу (Jun 2019, Георгий Миняев)](https://www.newsru.com/russia/28jun2019/minyaev.html)
 * [Недовольных действиями властей во ВКонтакте начали привлекать за «экстремизм» (Jun 2019)](https://www.msn.com/ru-ru/news/techandscience/%D0%BD%D0%B5%D0%B4%D0%BE%D0%B2%D0%BE%D0%BB%D1%8C%D0%BD%D1%8B%D1%85-%D0%B4%D0%B5%D0%B9%D1%81%D1%82%D0%B2%D0%B8%D1%8F%D0%BC%D0%B8-%D0%B2%D0%BB%D0%B0%D1%81%D1%82%D0%B5%D0%B9-%D0%B2%D0%BE-%D0%B2%D0%BA%D0%BE%D0%BD%D1%82%D0%B0%D0%BA%D1%82%D0%B5-%D0%BD%D0%B0%D1%87%D0%B0%D0%BB%D0%B8-%D0%BF%D1%80%D0%B8%D0%B2%D0%BB%D0%B5%D0%BA%D0%B0%D1%82%D1%8C-%D0%B7%D0%B0-%D1%8D%D0%BA%D1%81%D1%82%D1%80%D0%B5%D0%BC%D0%B8%D0%B7%D0%BC/ar-AAD7C5X)
+* [Жителя Смоленска Сергея Командирова оштрафовали на 30 тысяч рублей за неуважение к Хуйлу (Jun 2019)](https://www.newsru.com/russia/28jun2019/komandirov_shtraf.html)
 
 #### 2. Не допускаются пропаганда или агитация, возбуждающие социальную, расовую, национальную или&#160;религиозную ненависть и вражду
 * [Песков: Печень митингующих надо размазать по асфальту (May 2012)](https://graniru.org/Events/Crime/m.197585.html)
@@ -782,6 +783,7 @@ https://zona.media/news/2018/01/17/cheb-nava), [Ярославль](https://twit
 * [Отставного майора задержали в Москве за одиночный пикет (Apr 2019, Владимир Скубак)](https://www.newsru.com/russia/30apr2019/skubak.html)
 * [В Питере ОМОН разогнал первомайское шествие (May 2019)](https://www.newsru.com/russia/01may2019/piter_1may.html)
 * [В Екатеринбурге не разрешили пикет против «храма на Драме» (Jun 2019)](https://www.newsru.com/russia/03jun2019/skver.html)
+* [число задержанных на марше в поддержку Голунова в Москве составило почти 550 человек (Jun 2019)](https://www.newsru.com/russia/13jun2019/550ovd.html)
 * [«Больше трёх не собираться»: в Москве разогнали жителей, записывавших обращение к пУТИНУ (Jun 2019)](https://www.newsru.com/russia/19jun2019/lublino_three.html)
 
 <!-- ####################################################################### -->
