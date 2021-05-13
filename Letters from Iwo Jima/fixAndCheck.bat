@@ -1,0 +1,2 @@
+@php fixAndCheck.php
+@pause

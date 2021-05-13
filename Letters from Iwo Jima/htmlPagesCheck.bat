@@ -1,0 +1,2 @@
+@php htmlPagesCheck.php
+@pause
