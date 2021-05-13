@@ -32,7 +32,7 @@
 * [В Алуште задержали сообщивших о нарушениях на выборах депутата и журналиста (Oct 2016)](https://www.newsru.com/russia/07oct2016/alushta.html)
 * [Навальному закрывают онлайн-счет на президентскую кампанию (Jan 2017)](https://www.newsru.com/russia/23jan2017/navalny.html)
 * [В ЕС приговор Навальному назвали попыткой заглушить «независимый политический голос» (Feb 2017)](https://www.newsru.com/world/08feb2017/euaboutnavalny.html)
-* Нападение пропутинских отморозков (в том числе в погонах) на штабы Навального и активистов (Jul-Aug&#160;2017): [Астрахань](
+* Нападение пропутинских отморозков (в том числе в погонах) на штабы Навального и&#160;активистов (Jul-Aug&#160;2017): [Астрахань](
 https://www.newsru.com/russia/06jul2017/astrakhan.html), [Барнаул](https://www.svoboda.org/a/28602978.html), [Брянск](
 https://www.svoboda.org/a/28603567.html), [Волгоград](https://v1.ru/text/newsline/318546144178176.html), [Вологда](
 https://www.newsru.com/russia/06jul2017/obyski.html), [Воронеж](https://ovdinfo.org/news/2017/07/08/zaderzhaniya-na-agitacionnom-subbotnike-navalnogo), [Гатчина](
