@@ -1,0 +1,60 @@
+Received: from smarthost.web-leader.net (smarthost.web-leader.net [107.181.187.94]) by
+ mailin010.protonmail.ch (Postfix) with ESMTP id C59A83001C2F for
+ <pontorez@protonmail.ch>; Tue, 14 Apr 2020 16:16:22 +0000 (UTC)
+Received: from ovh-cp1.echo-host.com (cp1.echo-host.com [198.27.106.192]) by
+ smarthost.web-leader.net (Postfix) with ESMTPS id 57FA980C46 for
+ <pontorez@protonmail.ch>; Tue, 14 Apr 2020 19:16:14 +0300 (MSK)
+Received: from mx1.rkn.gov.ru ([87.226.213.147]:55512) by io.web-leader.net with esmtps
+ (TLSv1.2:ECDHE-RSA-AES256-GCM-SHA384:256) (Exim 4.92) (envelope-from
+ <zapret-info-out@rkn.gov.ru>) id 1jOOEJ-001J51-UL for pontorez@pontorez.com; Tue, 14 Apr
+ 2020 12:16:13 -0400
+Authentication-Results: mailin010.protonmail.ch; dmarc=pass (p=quarantine dis=none)
+ header.from=rkn.gov.ru
+Authentication-Results: mailin010.protonmail.ch; spf=pass
+ smtp.mailfrom=SRS0=QmowGD=56=rkn.gov.ru=zapret-info-out@pontorez.com
+Authentication-Results: mailin010.protonmail.ch; dkim=pass (2048-bit key)
+ header.d=pontorez.com header.i=@pontorez.com header.b="jm6c5ckw"; dkim=pass (1024-bit
+ key) header.d=rkn.gov.ru header.i=@rkn.gov.ru header.b="EPd3lePC"
+Dkim-Signature: v=1; a=rsa-sha256; q=dns/txt; c=relaxed/relaxed; d=pontorez.com;
+ s=default; h=Date:Content-Type:MIME-Version:Subject:To:From:
+ Sender:Reply-To:Message-ID:Cc:Content-Transfer-Encoding:Content-ID:
+ Content-Description:Resent-Date:Resent-From:Resent-Sender:Resent-To:Resent-Cc
+ :Resent-Message-ID:In-Reply-To:References:List-Id:List-Help:List-Unsubscribe:
+ List-Subscribe:List-Post:List-Owner:List-Archive;
+ bh=wpe8a2TsZDW5GVX8RQVxv+KNxdr4A117OlKzfCY7coI=; b=jm6c5ckwMudwa5AdCCqYgribGV
+ cIGqS4KV77nYh5iCz8VW3lFCAyDtegC6Gz/G716bh6ZdAv019PqfFqewCjaqsoIVx0kHmOJ/+HiY8
+ DiRrFE1L64dw2+h4w2IG7tLgybG/2USj9iMiovAeZTdj7rXtgUJQqU9S5g+igB/R9NjcQweZ2LP+6
+ iN/ESXKMqNj+EI6575KNZ9GAq8sw7hrIFlictE6sc4lEiA/i1ClujM0J27uujJZDBFxmuSUszE5f9
+ 4PyZFpzTwwndCGk0lANfkNlg8omVQyu55uJ1jdZ6hdryBkJkM8peaTuC3WdkLzt/4h7W54dQ0vLJg k5hO7jRA==;
+Dkim-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=rkn.gov.ru; s=dkim; t=1586880925;
+ bh=wpe8a2TsZDW5GVX8RQVxv+KNxdr4A117OlKzfCY7coI=; h=From:To:Subject:Date;
+ b=EPd3lePCBWoZVnQ3TQf1ajLsyDy1OrQPQJXl2tMxdGbywygUe509djFBpi4Sk+K0P
+  smJFtjx4irjsSa/IAnFVYxIOjg3kVi18XMEnlIt09OjkAchXWnwy6ARcd7ohAeRDP0
+  6upahGPteNj/EG8ZZy8zDph78J9hsohXC7cKjhlc=
+X-Client-Proxied-By: ROSKOMNADZOR Secured Mail Server
+From: Роскомнадзор <zapret-info-out@rkn.gov.ru>
+To: <pontorez@pontorez.com>, <pontorez@pm.me>, <abuse@ovh.ca>
+Subject: [eais#1093208] Роскомнадзор информирует/the Roscomnadzor is informing
+Mime-Version: 1.0
+Content-Type: text/plain
+Date: Tue, 14 Apr 2020 19:15:25 +0300 (MSK)
+
+Направляется уведомление о внесении в «Единый реестр доменных имен, указателей страниц сайтов в сети «Интернет» и сетевых адресов, позволяющих идентифицировать сайты в сети «Интернет», содержащие информацию, распространение которой в Российской Федерации запрещено» следующего(их) указателя (указателей) страницы (страниц) сайта в сети «Интернет»: http://www2.pontorez.com/timur_mutsuraev_mirotvortsy_rossii .
+
+В случае непринятия провайдером хостинга и (или) владельцем сайта мер по удалению запрещенной информации и (или) ограничению доступа к сайту в сети «Интернет», будет принято решение о включении в единый реестр сетевого адреса, позволяющего идентифицировать сайт в сети «Интернет», содержащий информацию, распространение которой в Российской Федерации запрещено, а доступ к нему будет ограничен.
+
+Сведения о включении доменных имен, указателей страниц сайтов сети «Интернет» и сетевых адресов доступны круглосуточно в сети «Интернет» по адресу http://eais.rkn.gov.ru .
+
+С уважением,
+ФЕДЕРАЛЬНАЯ СЛУЖБА ПО НАДЗОРУ В СФЕРЕ СВЯЗИ, ИНФОРМАЦИОННЫХ ТЕХНОЛОГИЙ И МАССОВЫХ КОММУНИКАЦИЙ.
+
+
+
+
+It is notice of making an entry into the "Unified register of domain names, Internet web-site page links and network addresses enabling to identify the Internet web-sites containing the information prohibited for public distribution in the Russian Federation” the Internet web-site page (s) link (s): http://www2.pontorez.com/timur_mutsuraev_mirotvortsy_rossii .
+
+In case the hosting provider and (or) the Internet web-site owner fail to take these measures, the network address enabling to identify Internet web-sites containing the information prohibited for distribution in the Russian Federation will be decided to be entered into the Register and access will be limited.
+
+The information about entering the domain names, Internet web-site page links and network addresses into the Register shall be available on a 24-hour basis at the following Internet address: http://eais.rkn.gov.ru/en/ .
+
+Federal Service for Supervision in the Sphere of Telecom, Information Technologies and Mass Communications (ROSKOMNADZOR).

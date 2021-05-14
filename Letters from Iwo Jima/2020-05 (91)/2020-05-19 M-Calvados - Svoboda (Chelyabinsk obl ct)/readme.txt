@@ -1,0 +1,60 @@
+Received: from smarthost.web-leader.net (smarthost.web-leader.net [107.181.187.94]) by
+ mailin015.protonmail.ch (Postfix) with ESMTP id D66F1300024E for
+ <pontorez@protonmail.ch>; Tue, 19 May 2020 10:21:25 +0000 (UTC)
+Received: from ovh-cp1.echo-host.com (cp1.echo-host.com [198.27.106.192]) by
+ smarthost.web-leader.net (Postfix) with ESMTPS id B6397814C9 for
+ <pontorez@protonmail.ch>; Tue, 19 May 2020 13:21:17 +0300 (MSK)
+Received: from mx1.rkn.gov.ru ([87.226.213.147]:37404) by io.web-leader.net with esmtps
+ (TLSv1.2:ECDHE-RSA-AES256-GCM-SHA384:256) (Exim 4.92) (envelope-from
+ <zapret-info-out@rkn.gov.ru>) id 1jazN0-00Gnc3-AO for pontorez@pontorez.com; Tue, 19 May
+ 2020 06:21:17 -0400
+Authentication-Results: mailin015.protonmail.ch; dmarc=pass (p=quarantine dis=none)
+ header.from=rkn.gov.ru
+Authentication-Results: mailin015.protonmail.ch; spf=pass
+ smtp.mailfrom=SRS0=3DoZk3=7B=rkn.gov.ru=zapret-info-out@pontorez.com
+Authentication-Results: mailin015.protonmail.ch; dkim=pass (2048-bit key)
+ header.d=pontorez.com header.i=@pontorez.com header.b="Tg12jSzL"; dkim=pass (1024-bit
+ key) header.d=rkn.gov.ru header.i=@rkn.gov.ru header.b="KxvVk0oI"
+Dkim-Signature: v=1; a=rsa-sha256; q=dns/txt; c=relaxed/relaxed; d=pontorez.com;
+ s=default; h=Date:Content-Type:MIME-Version:Subject:To:From:
+ Sender:Reply-To:Message-ID:Cc:Content-Transfer-Encoding:Content-ID:
+ Content-Description:Resent-Date:Resent-From:Resent-Sender:Resent-To:Resent-Cc
+ :Resent-Message-ID:In-Reply-To:References:List-Id:List-Help:List-Unsubscribe:
+ List-Subscribe:List-Post:List-Owner:List-Archive;
+ bh=x8nQnQ7oJUa7aXrP6ecGcHppd1gabws+EQjo9wkSsw8=; b=Tg12jSzLiBPCoNzGxqAU/T6rD2
+ jsdI4+LhSFK/84VrhDwVaWMXAgidObeV8pmd7kjvAL5+jj50rqAnT6oRwDR/ZhnLt5DwW22bFj4tk
+ /8dIKAB1quTo4Xxn5hQ9F7l8Bd/iXw2VlPdAtkFE6wSW3Q9vh3uuwHOAuj9PcMUk+ezR39YPB52vX
+ eeljcoYjivx+tPznQphVaFSssLfA6PEgmCIDHRVya2Fy+wl/AGQaVskPzyT6mXJI3DzeQJQ+mAtKP
+ vyj9qbhr4wZOmThPugAT5DurjsOIE/r6sJ8J1favSZ7qFbqXHz1tsH8whNiABpKZOuwdoo/glSfrV PodK9+wA==;
+Dkim-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=rkn.gov.ru; s=dkim; t=1589883628;
+ bh=x8nQnQ7oJUa7aXrP6ecGcHppd1gabws+EQjo9wkSsw8=; h=From:To:Subject:Date;
+ b=KxvVk0oIF6W+ClhLPuZLaCgWDfH6pqOtJRlpiTHU4bkBnaKn5tNFVqLjrHwL16ECO
+  uYxA/tX9rlKFPWEY/q5PAUd9/SvoUQRiB51YAG3aE1s7nA3Lq19wgT8mhlWu4GcXQI
+  noRBZ/tKS4b1riSihF8N0m/cUtfbqkQw94SDHyyU=
+X-Client-Proxied-By: ROSKOMNADZOR Secured Mail Server
+From: Роскомнадзор <zapret-info-out@rkn.gov.ru>
+To: <pontorez@pontorez.com>, <pontorez@pm.me>, <abuse@ovh.ca>
+Subject: [eais#1108304] Роскомнадзор информирует/the Roscomnadzor is informing
+Mime-Version: 1.0
+Content-Type: text/plain
+Date: Tue, 19 May 2020 13:20:28 +0300 (MSK)
+
+Направляется уведомление о внесении в «Единый реестр доменных имен, указателей страниц сайтов в сети «Интернет» и сетевых адресов, позволяющих идентифицировать сайты в сети «Интернет», содержащие информацию, распространение которой в Российской Федерации запрещено» следующего(их) указателя (указателей) страницы (страниц) сайта в сети «Интернет»: https://www2.pontorez.com/calvados-2 .
+
+В случае непринятия провайдером хостинга и (или) владельцем сайта мер по удалению запрещенной информации и (или) ограничению доступа к сайту в сети «Интернет», будет принято решение о включении в единый реестр сетевого адреса, позволяющего идентифицировать сайт в сети «Интернет», содержащий информацию, распространение которой в Российской Федерации запрещено, а доступ к нему будет ограничен.
+
+Сведения о включении доменных имен, указателей страниц сайтов сети «Интернет» и сетевых адресов доступны круглосуточно в сети «Интернет» по адресу http://eais.rkn.gov.ru .
+
+С уважением,
+ФЕДЕРАЛЬНАЯ СЛУЖБА ПО НАДЗОРУ В СФЕРЕ СВЯЗИ, ИНФОРМАЦИОННЫХ ТЕХНОЛОГИЙ И МАССОВЫХ КОММУНИКАЦИЙ.
+
+
+
+
+It is notice of making an entry into the "Unified register of domain names, Internet web-site page links and network addresses enabling to identify the Internet web-sites containing the information prohibited for public distribution in the Russian Federation” the Internet web-site page (s) link (s): https://www2.pontorez.com/calvados-2 .
+
+In case the hosting provider and (or) the Internet web-site owner fail to take these measures, the network address enabling to identify Internet web-sites containing the information prohibited for distribution in the Russian Federation will be decided to be entered into the Register and access will be limited.
+
+The information about entering the domain names, Internet web-site page links and network addresses into the Register shall be available on a 24-hour basis at the following Internet address: http://eais.rkn.gov.ru/en/ .
+
+Federal Service for Supervision in the Sphere of Telecom, Information Technologies and Mass Communications (ROSKOMNADZOR).
