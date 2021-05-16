@@ -661,6 +661,7 @@ https://zona.media/news/2018/01/17/cheb-nava), [Ярославль](https://twit
 * [На кемеровского блогера составили два протокола о неуважении к власти в связи с роликами на YouTube](https://zapretno.info/video-skazochnaya-demografiya/) (May 2020, Михаил Алферов)
 * [Штраф 350 тыс. рублей за публикацию во «ВКонтакте»](https://www.severreal.org/a/30641050.html) (May 2020, Денис Вилков)
 * Штраф за публикацию во «ВКонтакте» песни [F.P.G. - Ботинки](http://pontorez.net/fpg-botinki) (Jun 2020, Петр Крылов, Илья Озеров-Новиков)
+* [Петербургского блогера Марию Магдалену Тункара вызвали в прокуратуру](https://zona.media/news/2020/06/17/mariyamgdln) из-за [видео](http://pontorez.net/uvidel-mulata) с пародией на Николая Дроздова (Jun 2020)
 * [Арест](https://zapretno.info/video-vitalij-nalivkin-boretsya-s-korruptseij/) за [сатирические](https://www.youtube.com/watch?v=VJT3v5ZdBoU) [ролики](https://www.youtube.com/watch?v=AgNx6zzkZmo) на YouTube (Jun 2020, Андрей Неретин)
 * [Административный протокол](https://ovdinfo.org/express-news/2020/06/25/na-zhitelya-surguta-sostavili-protokol-za-izobrazhenie-letayushchego) за публикацию [изображения Летающего Макаронного Монстра](http://pontorez.net/spaghetti-monster) (Jun 2020, Николай Сокуров)
 * [Штраф 30000 рублей за комментарий о пУТИНЕ без мата](https://tayga.info/157187) (Jul 2020, Андрей Митин)
