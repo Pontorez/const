@@ -457,7 +457,7 @@ https://zona.media/news/2018/01/17/cheb-nava), [Ярославль](https://twit
 * [Почти 100 тысяч москвичей оказались невыездными перед майскими праздниками из-за долгов (Apr 2018)](https://msk.newsru.com/article/28apr2018/nevyezd.html)
 * [Некоторым дагестанцам запретили выезжать из республики во время ЧМ-2018 (Jun 2018)](https://www.newsru.com/russia/12jun2018/dag.html)
 * [Навального не выпустили из РФ на заседание ЕСПЧ (Nov 2018)](https://www.newsru.com/russia/13nov2018/zapret.html)
-* [Более 4 млн русских рабов не могут выехать за границу из-за долгов (Dec 2020)](https://www.newsru.com/finance/06dec2020/rudebtors.html)
+* [7 млн русских рабов не могут выехать за границу из-за долгов (May 2021)](https://www.newsru.com/russia/19may2021/doljniki.html)
 
 <!-- ####################################################################### -->
 
