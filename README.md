@@ -485,6 +485,7 @@ https://zona.media/news/2018/01/17/cheb-nava), [Ярославль](https://twit
 * [В Москве и Подмосковье новая волна обысков у иеговистов (Feb 2021)](https://jw-ru.blogspot.com/2021/02/blog-post_75.html)
 * [70-летняя верующая из Свидетелей Иеговы получила 2 года колонии (Feb 2021, Валентина Барановская, Роман Барановский)](https://www.svoboda.org/a/31119817.html)
 * [73-летняя пенсионерка из Челябинска получила год условно за молитвы Богу Иегове (Mar 2021, Валентина Суворова)](https://www.znak.com/2021-03-12/73_letnyaya_pensionerka_iz_chelyabinska_poluchila_god_uslovno_za_molitvy_bogu_iegove)
+* [В Саратове 43-летнего последователя «Свидетелей Иеговы» отправили в колонию на два с половиной года (May 2021)](https://nversia.ru/news/v-saratove-43-letnego-posledovatelya-svideteley-iegovy-otpravili-v-koloniyu-na-dva-s-polovinoy-goda/)
 
 <!-- ####################################################################### -->
 
