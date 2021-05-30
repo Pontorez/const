@@ -682,11 +682,13 @@ https://zona.media/news/2018/01/17/cheb-nava), [Ярославль](https://twit
 * [Жителя Москвы задержали за шуточный пост об акции с фонариками](https://www.newsru.com/russia/02mar2021/urupin.html) (Mar 2021, Дмитрий Урюпин)
 * [Год тюрьмы и штраф 510 тыс. рублей](https://graniru.org/Society/Law/m.281173.html) за [видеоролик](http://pontorez.net/gramm) о суде над пУТИНЫМ (Mar 2021, Карим Ямадаев)
 * [Штраф 15 тыс. рублей за пост о вреде вышек 5G](https://polit.ru/news/2021/03/15/5G/) (Mar 2021)
+* [Штраф 30 тыс. рублей за публикацию коллажей с иконами](https://www.sova-center.ru/misuse/news/persecution/2021/03/d43893/) (Mar 2021)
 * [Инвалида из Саранска оштрафовали за репост обращения к пУТИНУ](https://7x7-journal.ru/news/2021/03/16/invalida-iz-saranska-oshtrafovali-za-repost-obrasheniya-k-vladimiru-putinu) (Mar 2021, Александр Фомин)
 * [Житель Новосибирска получил 7 лет колонии строгого режима за посты в Telegram](https://sibkray-ru.turbopages.org/sibkray.ru/s/news/1/942575/) (Apr 2021)
 * [Бывший координатор архангельского штаба Навального получил два с половиной года колонии за репост клипа Rammstein](https://meduza.io/news/2021/04/29/byvshiy-koordinator-arhangelskogo-shtaba-navalnogo-poluchil-dva-s-polovinoy-goda-kolonii-za-repost-klipa-rammstein) (Apr 2021, Андрей&#160;Боровиков)
 * [Жителя Тамбова, живущего на пенсию в 22 тысяч рублей, оштрафовали на полмиллиона за&#160;репост и&#160;участие в митинге](https://www.rosbalt.ru/russia/2021/04/29/1899862.html) (Apr 2021, Олег&#160;Бондарев)
 * [На жителя сибирского ЗАТО составили протокол о неуважении к власти из-за постов в «Одноклассниках»](https://ovdinfo.org/express-news/2021/05/06/na-zhitelya-sibirskogo-zato-sostavili-protokol-o-neuvazhenii-k-vlasti) (May 2021, Андрей Гутов)
+* [Жителя Тульской области оштрафовали за публикацию иконы Сталина](https://ovdinfo.org/express-news/2021/05/26/zhitelya-tulskoy-oblasti-oshtrafovali-za-publikaciyu-ikony-stalina) (May 2021, Дмитрий Бухаров)
 
 #### 2. Не допускаются пропаганда или агитация, возбуждающие социальную, расовую, национальную или&#160;религиозную ненависть и вражду
 * [Песков: Печень митингующих надо размазать по асфальту (May 2012)](https://graniru.org/Events/Crime/m.197585.html)
