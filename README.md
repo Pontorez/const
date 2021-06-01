@@ -690,6 +690,7 @@ https://zona.media/news/2018/01/17/cheb-nava), [Ярославль](https://twit
 * [Жителя Тамбова, живущего на пенсию в 22 тысяч рублей, оштрафовали на полмиллиона за&#160;репост и&#160;участие в митинге](https://www.rosbalt.ru/russia/2021/04/29/1899862.html) (Apr 2021, Олег&#160;Бондарев)
 * [На жителя сибирского ЗАТО составили протокол о неуважении к власти из-за постов в «Одноклассниках»](https://ovdinfo.org/express-news/2021/05/06/na-zhitelya-sibirskogo-zato-sostavili-protokol-o-neuvazhenii-k-vlasti) (May 2021, Андрей Гутов)
 * [Жителя Тульской области оштрафовали за публикацию иконы Сталина](https://ovdinfo.org/express-news/2021/05/26/zhitelya-tulskoy-oblasti-oshtrafovali-za-publikaciyu-ikony-stalina) (May 2021, Дмитрий Бухаров)
+* [6 лет лагерей за публикации в интернете](http://pontorez.net/svobodu-darye-poludovoy) (May 2021, Дарья Полюдова)
 
 #### 2. Не допускаются пропаганда или агитация, возбуждающие социальную, расовую, национальную или&#160;религиозную ненависть и вражду
 * [Песков: Печень митингующих надо размазать по асфальту (May 2012)](https://graniru.org/Events/Crime/m.197585.html)
@@ -913,7 +914,7 @@ https://zona.media/news/2018/01/17/cheb-nava), [Ярославль](https://twit
 * [Полиция завела дело на 74-летнюю пенсионерку за участие в акции в поддержку журналиста Ивана&#160;Голунова (Nov&#160;2019, Турана Варжабетьян)](https://amalgin.dreamwidth.org/7649662.html)
 * [В Сочи за одиночный пикет задержана председатель местного отделения «Альянса врачей» (Nov 2019, Юлия&#160;Волкова)](https://twitter.com/alyansvrachey/status/1200722367326109696)
 * [В Краснодаре задержали пикетчика с баннером «Чекист хуже фашиста» (Dec 2019, Виталий Молоданов)](https://www.newsru.com/russia/20dec2019/chekist.html)
-* [Уголовное дело (280.1 УК) за одиночный пикет (Jan 2020, Дарья Полюдова)](http://mirror-1.zapretno.info/piket-dari-polyudovoj/)
+* [Уголовное дело (280.1 УК) за одиночный пикет (Jan 2020, Дарья Полюдова)](https://zapretno.info/piket-dari-polyudovoj/)
 * [Арест на 15 суток за одиночный пикет (May 2020, Илья Азар)](https://meduza.io/feature/2020/05/28/ilya-poehal-v-spetspriemnik-gde-mnogo-lyudey-i-ne-provodyat-testirovanie-na-koronavirus)
 * [Штраф 200 тысяч рублей за одиночный пикет (Jun 2020, Евгений Сваровский)](https://ovdinfo.org/express-news/2020/06/22/v-moskve-sud-oshtrafoval-aktivista-na-200-tysyach-rubley-za-piket-u-zdaniya)
 * [В Гатчине священника-гея задержали за одиночный пикет (Jun 2020, Александр Хмелёв)](https://mukola.net/v-gatchine-svyaschennika-geya-zaderzhali-za-odinochnyy-piket/)
