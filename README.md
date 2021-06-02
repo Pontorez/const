@@ -495,6 +495,7 @@ https://zona.media/news/2018/01/17/cheb-nava), [Ярославль](https://twit
 * [Уголовное дело против несовершеннолетнего за «пропаганду нацизма» в интернете (Jun 2008)](https://www.interfax.ru/russia/16106)
 * [Савва Терентьев получил год условно за комментарий в ЖЖ (Jul 2008)](https://lurkmore.to/Неверные_менты)
 * [Уголовное дело из-за публикаций в интернете (Feb 2010, Сергей Крюков)](https://73online.ru/readnews/4741)
+* [Омич оштрафован за нацистский "Белый букварь" (Sep 2011)](https://bk55.ru/news/article/7771/)
 * [Самарца хотят отправить в психбольницу за картинку в соцсети (Aug 2013)](https://ru.publika.md/samarca-khotyat-otpravit-v-psikhbolnicu-za-kartinku-v-socseti_1007791.html)
 * [Возбуждено уголовное дело по ст. 282 из-за публикации в газете "Взятка" (Jul 2014, Эдуард Мочалов)](https://www.sova-center.ru/misuse/news/persecution/2014/07/d29956/)
 * [Ярославскому активисту назначена карательная психиатрия за публикацию во «ВКонтакте» (Oct 2014)](http://pontorez.net/yaroslavskiy-nacionalist)
