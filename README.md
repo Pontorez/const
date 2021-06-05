@@ -692,6 +692,7 @@ https://zona.media/news/2018/01/17/cheb-nava), [Ярославль](https://twit
 * [На жителя сибирского ЗАТО составили протокол о неуважении к власти из-за постов в «Одноклассниках»](https://ovdinfo.org/express-news/2021/05/06/na-zhitelya-sibirskogo-zato-sostavili-protokol-o-neuvazhenii-k-vlasti) (May 2021, Андрей Гутов)
 * [Жителя Тульской области оштрафовали за публикацию иконы Сталина](https://ovdinfo.org/express-news/2021/05/26/zhitelya-tulskoy-oblasti-oshtrafovali-za-publikaciyu-ikony-stalina) (May 2021, Дмитрий Бухаров)
 * [6 лет лагерей за публикации в интернете](http://pontorez.net/svobodu-darye-poludovoy) (May 2021, Дарья Полюдова)
+* [Арест из-за поста во «ВКонтакте»](https://www.sibreal.org/a/31251710.html) (May 2021, Максим Смольников)
 
 #### 2. Не допускаются пропаганда или агитация, возбуждающие социальную, расовую, национальную или&#160;религиозную ненависть и вражду
 * [Песков: Печень митингующих надо размазать по асфальту (May 2012)](https://graniru.org/Events/Crime/m.197585.html)
