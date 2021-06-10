@@ -689,6 +689,7 @@ https://zona.media/news/2018/01/17/cheb-nava), [Ярославль](https://twit
 * [Житель Новосибирска получил 7 лет колонии строгого режима за посты в Telegram](https://sibkray-ru.turbopages.org/sibkray.ru/s/news/1/942575/) (Apr 2021)
 * [Бывший координатор архангельского штаба Навального получил два с половиной года колонии за репост клипа Rammstein](https://meduza.io/news/2021/04/29/byvshiy-koordinator-arhangelskogo-shtaba-navalnogo-poluchil-dva-s-polovinoy-goda-kolonii-za-repost-klipa-rammstein) (Apr 2021, Андрей&#160;Боровиков)
 * [Жителя Тамбова, живущего на пенсию в 22 тысяч рублей, оштрафовали на полмиллиона за&#160;репост и&#160;участие в митинге](https://www.rosbalt.ru/russia/2021/04/29/1899862.html) (Apr 2021, Олег&#160;Бондарев)
+* [Москвич арестован на 10 суток за «Бритоголовых москвичек»](https://pn14.info/?p=197747) (May 2021)
 * [На жителя сибирского ЗАТО составили протокол о неуважении к власти из-за постов в «Одноклассниках»](https://ovdinfo.org/express-news/2021/05/06/na-zhitelya-sibirskogo-zato-sostavili-protokol-o-neuvazhenii-k-vlasti) (May 2021, Андрей Гутов)
 * [Жителя Тульской области оштрафовали за публикацию иконы Сталина](https://ovdinfo.org/express-news/2021/05/26/zhitelya-tulskoy-oblasti-oshtrafovali-za-publikaciyu-ikony-stalina) (May 2021, Дмитрий Бухаров)
 * [6 лет лагерей за публикации в интернете](http://pontorez.net/svobodu-darye-poludovoy) (May 2021, Дарья Полюдова)
