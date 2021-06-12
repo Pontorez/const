@@ -28,11 +28,10 @@ DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=rkn.gov.ru; s=dkim;
 	b=eKGIcvlrYzaaf46j4F/2jSd1oIFQppoR7stCBli12kWTOklcJeHsn5ETyUgqCIZSH
 	 wz4HtnFffYSizx0yspNMYvcitSKLCZrANvTiJ8+R9kRDZLJNrliWUIeDPncBgWt3h0
 	 wQaml0coVSFr3zYWMkULrgNBDPACxbg3tn1sg7EI=
-From: =?utf-8?b?0KDQvtGB0LrQvtC80L3QsNC00LfQvtGA?= <zapret-info-out@rkn.gov.ru>
+From: Роскомнадзор <zapret-info-out@rkn.gov.ru>
 To: <pontorez@hotmail.com>, <abuse@dedipath.com>
-Subject: =?UTF-8?B?W2VhaXMjMTQ4MTQ0Nl0g0KDQvtGB0LrQvtC80L3QsNC00LfQvtGAINC40L3RhNC+0YDQvNC40YDRg9C10YIvdGhlIFJvc2NvbW5hZHpvciBpcyBpbmZvcm1pbmc=?=
-Content-Type: multipart/mixed;
- boundary="f5b4cb69d788ed1b37d7ac2637af9571"
+Subject: [eais#1481446] Роскомнадзор информирует/the Roscomnadzor is informing
+Content-Type: multipart/mixed; boundary="f5b4cb69d788ed1b37d7ac2637af9571"
 Date: Sat, 12 Jun 2021 19:10:20 +0300 (MSK)
 
 Направляется уведомление о внесении в «Единый реестр доменных имен, указателей страниц сайтов в сети «Интернет» и сетевых адресов, позволяющих идентифицировать сайты в сети «Интернет», содержащие информацию, распространение которой в Российской Федерации запрещено» следующего(их) указателя (указателей) страницы (страниц) сайта в сети «Интернет»: https://pontorez.net/zovu .
