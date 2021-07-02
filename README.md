@@ -927,12 +927,13 @@ https://zona.media/news/2018/01/17/cheb-nava), [Ярославль](https://twit
 * [Участниц пикета против домашнего насилия больше 10 часов продержали в автозаке (Nov 2020)](https://www.newsru.com/russia/28nov2020/tenhours.html)
 * [Режиссера Виталия Манского задержали у здания ФСБ за одиночный пикет с трусами (Dec 2020)](https://www.newsru.com/russia/22dec2020/mansky_trunks.html)
 * [Депутат Юлия Галямина получила 2 года условно за участие в митинге (Dec 2020)](https://www.rbc.ru/society/23/12/2020/5fe2fc8e9a79475f9268e6ae)
-* [На акциях в поддержку Алексея Навального 23 января задержано более 4000 человек (Jan 2020)](https://ovdinfo.org/news/2021/01/23/spisok-zaderzhannyh-na-akciyah-v-podderzhku-alekseya-navalnogo-23-yanvarya-2021-goda)
-* [На акциях в поддержку Алексея Навального 31 января задержано более 5700 человек (Jan 2020)](https://ovdinfo.org/articles/2021/01/31/vtoraya-vserossiyskaya-akciya-protesta-svobodu-navalnomu-itogi-31-yanvarya)
-* [На акциях протеста в связи с судилищем над Навальным задержано более 1400 человек (Feb 2020)](https://ovdinfo.org/news/2021/02/02/spisok-zaderzhannyh-v-svyazi-s-sudom-nad-alekseem-navalnym-2-fevralya-2021-goda)
-* [В Москве задержали 25 участников акции в форме ОМОНа, охранявших слово "свобода" (Feb 2020)](https://www.newsru.com/russia/05feb2021/freedom_ohran.html)
-* [В Улан‑Удэ пенсионерку оштрафовали на 250 тысяч рублей за акцию протеста 31 января (Feb 2020)](https://zona.media/news/2021/02/09/filonova)
-* [Возле мемориала Борису Немцову в Москве прошли задержания (Feb 2020)](https://www.newsru.com/russia/20feb2021/memor_arrests.html)
+* [На акциях в поддержку Алексея Навального 23 января задержано более 4000 человек (Jan 2021)](https://ovdinfo.org/news/2021/01/23/spisok-zaderzhannyh-na-akciyah-v-podderzhku-alekseya-navalnogo-23-yanvarya-2021-goda)
+* [На акциях в поддержку Алексея Навального 31 января задержано более 5700 человек (Jan 2021)](https://ovdinfo.org/articles/2021/01/31/vtoraya-vserossiyskaya-akciya-protesta-svobodu-navalnomu-itogi-31-yanvarya)
+* [На акциях протеста в связи с судилищем над Навальным задержано более 1400 человек (Feb 2021)](https://ovdinfo.org/news/2021/02/02/spisok-zaderzhannyh-v-svyazi-s-sudom-nad-alekseem-navalnym-2-fevralya-2021-goda)
+* [В Москве задержали 25 участников акции в форме ОМОНа, охранявших слово "свобода" (Feb 2021)](https://www.newsru.com/russia/05feb2021/freedom_ohran.html)
+* [В Улан‑Удэ пенсионерку оштрафовали на 250 тысяч рублей за акцию протеста 31 января (Feb 2021)](https://zona.media/news/2021/02/09/filonova)
+* [Возле мемориала Борису Немцову в Москве прошли задержания (Feb 2021)](https://www.newsru.com/russia/20feb2021/memor_arrests.html)
+* [В Москве у мемориала Борису Немцову задержали участника одиночного пикета (Jul 2021)](https://ovdinfo.org/express-news/2021/07/01/v-moskve-u-memoriala-borisu-nemcovu-zaderzhali-uchastnika-odinochnogo-piketa)
 
 <!-- ####################################################################### -->
 
