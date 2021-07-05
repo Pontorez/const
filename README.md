@@ -677,6 +677,7 @@ https://zona.media/news/2018/01/17/cheb-nava), [Ярославль](https://twit
 * [7 суток ареста за публикации в Instagram](https://ovdinfo.org/express-news/2020/11/20/zhitelya-vladivostoka-arestovali-na-7-sutok-iz-za-postov-v-instagrame-s) (Nov 2020, Гия Какабадзе)
 * [4 года тюрьмы за публикации во «ВКонтакте»](https://www.kavkaz-uzel.eu/articles/356802/) (Nov 2020, Валерий Клименченко)
 * [Возбуждено административное дело за пост в Instagram](https://zapretno.info/delo-anastasii-panchenko-post-o-putine/) (Dec 2020, Анастасия Панченко)
+* Пермского рок-музыканта [осудили](https://zwezda.su/society/2021/01/permskogo-rok-muzykanta-osudili-za-pesnyu-protiv-policii) за песню [FACER - Мое Правосудие](http://pontorez.net/facer~moe~pravosudie) (Jan 2021, Денис О.)
 * [Штраф 75 тыс. рублей за т.н. «оскорбление чувств верующих» во «ВКонтакте»](http://istoki.tv/news/people/muzhchinu-osudili-za-oskorblenie-chuvstv-veruyushchikh-na-orlovshchine/) (Jan 2021)
 * [В Москве задержали оператора ФБК Павла Зеленского из-за «экстремистского» твита о самосожжении журналистки Ирины Славиной](https://www.newsru.com/russia/15jan2021/zelensky.html) (Jan&#160;2021)
 * [Петербургский активист получил 7 суток за пост во «ВКонтакте» о митинге](https://www.dp.ru/a/2021/01/29/Peterburgskij_aktivist_po) (Jan 2021, Александр Тонконогов)
@@ -770,6 +771,7 @@ https://zona.media/news/2018/01/17/cheb-nava), [Ярославль](https://twit
 * [Банда «Роскомнадзор» начала рассылать СМИ требование удалять новости о «флешмобе с фонариками»](https://www.newsru.com/russia/12feb2021/remove.html) (Feb 2021)
 * Банда «Роскомнадзор» [заблокировала](https://www.newsru.com/russia/14feb2021/spektr.html) сайт издания "Спектр" из-за [статьи](http://pontorez.net/ohota-na-volkova) о Леониде Волкове и воскресной акции (Feb 2021)
 * Сайт издания The Vyshka [заблокировали](https://ovdinfo.org/express-news/2021/03/07/sayt-izdaniya-vyshka-zablokirovali-po-resheniyu-mvd-iz-za-materiala-o) по решению МВД из-за [материала о кладмене](http://pontorez.net/ya-rabotala-kladmenom) (Mar 2021)
+
 <!-- ####################################################################### -->
 
 ### Статья 30
