@@ -697,6 +697,7 @@ https://zona.media/news/2018/01/17/cheb-nava), [Ярославль](https://twit
 * [6 лет лагерей за публикации в интернете](http://pontorez.net/svobodu-darye-poludovoy) (May 2021, Дарья Полюдова)
 * [Арест из-за поста во «ВКонтакте»](https://www.sibreal.org/a/31251710.html) (May 2021, Максим Смольников)
 * [Петербуржцу назначили штраф и карательную психиатрию за посты о Михаиле Жлобицком](https://memohrc.org/ru/news_old/peterburzhcu-naznachili-shtraf-i-prinuditelnoe-lechenie-za-posty-o-mihaile-zhlobickom) (Jun 2021, Александр Меркулов)
+* [Журналистку из Барнаула оштрафовали на 75 тысяч рублей за пост о пУТИНЕ](https://www.sibreal.org/a/jurnalistku-oshtrafovali-za-storis-o-putine/31318659.html) (Jun 2021, Мария Пономаренко)
 * [пУТИН запретил отождествлять роль СССР и нацистской Германии](https://lenta.ru/news/2021/07/01/zapret/) (Jul 2021)
 * [Житель Кубани приговорен к четырем годам и месяцу колонии за комментарии в соцсети](https://www.kavkaz-uzel.eu/articles/365741/) (Jul 2021, Пётр Беляков)
 
