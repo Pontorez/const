@@ -496,9 +496,9 @@ https://zona.media/news/2018/01/17/cheb-nava), [Ярославль](https://twit
 * [Савва Терентьев получил год условно за комментарий в ЖЖ (Jul 2008)](https://lurkmore.to/Неверные_менты)
 * [Уголовное дело из-за публикаций в интернете (Feb 2010, Сергей Крюков)](https://73online.ru/readnews/4741)
 * [Омич оштрафован за нацистский "Белый букварь" (Sep 2011)](https://bk55.ru/news/article/7771/)
-* [Самарца хотят отправить в психбольницу за картинку в соцсети (Aug 2013)](https://ru.publika.md/samarca-khotyat-otpravit-v-psikhbolnicu-za-kartinku-v-socseti_1007791.html)
+* [Самарца хотят отправить в психиатрический концлагерь за картинку в соцсети (Aug 2013)](https://ru.publika.md/samarca-khotyat-otpravit-v-psikhbolnicu-za-kartinku-v-socseti_1007791.html)
 * [Возбуждено уголовное дело по ст. 282 из-за публикации в газете "Взятка" (Jul 2014, Эдуард Мочалов)](https://www.sova-center.ru/misuse/news/persecution/2014/07/d29956/)
-* [Ярославскому активисту назначена карательная психиатрия за публикацию во «ВКонтакте» (Oct 2014)](http://pontorez.net/yaroslavskiy-nacionalist)
+* [Ярославского активиста отправили в психиатрический концлагерь за публикацию во «ВКонтакте» (Oct 2014)](http://pontorez.net/yaroslavskiy-nacionalist)
 * [Татарский активист Рафис Кашапов был приговорен к трём годам ГУЛАГа за мыслепреступления (Jan 2015)](https://www.svoboda.org/a/27249237.html)
 * [Активист партии «Другая Россия» получил 3 года ГУЛАГа за репост в соцсети (May 2015, Сергей Панарин)](https://www.sibreal.org/a/29630199.html)
 * [В Новгородской области студента привлекли к ответственности за размещение во «ВКонтакте» песни чеченского барда (Jun 2015)](https://vnnews.ru/proishestviai/43904-v-novgorodskoie-oblasti-studenta-privlekli-k-otvetstvennosti-iz-za-pesni-chechenskogo-barda.html)
@@ -698,6 +698,7 @@ https://zona.media/news/2018/01/17/cheb-nava), [Ярославль](https://twit
 * [Арест из-за поста во «ВКонтакте»](https://www.sibreal.org/a/31251710.html) (May 2021, Максим Смольников)
 * [Петербуржцу назначили штраф и карательную психиатрию за посты о Михаиле Жлобицком](https://memohrc.org/ru/news_old/peterburzhcu-naznachili-shtraf-i-prinuditelnoe-lechenie-za-posty-o-mihaile-zhlobickom) (Jun 2021, Александр Меркулов)
 * [пУТИН запретил отождествлять роль СССР и нацистской Германии](https://lenta.ru/news/2021/07/01/zapret/) (Jul 2021)
+* [Житель Кубани приговорен к четырем годам и месяцу колонии за комментарии в соцсети](https://www.kavkaz-uzel.eu/articles/365741/) (Jul 2021, Пётр Беляков)
 
 #### 2. Не допускаются пропаганда или агитация, возбуждающие социальную, расовую, национальную или&#160;религиозную ненависть и вражду
 * [Песков: Печень митингующих надо размазать по асфальту (May 2012)](https://graniru.org/Events/Crime/m.197585.html)
