@@ -737,6 +737,7 @@ https://zona.media/news/2018/01/17/cheb-nava), [Ярославль](https://twit
 * [Мосгорсуд распорядился заблокировать на России научные сайты Sci-Hub и LibGen (Nov 2018)](https://zona.media/news/2018/11/16/copyright)
 * [Долг Венесуэлы перед Россией решили засекретить (Apr 2019)](https://lenta.ru/news/2019/04/03/venezolana/)
 * [Кадыровцы схватили 25 человек](https://www.kavkazcenter.com/russ/content/2020/01/26/118731/kadyrovtsy-skhvatili-podrostkov-za-fotoshop--fsb-svirepstvuet-v-dagestane--vlasti-ukrainy-ne-dayut-grazhdanstvo-dobrovoltsam--frantsiya-khochet-vydat-rossii-dvukh-chechentsev-.shtml), в основном подростков, из-за [коллажа](http://pontorez.net/collage) на Кадырова в одеянии русского попа́ (Jan&#160;2020)
+* [Жительницу Сургута оштрафовали за "пропаганду неполноценности" российских чиновников (Dec 2021)](https://www.sibreal.org/a/zhitelnitsu-surguta-oshtrafovali-za-propagandu-nepolnotsennosti-rossiyskih-chinovnikov/31627930.html)
 
 #### 5. Гарантируется свобода массовой информации. Цензура запрещается.
 * [96 % сайтов в Рунете «блокируются» незаконно](http://www.towave.ru/news/96-saitov-v-runete-blokiruyutsya-nezakonno.html)
